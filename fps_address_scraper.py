@@ -10,28 +10,21 @@ import os
 @retry(tries=2, delay=1)
 def proxied_request(url):
     PROXY_URL = 'https://proxy.scrapeops.io/v1/'
-    try:
-        response = requests.get(
-            url=PROXY_URL,
-            params={
-                'api_key': SCRAPEOPS,
-                'url': url,
-                'country': 'us',
-                'bypass': 'cloudflare_level_3',
-            },
-            # timeout=60
-        )
-        if response.status_code != 200:
-            log.error(f"Could not get successful response. Status code {response.status_code}. {response.text}")
-            raise Exception(f"Request failed. Status code {response.status_code}")
-        log.info(f"Got successful response from {url}")
-        return response
-    except KeyboardInterrupt:
-        log.error("Keyboard interruption during proxied request.")
-        raise
-    except Exception as e:
-        log.error(f"Exception during proxied request: {e}")
-        raise
+    response = requests.get(
+        url=PROXY_URL,
+        params={
+            'api_key': SCRAPEOPS,
+            'url': url,
+            'country': 'us',
+            'bypass': 'cloudflare_level_3',
+        },
+        # timeout=60
+    )
+    if response.status_code != 200:
+        log.error(f"Could not get successful response. Status code {response.status_code}. {response.text}")
+        raise Exception(f"Request failed. Status code {response.status_code}")
+    log.info(f"Got successful response from {url}")
+    return response
 
 street_suffixes = {
     'boulevard': 'blvd',
