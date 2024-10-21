@@ -1,0 +1,86 @@
+[2024-10-21 06:18:26,629] [INFO] [fps_address_scraper.py:54] Original address: 1 Hebron Station Cir
+[2024-10-21 06:18:26,629] [INFO] [fps_address_scraper.py:64] Standardized address: 1 Hebron Station Cir
+[2024-10-21 06:18:26,657] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/1 because already scraped.
+[2024-10-21 06:18:26,682] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/2 because already scraped.
+[2024-10-21 06:18:26,708] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/3 because already scraped.
+[2024-10-21 06:18:26,734] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/4 because already scraped.
+[2024-10-21 06:18:26,759] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/5 because already scraped.
+[2024-10-21 06:18:26,785] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/6 because already scraped.
+[2024-10-21 06:18:26,810] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/7 because already scraped.
+[2024-10-21 06:18:26,836] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/8 because already scraped.
+[2024-10-21 06:18:26,863] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/9 because already scraped.
+[2024-10-21 06:18:26,888] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/10 because already scraped.
+[2024-10-21 06:18:26,914] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/11 because already scraped.
+[2024-10-21 06:18:26,940] [INFO] [fps_address_scraper.py:190] Scraping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/12
+[2024-10-21 06:18:46,023] [INFO] [fps_address_scraper.py:27] Got successful response from https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/12
+[2024-10-21 06:18:46,044] [INFO] [fps_address_scraper.py:54] Original address: 1 Hermann Park Ct
+[2024-10-21 06:18:46,045] [INFO] [fps_address_scraper.py:64] Standardized address: 1 Hermann Park Ct
+[2024-10-21 06:18:46,071] [INFO] [fps_address_scraper.py:190] Scraping https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/1
+[2024-10-21 06:20:41,978] [ERROR] [fps_address_scraper.py:25] Could not get successful response. Status code 500. {"status":"Failed to get successful response from website. Please retry the request."}
+[2024-10-21 06:20:41,979] [ERROR] [fps_address_scraper.py:33] Exception during proxied request: Request failed. Status code 500
+[2024-10-21 06:20:41,979] [WARNING] [api.py:40] Request failed. Status code 500, retrying in 1 seconds...
+[2024-10-21 06:22:00,805] [INFO] [fps_address_scraper.py:27] Got successful response from https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/1
+[2024-10-21 06:22:00,993] [INFO] [fps_address_scraper.py:98] Saved 10 entries in result_file/output_chunk_1.xlsx
+[2024-10-21 06:22:01,021] [INFO] [fps_address_scraper.py:190] Scraping https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/2
+[2024-10-21 06:22:38,030] [ERROR] [fps_address_scraper.py:30] Keyboard interruption during proxied request.
+[2024-10-21 06:22:38,030] [ERROR] [fps_address_scraper.py:106] Keyboard interruption during scraping.
+[2024-10-21 06:22:38,030] [ERROR] [fps_address_scraper.py:197] Keyboard interruption during pagination scraping.
+[2024-10-21 06:22:38,030] [ERROR] [fps_address_scraper.py:204] Keyboard interruption. Exiting loop.
+[2024-10-21 06:22:38,031] [ERROR] [fps_address_scraper.py:216] Keyboard interruption. Exiting the script.
+[2024-10-21 15:11:35,299] [INFO] [fps_address_scraper.py:54] Original address: 1 Hebron Station Cir
+[2024-10-21 15:11:35,300] [INFO] [fps_address_scraper.py:64] Standardized address: 1 Hebron Station Cir
+[2024-10-21 15:11:35,334] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/1 because already scraped.
+[2024-10-21 15:11:35,361] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/2 because already scraped.
+[2024-10-21 15:11:35,389] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/3 because already scraped.
+[2024-10-21 15:11:35,416] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/4 because already scraped.
+[2024-10-21 15:11:35,444] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/5 because already scraped.
+[2024-10-21 15:11:35,471] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/6 because already scraped.
+[2024-10-21 15:11:35,498] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/7 because already scraped.
+[2024-10-21 15:11:35,525] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/8 because already scraped.
+[2024-10-21 15:11:35,553] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/9 because already scraped.
+[2024-10-21 15:11:35,580] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/10 because already scraped.
+[2024-10-21 15:11:35,607] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/11 because already scraped.
+[2024-10-21 15:11:35,635] [INFO] [fps_address_scraper.py:190] Scraping https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/12
+[2024-10-21 15:12:52,956] [INFO] [fps_address_scraper.py:27] Got successful response from https://www.fastpeoplesearch.com/address/1-hebron-station-cir_lewisville-tx/page/12
+[2024-10-21 15:12:52,979] [INFO] [fps_address_scraper.py:54] Original address: 1 Hermann Park Ct
+[2024-10-21 15:12:52,979] [INFO] [fps_address_scraper.py:64] Standardized address: 1 Hermann Park Ct
+[2024-10-21 15:12:53,027] [INFO] [fps_address_scraper.py:187] Skipping https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/1 because already scraped.
+[2024-10-21 15:12:53,054] [INFO] [fps_address_scraper.py:190] Scraping https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/2
+[2024-10-21 15:13:14,509] [INFO] [fps_address_scraper.py:27] Got successful response from https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/2
+[2024-10-21 15:13:14,678] [INFO] [fps_address_scraper.py:98] Saved 10 entries in result_file/output_chunk_1.xlsx
+[2024-10-21 15:13:14,707] [INFO] [fps_address_scraper.py:190] Scraping https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/3
+[2024-10-21 15:15:10,655] [ERROR] [fps_address_scraper.py:25] Could not get successful response. Status code 500. {"status":"Failed to get successful response from website. Please retry the request."}
+[2024-10-21 15:15:10,655] [ERROR] [fps_address_scraper.py:33] Exception during proxied request: Request failed. Status code 500
+[2024-10-21 15:15:10,655] [WARNING] [api.py:40] Request failed. Status code 500, retrying in 1 seconds...
+[2024-10-21 15:16:49,461] [ERROR] [fps_address_scraper.py:25] Could not get successful response. Status code 500. {"status":"Failed to get successful response from website. Please retry the request."}
+[2024-10-21 15:16:49,462] [ERROR] [fps_address_scraper.py:33] Exception during proxied request: Request failed. Status code 500
+[2024-10-21 15:16:49,462] [ERROR] [fps_address_scraper.py:109] Exception during scraping page data: Request failed. Status code 500
+[2024-10-21 15:16:49,526] [INFO] [fps_address_scraper.py:98] Saved 1 entries in result_file/output_chunk_1.xlsx
+[2024-10-21 15:16:49,555] [INFO] [fps_address_scraper.py:190] Scraping https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/4
+[2024-10-21 15:18:13,623] [INFO] [fps_address_scraper.py:27] Got successful response from https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/4
+[2024-10-21 15:18:13,787] [INFO] [fps_address_scraper.py:98] Saved 10 entries in result_file/output_chunk_1.xlsx
+[2024-10-21 15:18:13,818] [INFO] [fps_address_scraper.py:190] Scraping https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/5
+[2024-10-21 15:18:35,414] [INFO] [fps_address_scraper.py:27] Got successful response from https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/5
+[2024-10-21 15:18:35,606] [INFO] [fps_address_scraper.py:98] Saved 10 entries in result_file/output_chunk_1.xlsx
+[2024-10-21 15:18:35,637] [INFO] [fps_address_scraper.py:190] Scraping https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/6
+[2024-10-21 15:18:57,323] [INFO] [fps_address_scraper.py:27] Got successful response from https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/6
+[2024-10-21 15:18:57,488] [INFO] [fps_address_scraper.py:98] Saved 10 entries in result_file/output_chunk_1.xlsx
+[2024-10-21 15:18:57,520] [INFO] [fps_address_scraper.py:190] Scraping https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/7
+[2024-10-21 15:19:47,921] [INFO] [fps_address_scraper.py:27] Got successful response from https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/7
+[2024-10-21 15:19:48,091] [INFO] [fps_address_scraper.py:98] Saved 10 entries in result_file/output_chunk_1.xlsx
+[2024-10-21 15:19:48,127] [INFO] [fps_address_scraper.py:190] Scraping https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/8
+[2024-10-21 15:20:09,740] [INFO] [fps_address_scraper.py:27] Got successful response from https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/8
+[2024-10-21 15:20:09,953] [INFO] [fps_address_scraper.py:98] Saved 10 entries in result_file/output_chunk_1.xlsx
+[2024-10-21 15:20:09,992] [INFO] [fps_address_scraper.py:190] Scraping https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/9
+[2024-10-21 15:21:18,741] [ERROR] [fps_address_scraper.py:25] Could not get successful response. Status code 500. {"status":"Failed to get successful response from website. Please retry the request."}
+[2024-10-21 15:21:18,741] [ERROR] [fps_address_scraper.py:33] Exception during proxied request: Request failed. Status code 500
+[2024-10-21 15:21:18,742] [WARNING] [api.py:40] Request failed. Status code 500, retrying in 1 seconds...
+[2024-10-21 15:21:41,001] [INFO] [fps_address_scraper.py:27] Got successful response from https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/9
+[2024-10-21 15:21:41,176] [INFO] [fps_address_scraper.py:98] Saved 10 entries in result_file/output_chunk_1.xlsx
+[2024-10-21 15:21:41,216] [INFO] [fps_address_scraper.py:190] Scraping https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/10
+[2024-10-21 15:23:32,658] [INFO] [fps_address_scraper.py:27] Got successful response from https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/10
+[2024-10-21 15:23:32,852] [INFO] [fps_address_scraper.py:98] Saved 10 entries in result_file/output_chunk_1.xlsx
+[2024-10-21 15:23:32,893] [INFO] [fps_address_scraper.py:190] Scraping https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/11
+[2024-10-21 15:24:19,191] [INFO] [fps_address_scraper.py:27] Got successful response from https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/11
+[2024-10-21 15:24:19,409] [INFO] [fps_address_scraper.py:98] Saved 10 entries in result_file/output_chunk_1.xlsx
+[2024-10-21 15:24:19,451] [INFO] [fps_address_scraper.py:190] Scraping https://www.fastpeoplesearch.com/address/1-hermann-park-ct_houston-tx/page/12
