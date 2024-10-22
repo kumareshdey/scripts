@@ -69,7 +69,7 @@ def any_prior_home_address_matches_address_searched(prev_addresses, address):
     return any(address.lower() in prev_address.lower() for prev_address in prev_addresses)
 
 def save_data(rows, file_name):
-    result_excel_file_path = "result_file/" + file_name
+    result_excel_file_path = "/home/ubuntu/scripts/result_file/" + file_name
     df = pd.DataFrame(rows).astype(str)  # Convert all data to string
     
     if os.path.exists(result_excel_file_path):
