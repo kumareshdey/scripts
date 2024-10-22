@@ -173,6 +173,7 @@ def url_is_present_in_file(url, file_name):
         return url in data['URL'].values
     except:
         return False
+    
 
 def get_me_data(url, row, file_name):
     i = 1
@@ -205,7 +206,17 @@ if __name__ == '__main__':
         import sys
         file = sys.argv[1]
         df = pd.read_excel(file)
-        for index, row in df.iterrows():
+        output_file = file.replace('files', 'result_file')
+        if os.path.exists(output_file):
+            odf = pd.read_excel(output_file)
+            addresses = odf['Street'].unique().tolist()
+            start = len(addresses) - 1
+        else:
+            start = 0
+            
+        for index in range(start, len(df)):
+            log.info(f"{file.split('/')[-1]}. Scraping {index+1} of {len(df)}")
+            row = df.iloc[index]
             url = generate_url(row)
             get_me_data(url, row, file.split('/')[-1])
     except KeyboardInterrupt:
