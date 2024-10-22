@@ -1713,3 +1713,590 @@
 2024-10-22 18:15:40,599 INFO exited: script_10 (exit status 0; expected)
 2024-10-22 18:15:41,037 INFO spawned: 'script_10' with pid 2082
 2024-10-22 18:15:41,038 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:15:42,054 INFO spawned: 'script_1' with pid 2083
+2024-10-22 18:15:42,054 INFO success: script_10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:15:43,091 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:15:43,429 INFO exited: script_8 (exit status 0; expected)
+2024-10-22 18:15:43,618 INFO spawned: 'script_8' with pid 2084
+2024-10-22 18:15:44,408 INFO exited: script_5 (exit status 0; expected)
+2024-10-22 18:15:44,693 INFO spawned: 'script_5' with pid 2085
+2024-10-22 18:15:44,694 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:15:44,694 INFO exited: script_3 (exit status 0; expected)
+2024-10-22 18:15:44,939 INFO spawned: 'script_3' with pid 2086
+2024-10-22 18:15:44,939 INFO exited: script_9 (exit status 0; expected)
+2024-10-22 18:15:45,056 INFO spawned: 'script_9' with pid 2087
+2024-10-22 18:15:45,056 INFO exited: script_7 (exit status 0; expected)
+2024-10-22 18:15:45,080 INFO spawned: 'script_7' with pid 2088
+2024-10-22 18:15:46,284 INFO success: script_3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:15:46,284 INFO success: script_5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:15:46,284 INFO success: script_7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:15:46,284 INFO success: script_9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:15:46,673 INFO exited: script_6 (exit status 0; expected)
+2024-10-22 18:15:46,753 INFO spawned: 'script_6' with pid 2089
+2024-10-22 18:15:46,753 INFO exited: script_4 (exit status 0; expected)
+2024-10-22 18:15:47,365 INFO spawned: 'script_4' with pid 2090
+2024-10-22 18:15:48,063 INFO success: script_6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:15:48,371 INFO success: script_4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:15:48,796 INFO exited: script_2 (exit status 0; expected)
+2024-10-22 18:15:49,484 INFO spawned: 'script_2' with pid 2092
+2024-10-22 18:15:49,484 INFO exited: script_10 (exit status 0; expected)
+2024-10-22 18:15:49,676 INFO spawned: 'script_10' with pid 2093
+2024-10-22 18:15:49,676 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:15:50,693 INFO spawned: 'script_1' with pid 2096
+2024-10-22 18:15:50,694 INFO success: script_10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:15:50,694 INFO success: script_2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:15:51,968 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:15:52,493 INFO exited: script_8 (exit status 0; expected)
+2024-10-22 18:15:52,563 INFO spawned: 'script_8' with pid 2097
+2024-10-22 18:15:53,672 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:15:53,757 INFO exited: script_9 (exit status 0; expected)
+2024-10-22 18:15:53,864 INFO spawned: 'script_9' with pid 2098
+2024-10-22 18:15:53,864 INFO exited: script_7 (exit status 0; expected)
+2024-10-22 18:15:54,464 INFO spawned: 'script_7' with pid 2099
+2024-10-22 18:15:54,464 INFO exited: script_5 (exit status 0; expected)
+2024-10-22 18:15:54,576 INFO spawned: 'script_5' with pid 2100
+2024-10-22 18:15:54,935 INFO success: script_9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:15:54,935 INFO exited: script_3 (exit status 0; expected)
+2024-10-22 18:15:55,751 INFO spawned: 'script_3' with pid 2101
+2024-10-22 18:15:55,751 INFO success: script_5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:15:55,751 INFO success: script_7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:15:55,751 INFO exited: script_6 (exit status 0; expected)
+2024-10-22 18:15:56,203 INFO spawned: 'script_6' with pid 2102
+2024-10-22 18:15:57,081 INFO success: script_3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:15:57,581 INFO success: script_6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:15:57,581 INFO exited: script_4 (exit status 0; expected)
+2024-10-22 18:15:58,255 INFO spawned: 'script_4' with pid 2103
+2024-10-22 18:15:58,255 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:15:58,266 INFO spawned: 'script_1' with pid 2104
+2024-10-22 18:15:58,364 INFO exited: script_10 (exit status 0; expected)
+2024-10-22 18:15:59,366 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:15:59,374 INFO spawned: 'script_10' with pid 2109
+2024-10-22 18:15:59,374 INFO success: script_4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:15:59,555 INFO exited: script_2 (exit status 0; expected)
+2024-10-22 18:15:59,801 INFO spawned: 'script_2' with pid 2110
+2024-10-22 18:16:00,818 INFO success: script_10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:00,818 INFO success: script_2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:01,138 INFO exited: script_8 (exit status 0; expected)
+2024-10-22 18:16:01,690 INFO spawned: 'script_8' with pid 2111
+2024-10-22 18:16:02,229 INFO exited: script_9 (exit status 0; expected)
+2024-10-22 18:16:02,964 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:02,974 INFO spawned: 'script_9' with pid 2112
+2024-10-22 18:16:03,032 INFO exited: script_7 (exit status 0; expected)
+2024-10-22 18:16:03,430 INFO spawned: 'script_7' with pid 2113
+2024-10-22 18:16:04,418 INFO success: script_9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:04,424 INFO success: script_7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:04,424 INFO exited: script_5 (exit status 0; expected)
+2024-10-22 18:16:04,573 INFO spawned: 'script_5' with pid 2114
+2024-10-22 18:16:04,843 INFO exited: script_6 (exit status 0; expected)
+2024-10-22 18:16:05,829 INFO success: script_5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:05,842 INFO spawned: 'script_6' with pid 2115
+2024-10-22 18:16:05,849 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:16:05,873 INFO spawned: 'script_1' with pid 2116
+2024-10-22 18:16:05,906 INFO exited: script_3 (exit status 0; expected)
+2024-10-22 18:16:06,440 INFO spawned: 'script_3' with pid 2117
+2024-10-22 18:16:06,847 INFO success: script_6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:07,843 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:07,843 INFO success: script_3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:07,843 INFO exited: script_10 (exit status 0; expected)
+2024-10-22 18:16:08,239 INFO spawned: 'script_10' with pid 2118
+2024-10-22 18:16:08,239 INFO exited: script_4 (exit status 0; expected)
+2024-10-22 18:16:08,344 INFO spawned: 'script_4' with pid 2119
+2024-10-22 18:16:09,672 INFO success: script_10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:09,672 INFO success: script_4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:09,672 INFO exited: script_2 (exit status 0; expected)
+2024-10-22 18:16:10,162 INFO spawned: 'script_2' with pid 2120
+2024-10-22 18:16:10,162 INFO exited: script_8 (exit status 0; expected)
+2024-10-22 18:16:10,392 INFO spawned: 'script_8' with pid 2121
+2024-10-22 18:16:11,542 INFO success: script_2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:11,542 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:11,840 INFO exited: script_7 (exit status 0; expected)
+2024-10-22 18:16:11,866 INFO spawned: 'script_7' with pid 2122
+2024-10-22 18:16:11,866 INFO exited: script_9 (exit status 0; expected)
+2024-10-22 18:16:12,340 INFO spawned: 'script_9' with pid 2123
+2024-10-22 18:16:13,031 INFO success: script_7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:13,697 INFO success: script_9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:13,707 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:16:14,476 INFO spawned: 'script_1' with pid 2127
+2024-10-22 18:16:14,476 INFO exited: script_5 (exit status 0; expected)
+2024-10-22 18:16:14,482 INFO spawned: 'script_5' with pid 2128
+2024-10-22 18:16:14,483 INFO exited: script_6 (exit status 0; expected)
+2024-10-22 18:16:14,504 INFO spawned: 'script_6' with pid 2129
+2024-10-22 18:16:15,546 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:15,546 INFO success: script_5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:15,546 INFO success: script_6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:16,686 INFO exited: script_3 (exit status 0; expected)
+2024-10-22 18:16:17,090 INFO spawned: 'script_3' with pid 2130
+2024-10-22 18:16:17,091 INFO exited: script_10 (exit status 0; expected)
+2024-10-22 18:16:17,122 INFO spawned: 'script_10' with pid 2131
+2024-10-22 18:16:19,032 INFO success: script_10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:19,036 INFO success: script_3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:19,041 INFO exited: script_4 (exit status 0; expected)
+2024-10-22 18:16:19,350 INFO spawned: 'script_4' with pid 2132
+2024-10-22 18:16:19,350 INFO exited: script_8 (exit status 0; expected)
+2024-10-22 18:16:19,470 INFO spawned: 'script_8' with pid 2133
+2024-10-22 18:16:20,859 INFO success: script_4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:20,859 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:20,859 INFO exited: script_2 (exit status 0; expected)
+2024-10-22 18:16:21,278 INFO spawned: 'script_2' with pid 2134
+2024-10-22 18:16:21,278 INFO exited: script_7 (exit status 0; expected)
+2024-10-22 18:16:21,491 INFO spawned: 'script_7' with pid 2135
+2024-10-22 18:16:21,632 INFO exited: script_9 (exit status 0; expected)
+2024-10-22 18:16:22,204 INFO spawned: 'script_9' with pid 2136
+2024-10-22 18:16:22,786 INFO success: script_2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:22,786 INFO success: script_7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:22,789 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:16:23,168 INFO spawned: 'script_1' with pid 2137
+2024-10-22 18:16:23,489 INFO success: script_9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:23,489 INFO exited: script_6 (exit status 0; expected)
+2024-10-22 18:16:24,316 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:24,322 INFO spawned: 'script_6' with pid 2138
+2024-10-22 18:16:24,506 INFO exited: script_5 (exit status 0; expected)
+2024-10-22 18:16:25,518 INFO spawned: 'script_5' with pid 2139
+2024-10-22 18:16:25,518 INFO success: script_6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:25,768 INFO exited: script_10 (exit status 0; expected)
+2024-10-22 18:16:26,241 INFO spawned: 'script_10' with pid 2140
+2024-10-22 18:16:27,040 INFO success: script_5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:27,040 INFO exited: script_3 (exit status 0; expected)
+2024-10-22 18:16:27,540 INFO success: script_10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:27,550 INFO spawned: 'script_3' with pid 2141
+2024-10-22 18:16:27,550 INFO exited: script_8 (exit status 0; expected)
+2024-10-22 18:16:27,821 INFO spawned: 'script_8' with pid 2142
+2024-10-22 18:16:29,195 INFO success: script_3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:29,195 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:29,199 INFO exited: script_4 (exit status 0; expected)
+2024-10-22 18:16:29,343 INFO spawned: 'script_4' with pid 2143
+2024-10-22 18:16:29,735 INFO exited: script_7 (exit status 0; expected)
+2024-10-22 18:16:30,684 INFO success: script_4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:30,687 INFO spawned: 'script_7' with pid 2144
+2024-10-22 18:16:30,687 INFO exited: script_2 (exit status 0; expected)
+2024-10-22 18:16:30,879 INFO spawned: 'script_2' with pid 2145
+2024-10-22 18:16:30,879 INFO exited: script_9 (exit status 0; expected)
+2024-10-22 18:16:30,953 INFO spawned: 'script_9' with pid 2146
+2024-10-22 18:16:30,954 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:16:31,453 INFO spawned: 'script_1' with pid 2147
+2024-10-22 18:16:32,462 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:32,462 INFO success: script_2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:32,462 INFO success: script_7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:32,462 INFO success: script_9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:32,739 INFO exited: script_6 (exit status 0; expected)
+2024-10-22 18:16:33,503 INFO spawned: 'script_6' with pid 2148
+2024-10-22 18:16:34,683 INFO success: script_6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:34,922 INFO exited: script_10 (exit status 0; expected)
+2024-10-22 18:16:35,028 INFO spawned: 'script_10' with pid 2149
+2024-10-22 18:16:35,028 INFO exited: script_5 (exit status 0; expected)
+2024-10-22 18:16:35,957 INFO spawned: 'script_5' with pid 2150
+2024-10-22 18:16:36,065 INFO success: script_10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:36,065 INFO exited: script_8 (exit status 0; expected)
+2024-10-22 18:16:37,071 INFO success: script_5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:37,080 INFO spawned: 'script_8' with pid 2151
+2024-10-22 18:16:37,143 INFO exited: script_3 (exit status 0; expected)
+2024-10-22 18:16:37,768 INFO spawned: 'script_3' with pid 2152
+2024-10-22 18:16:38,961 INFO success: script_3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:38,961 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:39,123 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:16:39,256 INFO spawned: 'script_1' with pid 2153
+2024-10-22 18:16:39,256 INFO exited: script_7 (exit status 0; expected)
+2024-10-22 18:16:39,309 INFO spawned: 'script_7' with pid 2154
+2024-10-22 18:16:39,309 INFO exited: script_4 (exit status 0; expected)
+2024-10-22 18:16:39,387 INFO spawned: 'script_4' with pid 2155
+2024-10-22 18:16:39,387 INFO exited: script_9 (exit status 0; expected)
+2024-10-22 18:16:40,263 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:40,272 INFO spawned: 'script_9' with pid 2156
+2024-10-22 18:16:40,272 INFO exited: script_2 (exit status 0; expected)
+2024-10-22 18:16:40,515 INFO spawned: 'script_2' with pid 2157
+2024-10-22 18:16:40,515 INFO success: script_4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:40,515 INFO success: script_7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:41,520 INFO success: script_2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:41,520 INFO success: script_9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:41,972 INFO exited: script_6 (exit status 0; expected)
+2024-10-22 18:16:41,988 INFO spawned: 'script_6' with pid 2158
+2024-10-22 18:16:42,996 INFO success: script_6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:44,227 INFO exited: script_10 (exit status 0; expected)
+2024-10-22 18:16:44,276 INFO spawned: 'script_10' with pid 2159
+2024-10-22 18:16:45,283 INFO success: script_10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:45,553 INFO exited: script_8 (exit status 0; expected)
+2024-10-22 18:16:45,736 INFO spawned: 'script_8' with pid 2160
+2024-10-22 18:16:45,736 INFO exited: script_5 (exit status 0; expected)
+2024-10-22 18:16:45,767 INFO spawned: 'script_5' with pid 2161
+2024-10-22 18:16:47,192 INFO success: script_5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:47,192 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:47,192 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:16:47,483 INFO spawned: 'script_1' with pid 2162
+2024-10-22 18:16:47,483 INFO exited: script_3 (exit status 0; expected)
+2024-10-22 18:16:47,757 INFO spawned: 'script_3' with pid 2163
+2024-10-22 18:16:47,885 INFO exited: script_7 (exit status 0; expected)
+2024-10-22 18:16:47,910 INFO spawned: 'script_7' with pid 2164
+2024-10-22 18:16:48,913 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:48,913 INFO success: script_3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:48,913 INFO success: script_7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:49,212 INFO exited: script_9 (exit status 0; expected)
+2024-10-22 18:16:49,271 INFO spawned: 'script_9' with pid 2165
+2024-10-22 18:16:49,373 INFO exited: script_4 (exit status 0; expected)
+2024-10-22 18:16:50,387 INFO spawned: 'script_4' with pid 2166
+2024-10-22 18:16:50,387 INFO success: script_9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:50,402 INFO exited: script_6 (exit status 0; expected)
+2024-10-22 18:16:50,658 INFO spawned: 'script_6' with pid 2167
+2024-10-22 18:16:50,658 INFO exited: script_2 (exit status 0; expected)
+2024-10-22 18:16:50,671 INFO spawned: 'script_2' with pid 2168
+2024-10-22 18:16:52,329 INFO success: script_2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:52,329 INFO success: script_4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:52,329 INFO success: script_6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:52,683 INFO exited: script_10 (exit status 0; expected)
+2024-10-22 18:16:52,992 INFO spawned: 'script_10' with pid 2169
+2024-10-22 18:16:54,232 INFO success: script_10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:54,280 INFO exited: script_8 (exit status 0; expected)
+2024-10-22 18:16:55,189 INFO spawned: 'script_8' with pid 2170
+2024-10-22 18:16:55,189 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:16:55,204 INFO spawned: 'script_1' with pid 2171
+2024-10-22 18:16:55,526 INFO exited: script_5 (exit status 0; expected)
+2024-10-22 18:16:56,043 INFO spawned: 'script_5' with pid 2172
+2024-10-22 18:16:56,580 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:56,580 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:56,580 INFO exited: script_7 (exit status 0; expected)
+2024-10-22 18:16:56,696 INFO spawned: 'script_7' with pid 2173
+2024-10-22 18:16:57,432 INFO success: script_5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:57,432 INFO exited: script_3 (exit status 0; expected)
+2024-10-22 18:16:57,986 INFO spawned: 'script_3' with pid 2174
+2024-10-22 18:16:57,986 INFO success: script_7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:57,996 INFO exited: script_9 (exit status 0; expected)
+2024-10-22 18:16:58,919 INFO spawned: 'script_9' with pid 2175
+2024-10-22 18:16:59,144 INFO success: script_3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:16:59,256 INFO exited: script_6 (exit status 0; expected)
+2024-10-22 18:17:00,104 INFO spawned: 'script_6' with pid 2176
+2024-10-22 18:17:00,104 INFO success: script_9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:00,202 INFO exited: script_4 (exit status 0; expected)
+2024-10-22 18:17:00,475 INFO spawned: 'script_4' with pid 2177
+2024-10-22 18:17:00,475 INFO exited: script_2 (exit status 0; expected)
+2024-10-22 18:17:01,195 INFO spawned: 'script_2' with pid 2178
+2024-10-22 18:17:01,195 INFO success: script_6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:01,386 INFO exited: script_10 (exit status 0; expected)
+2024-10-22 18:17:02,148 INFO spawned: 'script_10' with pid 2182
+2024-10-22 18:17:02,148 INFO success: script_4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:02,623 INFO success: script_2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:02,623 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:17:03,470 INFO spawned: 'script_1' with pid 2183
+2024-10-22 18:17:03,470 INFO success: script_10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:03,470 INFO exited: script_8 (exit status 0; expected)
+2024-10-22 18:17:03,763 INFO spawned: 'script_8' with pid 2184
+2024-10-22 18:17:05,220 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:05,220 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:05,220 INFO exited: script_7 (exit status 0; expected)
+2024-10-22 18:17:05,771 INFO spawned: 'script_7' with pid 2185
+2024-10-22 18:17:05,771 INFO exited: script_5 (exit status 0; expected)
+2024-10-22 18:17:05,776 INFO spawned: 'script_5' with pid 2186
+2024-10-22 18:17:07,251 INFO success: script_5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:07,251 INFO success: script_7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:07,462 INFO exited: script_9 (exit status 0; expected)
+2024-10-22 18:17:07,644 INFO spawned: 'script_9' with pid 2187
+2024-10-22 18:17:07,644 INFO exited: script_3 (exit status 0; expected)
+2024-10-22 18:17:08,626 INFO spawned: 'script_3' with pid 2188
+2024-10-22 18:17:08,626 INFO exited: script_6 (exit status 0; expected)
+2024-10-22 18:17:08,638 INFO spawned: 'script_6' with pid 2189
+2024-10-22 18:17:08,638 INFO success: script_9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:09,955 INFO success: script_3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:09,955 INFO success: script_6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:10,118 INFO exited: script_4 (exit status 0; expected)
+2024-10-22 18:17:10,559 INFO spawned: 'script_4' with pid 2190
+2024-10-22 18:17:10,559 INFO exited: script_10 (exit status 0; expected)
+2024-10-22 18:17:10,791 INFO spawned: 'script_10' with pid 2191
+2024-10-22 18:17:10,883 INFO exited: script_2 (exit status 0; expected)
+2024-10-22 18:17:11,218 INFO spawned: 'script_2' with pid 2192
+2024-10-22 18:17:11,218 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:17:11,240 INFO spawned: 'script_1' with pid 2193
+2024-10-22 18:17:12,126 INFO success: script_10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:12,126 INFO success: script_4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:12,130 INFO exited: script_8 (exit status 0; expected)
+2024-10-22 18:17:13,115 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:13,115 INFO success: script_2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:13,136 INFO spawned: 'script_8' with pid 2194
+2024-10-22 18:17:14,141 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:14,548 INFO exited: script_7 (exit status 0; expected)
+2024-10-22 18:17:14,788 INFO spawned: 'script_7' with pid 2195
+2024-10-22 18:17:15,602 INFO exited: script_5 (exit status 0; expected)
+2024-10-22 18:17:15,826 INFO spawned: 'script_5' with pid 2196
+2024-10-22 18:17:15,826 INFO success: script_7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:16,084 INFO exited: script_9 (exit status 0; expected)
+2024-10-22 18:17:16,931 INFO success: script_5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:16,939 INFO spawned: 'script_9' with pid 2197
+2024-10-22 18:17:16,939 INFO exited: script_6 (exit status 0; expected)
+2024-10-22 18:17:17,099 INFO spawned: 'script_6' with pid 2198
+2024-10-22 18:17:18,600 INFO success: script_6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:18,600 INFO success: script_9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:18,607 INFO exited: script_3 (exit status 0; expected)
+2024-10-22 18:17:19,024 INFO spawned: 'script_3' with pid 2199
+2024-10-22 18:17:19,024 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:17:19,052 INFO spawned: 'script_1' with pid 2200
+2024-10-22 18:17:19,196 INFO exited: script_10 (exit status 0; expected)
+2024-10-22 18:17:19,812 INFO spawned: 'script_10' with pid 2201
+2024-10-22 18:17:20,092 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:20,092 INFO success: script_3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:20,376 INFO exited: script_4 (exit status 0; expected)
+2024-10-22 18:17:21,039 INFO success: script_10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:21,048 INFO spawned: 'script_4' with pid 2202
+2024-10-22 18:17:21,048 INFO exited: script_2 (exit status 0; expected)
+2024-10-22 18:17:21,072 INFO spawned: 'script_2' with pid 2203
+2024-10-22 18:17:21,424 INFO exited: script_8 (exit status 0; expected)
+2024-10-22 18:17:21,830 INFO spawned: 'script_8' with pid 2204
+2024-10-22 18:17:22,834 INFO success: script_2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:22,834 INFO success: script_4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:22,834 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:23,224 INFO exited: script_7 (exit status 0; expected)
+2024-10-22 18:17:24,009 INFO spawned: 'script_7' with pid 2205
+2024-10-22 18:17:25,387 INFO success: script_7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:25,400 INFO exited: script_9 (exit status 0; expected)
+2024-10-22 18:17:25,488 INFO spawned: 'script_9' with pid 2206
+2024-10-22 18:17:25,731 INFO exited: script_5 (exit status 0; expected)
+2024-10-22 18:17:25,851 INFO spawned: 'script_5' with pid 2207
+2024-10-22 18:17:25,851 INFO exited: script_6 (exit status 0; expected)
+2024-10-22 18:17:26,788 INFO spawned: 'script_6' with pid 2208
+2024-10-22 18:17:26,788 INFO success: script_9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:26,788 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:17:27,111 INFO spawned: 'script_1' with pid 2209
+2024-10-22 18:17:27,111 INFO success: script_5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:28,488 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:28,488 INFO success: script_6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:28,497 INFO exited: script_10 (exit status 0; expected)
+2024-10-22 18:17:28,809 INFO spawned: 'script_10' with pid 2210
+2024-10-22 18:17:28,810 INFO exited: script_3 (exit status 0; expected)
+2024-10-22 18:17:28,820 INFO spawned: 'script_3' with pid 2211
+2024-10-22 18:17:30,149 INFO success: script_10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:30,149 INFO success: script_3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:30,157 INFO exited: script_8 (exit status 0; expected)
+2024-10-22 18:17:30,796 INFO spawned: 'script_8' with pid 2212
+2024-10-22 18:17:30,796 INFO exited: script_4 (exit status 0; expected)
+2024-10-22 18:17:30,967 INFO spawned: 'script_4' with pid 2213
+2024-10-22 18:17:30,967 INFO exited: script_2 (exit status 0; expected)
+2024-10-22 18:17:30,976 INFO spawned: 'script_2' with pid 2214
+2024-10-22 18:17:32,347 INFO success: script_2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:32,347 INFO success: script_4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:32,347 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:32,746 INFO exited: script_7 (exit status 0; expected)
+2024-10-22 18:17:33,760 INFO spawned: 'script_7' with pid 2215
+2024-10-22 18:17:34,111 INFO exited: script_9 (exit status 0; expected)
+2024-10-22 18:17:34,297 INFO spawned: 'script_9' with pid 2216
+2024-10-22 18:17:35,220 INFO success: script_7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:35,220 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:17:35,281 INFO spawned: 'script_1' with pid 2217
+2024-10-22 18:17:35,748 INFO success: script_9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:35,748 INFO exited: script_6 (exit status 0; expected)
+2024-10-22 18:17:35,769 INFO spawned: 'script_6' with pid 2218
+2024-10-22 18:17:35,769 INFO exited: script_5 (exit status 0; expected)
+2024-10-22 18:17:36,013 INFO spawned: 'script_5' with pid 2219
+2024-10-22 18:17:37,019 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:37,019 INFO success: script_5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:37,019 INFO success: script_6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:37,467 INFO exited: script_10 (exit status 0; expected)
+2024-10-22 18:17:37,517 INFO spawned: 'script_10' with pid 2220
+2024-10-22 18:17:38,906 INFO success: script_10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:38,917 INFO exited: script_3 (exit status 0; expected)
+2024-10-22 18:17:39,547 INFO spawned: 'script_3' with pid 2221
+2024-10-22 18:17:39,547 INFO exited: script_8 (exit status 0; expected)
+2024-10-22 18:17:39,587 INFO spawned: 'script_8' with pid 2222
+2024-10-22 18:17:40,756 INFO success: script_3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:40,756 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:40,858 INFO exited: script_2 (exit status 0; expected)
+2024-10-22 18:17:41,073 INFO spawned: 'script_2' with pid 2223
+2024-10-22 18:17:41,109 INFO exited: script_4 (exit status 0; expected)
+2024-10-22 18:17:41,562 INFO spawned: 'script_4' with pid 2224
+2024-10-22 18:17:42,304 INFO success: script_2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:42,304 INFO exited: script_7 (exit status 0; expected)
+2024-10-22 18:17:42,875 INFO success: script_4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:42,884 INFO spawned: 'script_7' with pid 2225
+2024-10-22 18:17:42,887 INFO exited: script_9 (exit status 0; expected)
+2024-10-22 18:17:43,031 INFO spawned: 'script_9' with pid 2226
+2024-10-22 18:17:43,031 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:17:43,042 INFO spawned: 'script_1' with pid 2227
+2024-10-22 18:17:44,128 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:44,128 INFO success: script_7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:44,128 INFO success: script_9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:44,533 INFO exited: script_6 (exit status 0; expected)
+2024-10-22 18:17:44,628 INFO spawned: 'script_6' with pid 2228
+2024-10-22 18:17:45,801 INFO success: script_6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:45,920 INFO exited: script_5 (exit status 0; expected)
+2024-10-22 18:17:46,164 INFO spawned: 'script_5' with pid 2229
+2024-10-22 18:17:46,164 INFO exited: script_10 (exit status 0; expected)
+2024-10-22 18:17:46,722 INFO spawned: 'script_10' with pid 2230
+2024-10-22 18:17:47,733 INFO success: script_10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:47,733 INFO success: script_5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:48,278 INFO exited: script_8 (exit status 0; expected)
+2024-10-22 18:17:49,292 INFO spawned: 'script_8' with pid 2231
+2024-10-22 18:17:49,455 INFO exited: script_3 (exit status 0; expected)
+2024-10-22 18:17:49,563 INFO spawned: 'script_3' with pid 2232
+2024-10-22 18:17:50,288 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:50,873 INFO success: script_3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:50,873 INFO exited: script_2 (exit status 0; expected)
+2024-10-22 18:17:50,943 INFO spawned: 'script_2' with pid 2233
+2024-10-22 18:17:50,943 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:17:51,498 INFO spawned: 'script_1' with pid 2234
+2024-10-22 18:17:51,498 INFO exited: script_4 (exit status 0; expected)
+2024-10-22 18:17:51,591 INFO spawned: 'script_4' with pid 2235
+2024-10-22 18:17:51,591 INFO exited: script_9 (exit status 0; expected)
+2024-10-22 18:17:51,644 INFO spawned: 'script_9' with pid 2236
+2024-10-22 18:17:51,644 INFO exited: script_7 (exit status 0; expected)
+2024-10-22 18:17:51,971 INFO success: script_2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:51,983 INFO spawned: 'script_7' with pid 2237
+2024-10-22 18:17:52,988 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:52,988 INFO success: script_4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:52,988 INFO success: script_7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:52,988 INFO success: script_9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:53,315 INFO exited: script_6 (exit status 0; expected)
+2024-10-22 18:17:53,924 INFO spawned: 'script_6' with pid 2238
+2024-10-22 18:17:55,345 INFO success: script_6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:55,468 INFO exited: script_10 (exit status 0; expected)
+2024-10-22 18:17:55,723 INFO spawned: 'script_10' with pid 2239
+2024-10-22 18:17:55,723 INFO exited: script_5 (exit status 0; expected)
+2024-10-22 18:17:56,170 INFO spawned: 'script_5' with pid 2240
+2024-10-22 18:17:57,175 INFO success: script_10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:57,175 INFO success: script_5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:57,557 INFO exited: script_8 (exit status 0; expected)
+2024-10-22 18:17:57,807 INFO spawned: 'script_8' with pid 2241
+2024-10-22 18:17:59,254 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:17:59,254 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:17:59,348 INFO spawned: 'script_1' with pid 2242
+2024-10-22 18:17:59,447 INFO exited: script_3 (exit status 0; expected)
+2024-10-22 18:17:59,585 INFO spawned: 'script_3' with pid 2243
+2024-10-22 18:17:59,855 INFO exited: script_9 (exit status 0; expected)
+2024-10-22 18:18:00,227 INFO spawned: 'script_9' with pid 2244
+2024-10-22 18:18:00,704 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:00,704 INFO success: script_3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:00,709 INFO exited: script_7 (exit status 0; expected)
+2024-10-22 18:18:00,937 INFO spawned: 'script_7' with pid 2245
+2024-10-22 18:18:00,938 INFO exited: script_2 (exit status 0; expected)
+2024-10-22 18:18:01,172 INFO spawned: 'script_2' with pid 2246
+2024-10-22 18:18:01,493 INFO success: script_9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:01,493 INFO exited: script_4 (exit status 0; expected)
+2024-10-22 18:18:02,466 INFO success: script_2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:02,475 INFO spawned: 'script_4' with pid 2247
+2024-10-22 18:18:02,475 INFO success: script_7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:02,475 INFO exited: script_6 (exit status 0; expected)
+2024-10-22 18:18:03,105 INFO spawned: 'script_6' with pid 2248
+2024-10-22 18:18:04,113 INFO success: script_4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:04,113 INFO success: script_6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:04,570 INFO exited: script_10 (exit status 0; expected)
+2024-10-22 18:18:04,711 INFO spawned: 'script_10' with pid 2249
+2024-10-22 18:18:05,909 INFO success: script_10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:06,081 INFO exited: script_5 (exit status 0; expected)
+2024-10-22 18:18:06,564 INFO spawned: 'script_5' with pid 2250
+2024-10-22 18:18:06,564 INFO exited: script_8 (exit status 0; expected)
+2024-10-22 18:18:07,191 INFO spawned: 'script_8' with pid 2251
+2024-10-22 18:18:07,191 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:18:07,415 INFO spawned: 'script_1' with pid 2252
+2024-10-22 18:18:07,944 INFO success: script_5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:08,705 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:08,705 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:08,716 INFO exited: script_9 (exit status 0; expected)
+2024-10-22 18:18:09,284 INFO spawned: 'script_9' with pid 2255
+2024-10-22 18:18:09,284 INFO exited: script_7 (exit status 0; expected)
+2024-10-22 18:18:09,315 INFO spawned: 'script_7' with pid 2256
+2024-10-22 18:18:09,323 INFO exited: script_3 (exit status 0; expected)
+2024-10-22 18:18:09,332 INFO spawned: 'script_3' with pid 2257
+2024-10-22 18:18:10,403 INFO success: script_3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:10,403 INFO success: script_7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:10,403 INFO success: script_9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:11,352 INFO exited: script_2 (exit status 0; expected)
+2024-10-22 18:18:11,372 INFO spawned: 'script_2' with pid 2258
+2024-10-22 18:18:11,867 INFO exited: script_6 (exit status 0; expected)
+2024-10-22 18:18:11,992 INFO spawned: 'script_6' with pid 2259
+2024-10-22 18:18:12,603 INFO success: script_2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:12,603 INFO exited: script_4 (exit status 0; expected)
+2024-10-22 18:18:13,332 INFO spawned: 'script_4' with pid 2260
+2024-10-22 18:18:13,332 INFO success: script_6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:13,332 INFO exited: script_10 (exit status 0; expected)
+2024-10-22 18:18:14,017 INFO spawned: 'script_10' with pid 2261
+2024-10-22 18:18:14,879 INFO success: script_4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:15,309 INFO success: script_10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:15,315 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:18:15,545 INFO spawned: 'script_1' with pid 2262
+2024-10-22 18:18:15,546 INFO exited: script_8 (exit status 0; expected)
+2024-10-22 18:18:15,560 INFO spawned: 'script_8' with pid 2263
+2024-10-22 18:18:16,267 INFO exited: script_5 (exit status 0; expected)
+2024-10-22 18:18:16,384 INFO spawned: 'script_5' with pid 2264
+2024-10-22 18:18:16,704 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:16,704 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:17,662 INFO success: script_5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:17,662 INFO exited: script_9 (exit status 0; expected)
+2024-10-22 18:18:17,833 INFO spawned: 'script_9' with pid 2265
+2024-10-22 18:18:18,009 INFO exited: script_7 (exit status 0; expected)
+2024-10-22 18:18:19,025 INFO spawned: 'script_7' with pid 2266
+2024-10-22 18:18:19,026 INFO success: script_9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:19,050 INFO exited: script_3 (exit status 0; expected)
+2024-10-22 18:18:19,223 INFO spawned: 'script_3' with pid 2267
+2024-10-22 18:18:20,156 INFO success: script_7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:20,639 INFO success: script_3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:20,639 INFO exited: script_6 (exit status 0; expected)
+2024-10-22 18:18:21,247 INFO spawned: 'script_6' with pid 2268
+2024-10-22 18:18:21,360 INFO exited: script_2 (exit status 0; expected)
+2024-10-22 18:18:21,904 INFO spawned: 'script_2' with pid 2269
+2024-10-22 18:18:22,453 INFO success: script_6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:22,496 INFO exited: script_10 (exit status 0; expected)
+2024-10-22 18:18:23,163 INFO spawned: 'script_10' with pid 2270
+2024-10-22 18:18:23,163 INFO success: script_2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:23,163 INFO exited: script_4 (exit status 0; expected)
+2024-10-22 18:18:23,302 INFO spawned: 'script_4' with pid 2271
+2024-10-22 18:18:23,305 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:18:23,644 INFO spawned: 'script_1' with pid 2272
+2024-10-22 18:18:23,644 INFO exited: script_8 (exit status 0; expected)
+2024-10-22 18:18:24,260 INFO success: script_10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:24,268 INFO spawned: 'script_8' with pid 2273
+2024-10-22 18:18:24,811 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:24,811 INFO success: script_4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:25,579 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:18:25,579 INFO exited: script_5 (exit status 0; expected)
+2024-10-22 18:18:26,108 INFO spawned: 'script_5' with pid 2274
+2024-10-22 18:18:26,108 WARN received SIGTERM indicating exit request
+2024-10-22 18:18:26,108 INFO waiting for script_1, script_10, script_2, script_3, script_4, script_5, script_6, script_7, script_8, script_9 to die
+2024-10-22 18:18:26,150 INFO stopped: script_9 (exit status 0)
+2024-10-22 18:18:26,169 WARN stopped: script_8 (terminated by SIGTERM)
+2024-10-22 18:18:26,224 WARN stopped: script_7 (terminated by SIGTERM)
+2024-10-22 18:18:26,271 WARN stopped: script_6 (terminated by SIGTERM)
+2024-10-22 18:18:26,271 WARN stopped: script_5 (terminated by SIGTERM)
+2024-10-22 18:18:26,291 WARN stopped: script_4 (terminated by SIGTERM)
+2024-10-22 18:18:26,335 WARN stopped: script_3 (terminated by SIGTERM)
+2024-10-22 18:18:26,350 WARN stopped: script_2 (terminated by SIGTERM)
+2024-10-22 18:18:26,356 WARN stopped: script_10 (terminated by SIGTERM)
+2024-10-22 18:18:26,360 WARN stopped: script_1 (terminated by SIGTERM)
+2024-10-22 18:26:45,854 INFO daemonizing the supervisord process
+2024-10-22 18:26:45,855 INFO supervisord started with pid 2302
+2024-10-22 18:26:46,857 INFO spawned: 'script_1' with pid 2303
+2024-10-22 18:26:46,859 INFO spawned: 'script_2' with pid 2304
+2024-10-22 18:26:46,863 INFO spawned: 'script_3' with pid 2305
+2024-10-22 18:26:46,867 INFO spawned: 'script_4' with pid 2306
+2024-10-22 18:26:46,872 INFO spawned: 'script_5' with pid 2307
+2024-10-22 18:26:46,878 INFO spawned: 'script_6' with pid 2308
+2024-10-22 18:26:46,887 INFO spawned: 'script_7' with pid 2309
+2024-10-22 18:26:46,893 INFO spawned: 'script_8' with pid 2310
+2024-10-22 18:26:47,899 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:26:47,899 INFO success: script_2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:26:47,899 INFO success: script_3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:26:47,899 INFO success: script_4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:26:47,899 INFO success: script_5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:26:47,899 INFO success: script_6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:26:47,899 INFO success: script_7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:26:47,899 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:26:53,320 INFO exited: script_8 (exit status 0; expected)
+2024-10-22 18:26:53,344 INFO exited: script_7 (exit status 0; expected)
+2024-10-22 18:26:53,595 INFO exited: script_6 (exit status 0; expected)
+2024-10-22 18:26:53,979 INFO exited: script_5 (exit status 0; expected)
+2024-10-22 18:26:54,020 INFO exited: script_3 (exit status 0; expected)
+2024-10-22 18:26:54,119 INFO exited: script_4 (exit status 0; expected)
+2024-10-22 18:26:54,136 INFO exited: script_2 (exit status 0; expected)
+2024-10-22 18:26:55,532 INFO exited: script_1 (exit status 0; expected)
+2024-10-22 18:28:26,650 WARN received SIGTERM indicating exit request
+2024-10-22 18:28:34,452 INFO daemonizing the supervisord process
+2024-10-22 18:28:34,454 INFO supervisord started with pid 2334
+2024-10-22 18:28:35,457 INFO spawned: 'script_1' with pid 2335
+2024-10-22 18:28:35,460 INFO spawned: 'script_2' with pid 2336
+2024-10-22 18:28:35,467 INFO spawned: 'script_3' with pid 2337
+2024-10-22 18:28:35,471 INFO spawned: 'script_4' with pid 2338
+2024-10-22 18:28:35,477 INFO spawned: 'script_5' with pid 2339
+2024-10-22 18:28:35,485 INFO spawned: 'script_6' with pid 2340
+2024-10-22 18:28:35,491 INFO spawned: 'script_7' with pid 2341
+2024-10-22 18:28:35,502 INFO spawned: 'script_8' with pid 2342
+2024-10-22 18:28:36,503 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:28:36,503 INFO success: script_2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:28:36,503 INFO success: script_3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:28:36,503 INFO success: script_4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:28:36,503 INFO success: script_5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:28:36,503 INFO success: script_6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:28:36,503 INFO success: script_7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 18:28:36,503 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
