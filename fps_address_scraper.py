@@ -207,6 +207,7 @@ if __name__ == '__main__':
         file = sys.argv[1]
         df = pd.read_excel(file)
         output_file = file.replace('files', 'result_file')
+        log.info(output_file)
         if os.path.exists(output_file):
             odf = pd.read_excel(output_file)
             addresses = odf['Street'].unique().tolist()
@@ -214,11 +215,11 @@ if __name__ == '__main__':
         else:
             start = 0
             
-        for index in range(start, len(df)):
-            log.info(f"{file.split('/')[-1]}. Scraping {index+1} of {len(df)}")
-            row = df.iloc[index]
-            url = generate_url(row)
-            get_me_data(url, row, file.split('/')[-1])
+        # for index in range(start, len(df)):
+        #     log.info(f"{file.split('/')[-1]}. Scraping {index+1} of {len(df)}")
+        #     row = df.iloc[index]
+        #     url = generate_url(row)
+        #     get_me_data(url, row, file.split('/')[-1])
     except KeyboardInterrupt:
         log.error("Keyboard interruption. Exiting the script.")
         sys.exit(1)
