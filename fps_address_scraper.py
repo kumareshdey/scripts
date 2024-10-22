@@ -208,14 +208,9 @@ if __name__ == '__main__':
         df = pd.read_excel(file)
         output_file = file.replace('files', 'result_file')
         if os.path.exists(output_file):
-            try:
-                odf = pd.read_excel(output_file)
-                addresses = odf['Street'].unique().tolist()
-                start = len(addresses) - 1
-                log.info(f"PASS: {output_file}")
-            except:
-                log.error(f"FAILED: {output_file}")
-                start = 0
+            odf = pd.read_excel(output_file)
+            addresses = odf['Street'].unique().tolist()
+            start = len(addresses) - 1
         else:
             start = 0
             
