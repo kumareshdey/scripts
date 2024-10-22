@@ -1,0 +1,12 @@
+2024-10-22 14:49:17,236 INFO daemonizing the supervisord process
+2024-10-22 14:49:17,236 INFO supervisord started with pid 1344
+2024-10-22 14:49:18,238 INFO spawned: 'script_1' with pid 1347
+2024-10-22 14:49:18,241 INFO spawned: 'script_2' with pid 1348
+2024-10-22 14:49:18,248 INFO spawned: 'script_3' with pid 1349
+2024-10-22 14:49:18,256 INFO spawned: 'script_4' with pid 1350
+2024-10-22 14:49:18,266 INFO spawned: 'script_5' with pid 1351
+2024-10-22 14:49:19,270 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 14:49:19,270 INFO success: script_2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 14:49:19,270 INFO success: script_3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 14:49:19,270 INFO success: script_4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-22 14:49:19,270 INFO success: script_5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
