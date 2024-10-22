@@ -1,7 +1,7 @@
 import os
 
 # Define the base directory for the Excel files
-base_dir = 'scripts/files/'
+base_dir = '/home/ubuntu/scripts/files/'
 output_conf_file = 'supervisord.conf'
 
 # Define the number of Excel chunks you have
