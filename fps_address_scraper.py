@@ -212,6 +212,7 @@ if __name__ == '__main__':
                 odf = pd.read_excel(output_file)
                 addresses = odf['Street'].unique().tolist()
                 start = len(addresses) - 1
+                log.info(f"PASS: {output_file}")
             except:
                 log.error(f"FAILED: {output_file}")
                 start = 0
