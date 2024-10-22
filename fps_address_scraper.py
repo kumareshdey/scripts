@@ -207,11 +207,14 @@ if __name__ == '__main__':
         file = sys.argv[1]
         df = pd.read_excel(file)
         output_file = file.replace('files', 'result_file')
-        log.info(output_file)
         if os.path.exists(output_file):
-            odf = pd.read_excel(output_file)
-            addresses = odf['Street'].unique().tolist()
-            start = len(addresses) - 1
+            try:
+                odf = pd.read_excel(output_file)
+                addresses = odf['Street'].unique().tolist()
+                start = len(addresses) - 1
+            except:
+                log.error(f"FAILED: {output_file}")
+                start = 0
         else:
             start = 0
             
