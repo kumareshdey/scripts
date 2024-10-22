@@ -172,7 +172,7 @@ def url_is_present_in_file(url, file_name):
         data = pd.read_excel(result_excel_file_path)
         return url in data['URL'].values
     except:
-        return True
+        return False
 
 def get_me_data(url, row, file_name):
     i = 1
