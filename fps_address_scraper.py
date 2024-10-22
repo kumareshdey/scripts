@@ -167,7 +167,7 @@ def scrape_single_page_data(final_url, row):
     return per_page_data
 
 def url_is_present_in_file(url, file_name):
-    result_excel_file_path = "result_file/" + file_name
+    result_excel_file_path = "/home/ubuntu/scripts/result_file/" + file_name
     data = pd.read_excel(result_excel_file_path)
     return url in data['URL'].values
 
