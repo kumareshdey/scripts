@@ -311,3 +311,381 @@
 [2024-10-22 15:58:16,136] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11925-ring-dr_manor-tx/page/11
 [2024-10-22 15:58:16,529] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
 [2024-10-22 15:58:16,659] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/11925-ring-dr_manor-tx/page/12
+[2024-10-22 15:58:42,820] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11925-ring-dr_manor-tx/page/12
+[2024-10-22 15:58:42,851] [INFO] [fps_address_scraper.py:47] Original address: 120 Turtle Creek Blvd
+[2024-10-22 15:58:42,852] [INFO] [fps_address_scraper.py:57] Standardized address: 120 Turtle Creek Blvd
+[2024-10-22 15:58:43,138] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/1
+[2024-10-22 15:59:04,774] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/1
+[2024-10-22 15:59:05,170] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 15:59:05,328] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/2
+[2024-10-22 15:59:38,905] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/2
+[2024-10-22 15:59:39,317] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 15:59:39,457] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/3
+[2024-10-22 16:00:11,732] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/3
+[2024-10-22 16:00:12,134] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:00:12,271] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/4
+[2024-10-22 16:01:04,255] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/4
+[2024-10-22 16:01:04,666] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:01:04,827] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/5
+[2024-10-22 16:01:55,715] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/5
+[2024-10-22 16:01:56,123] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:01:56,259] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/6
+[2024-10-22 16:02:39,533] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/6
+[2024-10-22 16:02:40,411] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:02:40,695] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/7
+[2024-10-22 16:03:33,286] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/7
+[2024-10-22 16:03:33,703] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:03:33,868] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/8
+[2024-10-22 16:04:16,480] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/8
+[2024-10-22 16:04:17,031] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:04:17,223] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/9
+[2024-10-22 16:05:36,667] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/9
+[2024-10-22 16:05:37,087] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:05:37,255] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/10
+[2024-10-22 16:07:17,326] [ERROR] [fps_address_scraper.py:24] Could not get successful response. Status code 500. {"status":"Failed to get successful response from website. Please retry the request."}
+[2024-10-22 16:07:17,326] [WARNING] [api.py:40] Request failed. Status code 500, retrying in 1 seconds...
+[2024-10-22 16:07:56,305] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/10
+[2024-10-22 16:07:56,728] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:07:56,868] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/11
+[2024-10-22 16:08:18,592] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/11
+[2024-10-22 16:08:19,018] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:08:19,168] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/12
+[2024-10-22 16:09:39,793] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/12
+[2024-10-22 16:09:39,810] [INFO] [fps_address_scraper.py:47] Original address: 120 W Cityline Dr
+[2024-10-22 16:09:39,810] [INFO] [fps_address_scraper.py:57] Standardized address: 120 W Cityline Dr
+[2024-10-22 16:09:39,976] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/1
+[2024-10-22 16:11:54,965] [INFO] [fps_address_scraper.py:47] Original address: 11711 Domain Dr
+[2024-10-22 16:11:54,980] [INFO] [fps_address_scraper.py:57] Standardized address: 11711 Domain Dr
+[2024-10-22 16:11:55,698] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/1 because already scraped.
+[2024-10-22 16:11:56,627] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/2 because already scraped.
+[2024-10-22 16:11:57,406] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/3 because already scraped.
+[2024-10-22 16:11:58,214] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/4 because already scraped.
+[2024-10-22 16:11:58,976] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/5
+[2024-10-22 16:12:50,907] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/5
+[2024-10-22 16:12:51,376] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:12:51,522] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/6
+[2024-10-22 16:14:02,086] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/6
+[2024-10-22 16:14:02,684] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:14:02,834] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/7
+[2024-10-22 16:14:25,606] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/7
+[2024-10-22 16:14:26,724] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:14:27,290] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/8
+[2024-10-22 16:14:52,004] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/8
+[2024-10-22 16:14:52,435] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:14:52,582] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/9
+[2024-10-22 16:15:44,268] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/9
+[2024-10-22 16:15:44,718] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:15:44,892] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/10
+[2024-10-22 16:16:16,441] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/10
+[2024-10-22 16:16:16,902] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:16:17,202] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/11
+[2024-10-22 16:16:42,368] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/11
+[2024-10-22 16:16:42,803] [INFO] [fps_address_scraper.py:91] Saved 7 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:16:42,980] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/12
+[2024-10-22 16:17:24,925] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/12
+[2024-10-22 16:17:24,955] [INFO] [fps_address_scraper.py:47] Original address: 1175 Montgomery Blvd
+[2024-10-22 16:17:24,957] [INFO] [fps_address_scraper.py:57] Standardized address: 1175 Montgomery Blvd
+[2024-10-22 16:17:25,262] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/1175-montgomery-blvd_allen-tx/page/1 because already scraped.
+[2024-10-22 16:17:25,619] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/1175-montgomery-blvd_allen-tx/page/2 because already scraped.
+[2024-10-22 16:17:26,144] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/1175-montgomery-blvd_allen-tx/page/3 because already scraped.
+[2024-10-22 16:17:26,464] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/1175-montgomery-blvd_allen-tx/page/4 because already scraped.
+[2024-10-22 16:17:26,785] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/1175-montgomery-blvd_allen-tx/page/5 because already scraped.
+[2024-10-22 16:17:27,150] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/1175-montgomery-blvd_allen-tx/page/6 because already scraped.
+[2024-10-22 16:17:27,352] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/1175-montgomery-blvd_allen-tx/page/7 because already scraped.
+[2024-10-22 16:17:27,504] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/1175-montgomery-blvd_allen-tx/page/8 because already scraped.
+[2024-10-22 16:17:27,679] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/1175-montgomery-blvd_allen-tx/page/9 because already scraped.
+[2024-10-22 16:17:27,835] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/1175-montgomery-blvd_allen-tx/page/10 because already scraped.
+[2024-10-22 16:17:27,992] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/1175-montgomery-blvd_allen-tx/page/11 because already scraped.
+[2024-10-22 16:17:28,168] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1175-montgomery-blvd_allen-tx/page/12
+[2024-10-22 16:17:50,052] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1175-montgomery-blvd_allen-tx/page/12
+[2024-10-22 16:17:50,070] [INFO] [fps_address_scraper.py:47] Original address: 11771 Mira Lago Blvd
+[2024-10-22 16:17:50,070] [INFO] [fps_address_scraper.py:57] Standardized address: 11771 Mira Lago Blvd
+[2024-10-22 16:17:50,223] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11771-mira-lago-blvd_farmers-branch-tx/page/1 because already scraped.
+[2024-10-22 16:17:50,378] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11771-mira-lago-blvd_farmers-branch-tx/page/2 because already scraped.
+[2024-10-22 16:17:50,555] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11771-mira-lago-blvd_farmers-branch-tx/page/3 because already scraped.
+[2024-10-22 16:17:50,708] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11771-mira-lago-blvd_farmers-branch-tx/page/4 because already scraped.
+[2024-10-22 16:17:50,860] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11771-mira-lago-blvd_farmers-branch-tx/page/5 because already scraped.
+[2024-10-22 16:17:51,034] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11771-mira-lago-blvd_farmers-branch-tx/page/6 because already scraped.
+[2024-10-22 16:17:51,190] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11771-mira-lago-blvd_farmers-branch-tx/page/7 because already scraped.
+[2024-10-22 16:17:51,344] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11771-mira-lago-blvd_farmers-branch-tx/page/8 because already scraped.
+[2024-10-22 16:17:51,516] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11771-mira-lago-blvd_farmers-branch-tx/page/9 because already scraped.
+[2024-10-22 16:17:51,669] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11771-mira-lago-blvd_farmers-branch-tx/page/10 because already scraped.
+[2024-10-22 16:17:51,823] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11771-mira-lago-blvd_farmers-branch-tx/page/11 because already scraped.
+[2024-10-22 16:17:51,996] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/11771-mira-lago-blvd_farmers-branch-tx/page/12
+[2024-10-22 16:18:19,266] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11771-mira-lago-blvd_farmers-branch-tx/page/12
+[2024-10-22 16:18:19,283] [INFO] [fps_address_scraper.py:47] Original address: 11805 Meadowglen Ln
+[2024-10-22 16:18:19,283] [INFO] [fps_address_scraper.py:57] Standardized address: 11805 Meadowglen Ln
+[2024-10-22 16:18:19,436] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11805-meadowglen-ln_houston-tx/page/1 because already scraped.
+[2024-10-22 16:18:19,590] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11805-meadowglen-ln_houston-tx/page/2 because already scraped.
+[2024-10-22 16:18:19,764] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11805-meadowglen-ln_houston-tx/page/3 because already scraped.
+[2024-10-22 16:18:19,916] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11805-meadowglen-ln_houston-tx/page/4 because already scraped.
+[2024-10-22 16:18:20,068] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11805-meadowglen-ln_houston-tx/page/5 because already scraped.
+[2024-10-22 16:18:20,244] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11805-meadowglen-ln_houston-tx/page/6 because already scraped.
+[2024-10-22 16:18:20,398] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11805-meadowglen-ln_houston-tx/page/7 because already scraped.
+[2024-10-22 16:18:20,551] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11805-meadowglen-ln_houston-tx/page/8 because already scraped.
+[2024-10-22 16:18:20,726] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11805-meadowglen-ln_houston-tx/page/9 because already scraped.
+[2024-10-22 16:18:20,879] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11805-meadowglen-ln_houston-tx/page/10 because already scraped.
+[2024-10-22 16:18:21,032] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11805-meadowglen-ln_houston-tx/page/11 because already scraped.
+[2024-10-22 16:18:21,205] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/11805-meadowglen-ln_houston-tx/page/12
+[2024-10-22 16:18:44,895] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11805-meadowglen-ln_houston-tx/page/12
+[2024-10-22 16:18:44,912] [INFO] [fps_address_scraper.py:47] Original address: 11869 Potranco Rd
+[2024-10-22 16:18:44,912] [INFO] [fps_address_scraper.py:57] Standardized address: 11869 Potranco Rd
+[2024-10-22 16:18:45,067] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11869-potranco-rd_san-antonio-tx/page/1 because already scraped.
+[2024-10-22 16:18:45,218] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11869-potranco-rd_san-antonio-tx/page/2 because already scraped.
+[2024-10-22 16:18:45,392] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11869-potranco-rd_san-antonio-tx/page/3 because already scraped.
+[2024-10-22 16:18:45,544] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11869-potranco-rd_san-antonio-tx/page/4 because already scraped.
+[2024-10-22 16:18:45,696] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11869-potranco-rd_san-antonio-tx/page/5 because already scraped.
+[2024-10-22 16:18:45,870] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11869-potranco-rd_san-antonio-tx/page/6 because already scraped.
+[2024-10-22 16:18:46,027] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11869-potranco-rd_san-antonio-tx/page/7 because already scraped.
+[2024-10-22 16:18:46,180] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11869-potranco-rd_san-antonio-tx/page/8 because already scraped.
+[2024-10-22 16:18:46,359] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11869-potranco-rd_san-antonio-tx/page/9 because already scraped.
+[2024-10-22 16:18:46,514] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11869-potranco-rd_san-antonio-tx/page/10 because already scraped.
+[2024-10-22 16:18:46,666] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11869-potranco-rd_san-antonio-tx/page/11 because already scraped.
+[2024-10-22 16:18:46,839] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/11869-potranco-rd_san-antonio-tx/page/12
+[2024-10-22 16:20:07,794] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11869-potranco-rd_san-antonio-tx/page/12
+[2024-10-22 16:20:07,831] [INFO] [fps_address_scraper.py:47] Original address: 11900 Commerce St
+[2024-10-22 16:20:07,833] [INFO] [fps_address_scraper.py:57] Standardized address: 11900 Commerce St
+[2024-10-22 16:20:08,187] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-commerce-st_farmers-branch-tx/page/1 because already scraped.
+[2024-10-22 16:20:08,510] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-commerce-st_farmers-branch-tx/page/2 because already scraped.
+[2024-10-22 16:20:08,867] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-commerce-st_farmers-branch-tx/page/3 because already scraped.
+[2024-10-22 16:20:09,171] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-commerce-st_farmers-branch-tx/page/4 because already scraped.
+[2024-10-22 16:20:09,619] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-commerce-st_farmers-branch-tx/page/5 because already scraped.
+[2024-10-22 16:20:10,268] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-commerce-st_farmers-branch-tx/page/6 because already scraped.
+[2024-10-22 16:20:10,778] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-commerce-st_farmers-branch-tx/page/7 because already scraped.
+[2024-10-22 16:20:11,258] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-commerce-st_farmers-branch-tx/page/8 because already scraped.
+[2024-10-22 16:20:11,645] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-commerce-st_farmers-branch-tx/page/9 because already scraped.
+[2024-10-22 16:20:11,974] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-commerce-st_farmers-branch-tx/page/10 because already scraped.
+[2024-10-22 16:20:12,306] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-commerce-st_farmers-branch-tx/page/11 because already scraped.
+[2024-10-22 16:20:12,714] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/11900-commerce-st_farmers-branch-tx/page/12
+[2024-10-22 16:20:34,371] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11900-commerce-st_farmers-branch-tx/page/12
+[2024-10-22 16:20:34,388] [INFO] [fps_address_scraper.py:47] Original address: 11900 Research Rd
+[2024-10-22 16:20:34,388] [INFO] [fps_address_scraper.py:57] Standardized address: 11900 Research Rd
+[2024-10-22 16:20:34,542] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-research-rd_frisco-tx/page/1 because already scraped.
+[2024-10-22 16:20:34,694] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-research-rd_frisco-tx/page/2 because already scraped.
+[2024-10-22 16:20:34,870] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-research-rd_frisco-tx/page/3 because already scraped.
+[2024-10-22 16:20:35,024] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-research-rd_frisco-tx/page/4 because already scraped.
+[2024-10-22 16:20:35,178] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-research-rd_frisco-tx/page/5 because already scraped.
+[2024-10-22 16:20:35,350] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-research-rd_frisco-tx/page/6 because already scraped.
+[2024-10-22 16:20:35,508] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-research-rd_frisco-tx/page/7 because already scraped.
+[2024-10-22 16:20:35,663] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-research-rd_frisco-tx/page/8 because already scraped.
+[2024-10-22 16:20:35,838] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-research-rd_frisco-tx/page/9 because already scraped.
+[2024-10-22 16:20:35,990] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-research-rd_frisco-tx/page/10 because already scraped.
+[2024-10-22 16:20:36,142] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11900-research-rd_frisco-tx/page/11 because already scraped.
+[2024-10-22 16:20:36,314] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/11900-research-rd_frisco-tx/page/12
+[2024-10-22 16:21:39,614] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11900-research-rd_frisco-tx/page/12
+[2024-10-22 16:21:39,631] [INFO] [fps_address_scraper.py:47] Original address: 11901 Willlow Springs Rd
+[2024-10-22 16:21:39,632] [INFO] [fps_address_scraper.py:57] Standardized address: 11901 Willlow Springs Rd
+[2024-10-22 16:21:39,784] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/11901-willlow-springs-rd_haslet-tx/page/1
+[2024-10-22 16:22:07,607] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11901-willlow-springs-rd_haslet-tx/page/1
+[2024-10-22 16:22:07,654] [INFO] [fps_address_scraper.py:47] Original address: 11911 Greenville Ave
+[2024-10-22 16:22:07,655] [INFO] [fps_address_scraper.py:57] Standardized address: 11911 Greenville Ave
+[2024-10-22 16:22:07,953] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11911-greenville-ave_dallas-tx/page/1 because already scraped.
+[2024-10-22 16:22:08,488] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11911-greenville-ave_dallas-tx/page/2 because already scraped.
+[2024-10-22 16:22:08,819] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11911-greenville-ave_dallas-tx/page/3 because already scraped.
+[2024-10-22 16:22:09,118] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11911-greenville-ave_dallas-tx/page/4 because already scraped.
+[2024-10-22 16:22:09,480] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11911-greenville-ave_dallas-tx/page/5 because already scraped.
+[2024-10-22 16:22:09,817] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11911-greenville-ave_dallas-tx/page/6 because already scraped.
+[2024-10-22 16:22:10,134] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11911-greenville-ave_dallas-tx/page/7 because already scraped.
+[2024-10-22 16:22:10,475] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11911-greenville-ave_dallas-tx/page/8 because already scraped.
+[2024-10-22 16:22:10,787] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11911-greenville-ave_dallas-tx/page/9 because already scraped.
+[2024-10-22 16:22:11,096] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11911-greenville-ave_dallas-tx/page/10 because already scraped.
+[2024-10-22 16:22:11,470] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11911-greenville-ave_dallas-tx/page/11 because already scraped.
+[2024-10-22 16:22:11,796] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/11911-greenville-ave_dallas-tx/page/12
+[2024-10-22 16:22:38,209] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11911-greenville-ave_dallas-tx/page/12
+[2024-10-22 16:22:38,223] [INFO] [fps_address_scraper.py:47] Original address: 11925 Ring Dr
+[2024-10-22 16:22:38,223] [INFO] [fps_address_scraper.py:57] Standardized address: 11925 Ring Dr
+[2024-10-22 16:22:38,369] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11925-ring-dr_manor-tx/page/1 because already scraped.
+[2024-10-22 16:22:38,544] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11925-ring-dr_manor-tx/page/2 because already scraped.
+[2024-10-22 16:22:38,698] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11925-ring-dr_manor-tx/page/3 because already scraped.
+[2024-10-22 16:22:38,851] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11925-ring-dr_manor-tx/page/4 because already scraped.
+[2024-10-22 16:22:39,025] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11925-ring-dr_manor-tx/page/5 because already scraped.
+[2024-10-22 16:22:39,177] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11925-ring-dr_manor-tx/page/6 because already scraped.
+[2024-10-22 16:22:39,328] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11925-ring-dr_manor-tx/page/7 because already scraped.
+[2024-10-22 16:22:39,500] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11925-ring-dr_manor-tx/page/8 because already scraped.
+[2024-10-22 16:22:39,651] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11925-ring-dr_manor-tx/page/9 because already scraped.
+[2024-10-22 16:22:39,805] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11925-ring-dr_manor-tx/page/10 because already scraped.
+[2024-10-22 16:22:39,979] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11925-ring-dr_manor-tx/page/11 because already scraped.
+[2024-10-22 16:22:40,134] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/11925-ring-dr_manor-tx/page/12
+[2024-10-22 16:23:06,348] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11925-ring-dr_manor-tx/page/12
+[2024-10-22 16:23:06,365] [INFO] [fps_address_scraper.py:47] Original address: 120 Turtle Creek Blvd
+[2024-10-22 16:23:06,365] [INFO] [fps_address_scraper.py:57] Standardized address: 120 Turtle Creek Blvd
+[2024-10-22 16:23:06,520] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/1 because already scraped.
+[2024-10-22 16:23:06,695] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/2 because already scraped.
+[2024-10-22 16:23:06,850] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/3 because already scraped.
+[2024-10-22 16:23:07,006] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/4 because already scraped.
+[2024-10-22 16:23:07,180] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/5 because already scraped.
+[2024-10-22 16:23:07,348] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/6 because already scraped.
+[2024-10-22 16:23:07,503] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/7 because already scraped.
+[2024-10-22 16:23:07,680] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/8 because already scraped.
+[2024-10-22 16:23:07,834] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/9 because already scraped.
+[2024-10-22 16:23:07,987] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/10 because already scraped.
+[2024-10-22 16:23:08,164] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/11 because already scraped.
+[2024-10-22 16:23:08,319] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/12
+[2024-10-22 16:23:30,187] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-turtle-creek-blvd_dallas-tx/page/12
+[2024-10-22 16:23:30,204] [INFO] [fps_address_scraper.py:47] Original address: 120 W Cityline Dr
+[2024-10-22 16:23:30,204] [INFO] [fps_address_scraper.py:57] Standardized address: 120 W Cityline Dr
+[2024-10-22 16:23:30,357] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/1
+[2024-10-22 16:24:22,174] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/1
+[2024-10-22 16:24:23,177] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:24:23,533] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/2
+[2024-10-22 16:25:15,634] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/2
+[2024-10-22 16:25:16,192] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:25:16,428] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/3
+[2024-10-22 16:26:08,998] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/3
+[2024-10-22 16:26:09,480] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:26:09,643] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/4
+[2024-10-22 16:27:01,096] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/4
+[2024-10-22 16:27:01,570] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:27:01,730] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/5
+[2024-10-22 16:27:53,790] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/5
+[2024-10-22 16:27:54,275] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:27:54,433] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/6
+[2024-10-22 16:29:00,690] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/6
+[2024-10-22 16:29:01,118] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:29:01,306] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/7
+[2024-10-22 16:30:18,198] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/7
+[2024-10-22 16:30:19,221] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:30:19,566] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/8
+[2024-10-22 16:30:42,786] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/8
+[2024-10-22 16:30:43,458] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:30:43,650] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/9
+[2024-10-22 16:32:24,015] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/9
+[2024-10-22 16:32:24,491] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:32:24,656] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/10
+[2024-10-22 16:33:18,218] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/10
+[2024-10-22 16:33:19,138] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:33:19,490] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/11
+[2024-10-22 16:33:45,579] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/11
+[2024-10-22 16:33:46,136] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:33:46,331] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/12
+[2024-10-22 16:34:09,309] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/120-w-cityline-dr_richardson-tx/page/12
+[2024-10-22 16:34:09,341] [INFO] [fps_address_scraper.py:47] Original address: 1200 N Gateway Blvd
+[2024-10-22 16:34:09,342] [INFO] [fps_address_scraper.py:57] Standardized address: 1200 N Gateway Blvd
+[2024-10-22 16:34:09,680] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/1
+[2024-10-22 16:35:01,232] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/1
+[2024-10-22 16:35:01,748] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:35:01,943] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/2
+[2024-10-22 16:35:36,293] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/2
+[2024-10-22 16:35:36,779] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:35:36,951] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/3
+[2024-10-22 16:36:31,153] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/3
+[2024-10-22 16:36:31,680] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:36:31,854] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/4
+[2024-10-22 16:37:23,798] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/4
+[2024-10-22 16:37:24,879] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:37:25,574] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/5
+[2024-10-22 16:39:04,940] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/5
+[2024-10-22 16:39:05,327] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:39:05,459] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/6
+[2024-10-22 16:39:47,588] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/6
+[2024-10-22 16:39:48,697] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:39:49,164] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/7
+[2024-10-22 16:41:14,174] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/7
+[2024-10-22 16:41:14,863] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:41:15,269] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/8
+[2024-10-22 16:41:57,252] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/8
+[2024-10-22 16:41:57,790] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:41:57,998] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/9
+[2024-10-22 16:42:17,459] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/9
+[2024-10-22 16:42:17,967] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:42:18,148] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/10
+[2024-10-22 16:42:49,927] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/10
+[2024-10-22 16:42:50,749] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:42:50,986] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/11
+[2024-10-22 16:43:44,021] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/11
+[2024-10-22 16:43:45,419] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:43:45,859] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/12
+[2024-10-22 16:44:08,913] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/12
+[2024-10-22 16:44:08,930] [INFO] [fps_address_scraper.py:47] Original address: 1200 Post Oak Blvd
+[2024-10-22 16:44:08,930] [INFO] [fps_address_scraper.py:57] Standardized address: 1200 Post Oak Blvd
+[2024-10-22 16:44:09,112] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1200-post-oak-blvd_houston-tx/page/1
+[2024-10-22 16:45:37,875] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1200-post-oak-blvd_houston-tx/page/1
+[2024-10-22 16:45:38,427] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:45:38,614] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1200-post-oak-blvd_houston-tx/page/2
+[2024-10-22 16:46:05,993] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1200-post-oak-blvd_houston-tx/page/2
+[2024-10-22 16:46:06,559] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:46:06,744] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1200-post-oak-blvd_houston-tx/page/3
+[2024-10-22 16:46:58,518] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1200-post-oak-blvd_houston-tx/page/3
+[2024-10-22 16:46:59,046] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:46:59,257] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1200-post-oak-blvd_houston-tx/page/4
+[2024-10-22 16:47:21,460] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1200-post-oak-blvd_houston-tx/page/4
+[2024-10-22 16:47:21,988] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:47:22,178] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1200-post-oak-blvd_houston-tx/page/5
+[2024-10-22 16:48:00,115] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1200-post-oak-blvd_houston-tx/page/5
+[2024-10-22 16:48:00,678] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:48:00,869] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1200-post-oak-blvd_houston-tx/page/6
+[2024-10-22 16:48:52,944] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1200-post-oak-blvd_houston-tx/page/6
+[2024-10-22 16:48:53,535] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:48:53,728] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1200-post-oak-blvd_houston-tx/page/7
+[2024-10-22 16:49:19,363] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1200-post-oak-blvd_houston-tx/page/7
+[2024-10-22 16:49:19,954] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:49:20,146] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1200-post-oak-blvd_houston-tx/page/8
+[2024-10-22 16:50:12,455] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1200-post-oak-blvd_houston-tx/page/8
+[2024-10-22 16:50:13,043] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 16:50:13,240] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/1200-post-oak-blvd_houston-tx/page/9
+[2024-10-22 18:00:07,982] [INFO] [fps_address_scraper.py:47] Original address: 11711 Domain Dr
+[2024-10-22 18:00:07,987] [INFO] [fps_address_scraper.py:57] Standardized address: 11711 Domain Dr
+[2024-10-22 18:00:09,746] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/1 because already scraped.
+[2024-10-22 18:00:11,407] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/2 because already scraped.
+[2024-10-22 18:00:12,870] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/3 because already scraped.
+[2024-10-22 18:00:14,563] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/4 because already scraped.
+[2024-10-22 18:00:15,628] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/5 because already scraped.
+[2024-10-22 18:00:16,445] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/6 because already scraped.
+[2024-10-22 18:00:17,414] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/7 because already scraped.
+[2024-10-22 18:00:18,165] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/8 because already scraped.
+[2024-10-22 18:00:19,071] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/9 because already scraped.
+[2024-10-22 18:00:19,942] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/10 because already scraped.
+[2024-10-22 18:00:20,827] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/11 because already scraped.
+[2024-10-22 18:00:21,273] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/11711-domain-dr_austin-tx/page/12
+[2024-10-22 18:01:25,832] [INFO] [fps_address_scraper.py:218] output_chunk_2.xlsx. Scraping 13 of 98
+[2024-10-22 18:01:25,841] [INFO] [fps_address_scraper.py:47] Original address: 1200 N Gateway Blvd
+[2024-10-22 18:01:25,841] [INFO] [fps_address_scraper.py:57] Standardized address: 1200 N Gateway Blvd
+[2024-10-22 18:01:27,895] [INFO] [fps_address_scraper.py:184] Skipping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/1 because already scraped.
+[2024-10-22 18:01:29,516] [INFO] [fps_address_scraper.py:184] Skipping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/2 because already scraped.
+[2024-10-22 18:01:30,712] [INFO] [fps_address_scraper.py:184] Skipping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/3 because already scraped.
+[2024-10-22 18:01:31,702] [INFO] [fps_address_scraper.py:184] Skipping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/4 because already scraped.
+[2024-10-22 18:01:32,515] [INFO] [fps_address_scraper.py:184] Skipping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/5 because already scraped.
+[2024-10-22 18:01:33,325] [INFO] [fps_address_scraper.py:184] Skipping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/6 because already scraped.
+[2024-10-22 18:01:33,884] [INFO] [fps_address_scraper.py:184] Skipping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/7 because already scraped.
+[2024-10-22 18:01:34,576] [INFO] [fps_address_scraper.py:184] Skipping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/8 because already scraped.
+[2024-10-22 18:01:35,178] [INFO] [fps_address_scraper.py:184] Skipping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/9 because already scraped.
+[2024-10-22 18:01:35,884] [INFO] [fps_address_scraper.py:184] Skipping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/10 because already scraped.
+[2024-10-22 18:01:36,376] [INFO] [fps_address_scraper.py:184] Skipping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/11 because already scraped.
+[2024-10-22 18:01:36,967] [INFO] [fps_address_scraper.py:187] Scraping https://www.fastpeoplesearch.com/address/1200-n-gateway-blvd_forney-tx/page/12
+[2024-10-22 18:07:05,660] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:07:15,886] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:07:26,391] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:07:36,356] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:07:46,183] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:07:56,087] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:08:06,532] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:08:16,794] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:08:26,676] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:08:36,360] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:08:46,484] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:08:56,075] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:09:06,275] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:09:16,196] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:09:26,203] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:09:36,468] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:09:46,782] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:09:56,482] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:10:06,679] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:10:16,557] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:10:26,624] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:10:36,790] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:10:46,920] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:10:56,800] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:11:07,308] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:11:18,028] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:11:28,350] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:11:39,026] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:11:49,956] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:11:59,926] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:12:09,966] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:14:43,170] [INFO] [fps_address_scraper.py:215] PASS: /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:14:54,380] [INFO] [fps_address_scraper.py:215] PASS: /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:15:05,200] [INFO] [fps_address_scraper.py:215] PASS: /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:15:15,563] [INFO] [fps_address_scraper.py:215] PASS: /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:15:26,482] [INFO] [fps_address_scraper.py:215] PASS: /home/ubuntu/scripts/result_file/output_chunk_2.xlsx
+[2024-10-22 18:15:36,207] [INFO] [fps_address_scraper.py:215] PASS: /home/ubuntu/scripts/result_file/output_chunk_2.xlsx

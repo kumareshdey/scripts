@@ -5,7 +5,7 @@ base_dir = '/home/ubuntu/scripts/files/'
 output_conf_file = 'supervisord.conf'
 
 # Define the number of Excel chunks you have
-num_chunks = 5  # Update this based on the number of files you have
+num_chunks = 10  # Update this based on the number of files you have
 
 # Create the supervisord config file
 with open(output_conf_file, 'w') as conf_file:

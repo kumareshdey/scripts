@@ -1,0 +1,240 @@
+[2024-10-22 16:11:54,965] [INFO] [fps_address_scraper.py:47] Original address: 2411 Fondren Rd
+[2024-10-22 16:11:54,973] [INFO] [fps_address_scraper.py:57] Standardized address: 2411 Fondren Rd
+[2024-10-22 16:11:54,973] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/1
+[2024-10-22 16:12:16,702] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/1
+[2024-10-22 16:12:16,802] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:12:16,817] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/2
+[2024-10-22 16:13:33,374] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/2
+[2024-10-22 16:13:33,466] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:13:33,474] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/3
+[2024-10-22 16:15:01,209] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/3
+[2024-10-22 16:15:01,291] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:15:01,301] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/4
+[2024-10-22 16:15:51,268] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/4
+[2024-10-22 16:15:51,402] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:15:51,414] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/5
+[2024-10-22 16:16:13,863] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/5
+[2024-10-22 16:16:13,969] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:16:13,982] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/6
+[2024-10-22 16:17:06,973] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/6
+[2024-10-22 16:17:07,210] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:17:07,238] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/7
+[2024-10-22 16:18:21,436] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/7
+[2024-10-22 16:18:21,544] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:18:21,560] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/8
+[2024-10-22 16:18:57,058] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/8
+[2024-10-22 16:18:57,287] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:18:57,324] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/9
+[2024-10-22 16:20:53,208] [ERROR] [fps_address_scraper.py:24] Could not get successful response. Status code 500. {"status":"Failed to get successful response from website. Please retry the request."}
+[2024-10-22 16:20:53,208] [WARNING] [api.py:40] Request failed. Status code 500, retrying in 1 seconds...
+[2024-10-22 16:21:45,614] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/9
+[2024-10-22 16:21:45,766] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:21:45,786] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/10
+[2024-10-22 16:22:37,531] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/10
+[2024-10-22 16:22:37,646] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:22:37,665] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/11
+[2024-10-22 16:23:53,404] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/11
+[2024-10-22 16:23:53,658] [INFO] [fps_address_scraper.py:91] Saved 8 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:23:53,699] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/12
+[2024-10-22 16:24:19,772] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/12
+[2024-10-22 16:24:19,789] [INFO] [fps_address_scraper.py:47] Original address: 2411 Greenhouse Rd
+[2024-10-22 16:24:19,790] [INFO] [fps_address_scraper.py:57] Standardized address: 2411 Greenhouse Rd
+[2024-10-22 16:24:19,811] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/1
+[2024-10-22 16:25:12,013] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/1
+[2024-10-22 16:25:12,138] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:25:12,160] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/2
+[2024-10-22 16:25:40,827] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/2
+[2024-10-22 16:25:41,183] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:25:41,227] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/3
+[2024-10-22 16:26:27,273] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/3
+[2024-10-22 16:26:27,404] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:26:27,428] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/4
+[2024-10-22 16:26:50,488] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/4
+[2024-10-22 16:26:50,615] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:26:50,642] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/5
+[2024-10-22 16:27:12,068] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/5
+[2024-10-22 16:27:12,421] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:27:12,496] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/6
+[2024-10-22 16:28:03,835] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/6
+[2024-10-22 16:28:03,980] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:28:04,009] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/7
+[2024-10-22 16:28:55,663] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/7
+[2024-10-22 16:28:55,807] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:28:55,836] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/8
+[2024-10-22 16:29:22,183] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/8
+[2024-10-22 16:29:22,362] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:29:22,394] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/9
+[2024-10-22 16:29:51,160] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/9
+[2024-10-22 16:29:51,313] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:29:51,346] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/10
+[2024-10-22 16:30:42,784] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/10
+[2024-10-22 16:30:43,094] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:30:43,167] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/11
+[2024-10-22 16:31:39,418] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/11
+[2024-10-22 16:31:39,600] [INFO] [fps_address_scraper.py:91] Saved 6 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:31:39,635] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/12
+[2024-10-22 16:32:00,754] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2411-greenhouse-rd_houston-tx/page/12
+[2024-10-22 16:32:00,790] [INFO] [fps_address_scraper.py:47] Original address: 2424 Capitol St
+[2024-10-22 16:32:00,790] [INFO] [fps_address_scraper.py:57] Standardized address: 2424 Capitol St
+[2024-10-22 16:32:00,864] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/1
+[2024-10-22 16:32:52,740] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/1
+[2024-10-22 16:32:53,095] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:32:53,170] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/2
+[2024-10-22 16:33:45,482] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/2
+[2024-10-22 16:33:45,697] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:33:45,755] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/3
+[2024-10-22 16:34:07,200] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/3
+[2024-10-22 16:34:07,546] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:34:07,623] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/4
+[2024-10-22 16:34:59,494] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/4
+[2024-10-22 16:34:59,652] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:34:59,693] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/5
+[2024-10-22 16:35:36,025] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/5
+[2024-10-22 16:35:36,228] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:35:36,272] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/6
+[2024-10-22 16:36:01,469] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/6
+[2024-10-22 16:36:01,643] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:36:01,688] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/7
+[2024-10-22 16:36:41,558] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/7
+[2024-10-22 16:36:41,759] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:36:41,804] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/8
+[2024-10-22 16:37:05,050] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/8
+[2024-10-22 16:37:05,228] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:37:05,274] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/9
+[2024-10-22 16:37:24,809] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/9
+[2024-10-22 16:37:25,515] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:37:25,695] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/10
+[2024-10-22 16:38:17,308] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/10
+[2024-10-22 16:38:17,499] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:38:17,548] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/11
+[2024-10-22 16:38:40,006] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/11
+[2024-10-22 16:38:40,481] [INFO] [fps_address_scraper.py:91] Saved 8 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:38:40,575] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/12
+[2024-10-22 16:39:18,394] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-capitol-st_houston-tx/page/12
+[2024-10-22 16:39:18,412] [INFO] [fps_address_scraper.py:47] Original address: 2424 S Voss Rd
+[2024-10-22 16:39:18,412] [INFO] [fps_address_scraper.py:57] Standardized address: 2424 S Voss Rd
+[2024-10-22 16:39:18,466] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/1
+[2024-10-22 16:39:46,047] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/1
+[2024-10-22 16:39:46,439] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:39:46,551] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/2
+[2024-10-22 16:40:14,200] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/2
+[2024-10-22 16:40:14,398] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:40:14,494] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/3
+[2024-10-22 16:41:05,610] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/3
+[2024-10-22 16:41:05,884] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:41:05,971] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/4
+[2024-10-22 16:41:37,913] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/4
+[2024-10-22 16:41:38,118] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:41:38,172] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/5
+[2024-10-22 16:42:00,974] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/5
+[2024-10-22 16:42:01,204] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:42:01,260] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/6
+[2024-10-22 16:42:22,324] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/6
+[2024-10-22 16:42:22,529] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:42:22,587] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/7
+[2024-10-22 16:42:50,211] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/7
+[2024-10-22 16:42:50,732] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:42:50,848] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/8
+[2024-10-22 16:43:21,439] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/8
+[2024-10-22 16:43:21,638] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:43:21,726] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/9
+[2024-10-22 16:44:13,438] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/9
+[2024-10-22 16:44:13,966] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:44:14,150] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/10
+[2024-10-22 16:45:06,702] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/10
+[2024-10-22 16:45:06,947] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:45:07,012] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/11
+[2024-10-22 16:46:43,044] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/11
+[2024-10-22 16:46:43,506] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:46:43,644] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/12
+[2024-10-22 16:47:09,740] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-s-voss-rd_houston-tx/page/12
+[2024-10-22 16:47:09,788] [INFO] [fps_address_scraper.py:47] Original address: 2424 Sawyer Heights St
+[2024-10-22 16:47:09,789] [INFO] [fps_address_scraper.py:57] Standardized address: 2424 Sawyer Heights St
+[2024-10-22 16:47:09,854] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/1
+[2024-10-22 16:47:32,037] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/1
+[2024-10-22 16:47:32,250] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:47:32,316] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/2
+[2024-10-22 16:47:53,984] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/2
+[2024-10-22 16:47:54,524] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:47:54,656] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/3
+[2024-10-22 16:48:21,087] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/3
+[2024-10-22 16:48:21,340] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:48:21,410] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/4
+[2024-10-22 16:48:51,794] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/4
+[2024-10-22 16:48:52,022] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:48:52,092] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/5
+[2024-10-22 16:49:43,897] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/5
+[2024-10-22 16:49:44,497] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:49:44,647] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/6
+[2024-10-22 16:50:18,266] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/6
+[2024-10-22 16:50:18,743] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 16:50:18,815] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/7
+[2024-10-22 18:00:07,980] [INFO] [fps_address_scraper.py:47] Original address: 2411 Fondren Rd
+[2024-10-22 18:00:07,986] [INFO] [fps_address_scraper.py:57] Standardized address: 2411 Fondren Rd
+[2024-10-22 18:00:08,729] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/1 because already scraped.
+[2024-10-22 18:00:09,401] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/2 because already scraped.
+[2024-10-22 18:00:09,944] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/3 because already scraped.
+[2024-10-22 18:00:10,711] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/4 because already scraped.
+[2024-10-22 18:00:11,323] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/5 because already scraped.
+[2024-10-22 18:00:11,868] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/6 because already scraped.
+[2024-10-22 18:00:12,426] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/7 because already scraped.
+[2024-10-22 18:00:13,015] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/8 because already scraped.
+[2024-10-22 18:00:13,582] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/9 because already scraped.
+[2024-10-22 18:00:14,141] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/10 because already scraped.
+[2024-10-22 18:00:14,928] [INFO] [fps_address_scraper.py:183] Skipping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/11 because already scraped.
+[2024-10-22 18:00:15,333] [INFO] [fps_address_scraper.py:186] Scraping https://www.fastpeoplesearch.com/address/2411-fondren-rd_houston-tx/page/12
+[2024-10-22 18:01:24,426] [INFO] [fps_address_scraper.py:218] output_chunk_6.xlsx. Scraping 5 of 98
+[2024-10-22 18:01:24,429] [INFO] [fps_address_scraper.py:47] Original address: 2424 Sawyer Heights St
+[2024-10-22 18:01:24,429] [INFO] [fps_address_scraper.py:57] Standardized address: 2424 Sawyer Heights St
+[2024-10-22 18:01:25,238] [INFO] [fps_address_scraper.py:184] Skipping https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/1 because already scraped.
+[2024-10-22 18:01:26,044] [INFO] [fps_address_scraper.py:184] Skipping https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/2 because already scraped.
+[2024-10-22 18:01:27,068] [INFO] [fps_address_scraper.py:184] Skipping https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/3 because already scraped.
+[2024-10-22 18:01:27,702] [INFO] [fps_address_scraper.py:184] Skipping https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/4 because already scraped.
+[2024-10-22 18:01:28,350] [INFO] [fps_address_scraper.py:184] Skipping https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/5 because already scraped.
+[2024-10-22 18:01:28,942] [INFO] [fps_address_scraper.py:184] Skipping https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/6 because already scraped.
+[2024-10-22 18:01:29,484] [INFO] [fps_address_scraper.py:187] Scraping https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/7
+[2024-10-22 18:01:53,535] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/7
+[2024-10-22 18:01:54,480] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:01:54,844] [INFO] [fps_address_scraper.py:187] Scraping https://www.fastpeoplesearch.com/address/2424-sawyer-heights-st_houston-tx/page/8
+[2024-10-22 18:07:05,775] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:07:14,214] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:07:23,191] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:07:31,860] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:07:42,065] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:07:50,572] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:08:00,334] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:08:09,276] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:08:18,200] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:08:27,403] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:08:36,087] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:08:45,051] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:08:53,992] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:09:03,258] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:09:12,942] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:09:22,112] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:09:30,724] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:09:39,411] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:09:48,784] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:09:58,479] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:10:07,046] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:10:16,254] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:10:25,860] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:10:34,710] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:10:43,339] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:10:51,948] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:11:01,493] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:11:11,383] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:11:20,522] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:11:28,915] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:11:37,652] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:11:46,811] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:11:55,311] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:12:03,786] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:12:12,383] [INFO] [fps_address_scraper.py:210] /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:14:41,803] [INFO] [fps_address_scraper.py:215] PASS: /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:14:50,574] [INFO] [fps_address_scraper.py:215] PASS: /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:14:59,361] [INFO] [fps_address_scraper.py:215] PASS: /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:15:08,182] [INFO] [fps_address_scraper.py:215] PASS: /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:15:16,912] [INFO] [fps_address_scraper.py:215] PASS: /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:15:26,607] [INFO] [fps_address_scraper.py:215] PASS: /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
+[2024-10-22 18:15:36,238] [INFO] [fps_address_scraper.py:215] PASS: /home/ubuntu/scripts/result_file/output_chunk_6.xlsx
