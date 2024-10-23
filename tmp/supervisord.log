@@ -18,3 +18,16 @@
 2024-10-23 05:28:48,208 INFO success: script_7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
 2024-10-23 05:28:48,208 INFO success: script_8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
 2024-10-23 05:28:48,208 INFO success: script_9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-23 14:07:35,532 INFO exited: script_2 (exit status 0; expected)
+2024-10-23 14:18:12,786 INFO exited: script_4 (exit status 0; expected)
+2024-10-23 14:32:39,691 INFO exited: script_3 (exit status 0; expected)
+2024-10-23 14:40:21,526 INFO exited: script_5 (exit status 0; expected)
+2024-10-23 15:25:39,487 INFO exited: script_8 (exit status 0; expected)
+2024-10-23 15:29:16,364 INFO exited: script_7 (exit status 0; expected)
+2024-10-23 15:45:12,229 INFO exited: script_6 (exit status 0; expected)
+2024-10-23 16:04:00,769 WARN received SIGTERM indicating exit request
+2024-10-23 16:04:00,769 INFO waiting for script_10, script_9 to die
+2024-10-23 16:04:00,782 WARN stopped: script_9 (terminated by SIGTERM)
+2024-10-23 16:04:04,608 INFO waiting for script_10 to die
+2024-10-23 16:04:07,611 INFO waiting for script_10 to die
+2024-10-23 16:04:07,622 WARN stopped: script_10 (terminated by SIGTERM)
