@@ -114,8 +114,6 @@ def scrape_single_page_data(final_url, row):
         }]
     
     soup = BeautifulSoup(response.text, 'html.parser')
-    with open("output.html", "w", encoding="utf-8") as file:
-        file.write(soup.prettify()) 
     table = soup.find('div', class_='people-list')
     if table:
         cards = table.find_all('div', class_='card-block')

@@ -5,8 +5,8 @@ base_dir = '/home/ubuntu/scripts/files/'
 output_conf_file = 'supervisord.conf'
 
 # Define the number of Excel chunks you have
-start = 2
-num_chunks = 10  # Update this based on the number of files you have
+start = 1
+num_chunks = 25 # Update this based on the number of files you have
 
 # Create the supervisord config file
 with open(output_conf_file, 'w') as conf_file:
@@ -17,6 +17,8 @@ with open(output_conf_file, 'w') as conf_file:
 
     # Loop to generate a config section for each file
     for i in range(start, num_chunks + 1):
+        if i in [2,3,4,5,6,7,8]:
+            continue
         program_name = f'script_{i}'
         excel_file = os.path.join(base_dir, f'output_chunk_{i}.xlsx')
 
