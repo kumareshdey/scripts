@@ -1,0 +1,7 @@
+[2024-10-23 18:58:32,756] [INFO] [fps_address_scraper.py:216] output_chunk_24.xlsx. Scraping 1 of 98
+[2024-10-23 18:58:32,757] [INFO] [fps_address_scraper.py:47] Original address: 720 Hank Aaron Dr SE
+[2024-10-23 18:58:32,757] [INFO] [fps_address_scraper.py:57] Standardized address: 720 Hank Aaron Dr SE
+[2024-10-23 18:58:32,757] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/720-hank-aaron-dr-se_atlanta-ga/page/1
+[2024-10-23 18:58:56,354] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/720-hank-aaron-dr-se_atlanta-ga/page/1
+[2024-10-23 18:58:56,428] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_24.xlsx
+[2024-10-23 18:58:56,436] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/720-hank-aaron-dr-se_atlanta-ga/page/2

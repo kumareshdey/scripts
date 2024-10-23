@@ -1,0 +1,7 @@
+[2024-10-23 18:58:32,779] [INFO] [fps_address_scraper.py:216] output_chunk_23.xlsx. Scraping 1 of 98
+[2024-10-23 18:58:32,780] [INFO] [fps_address_scraper.py:47] Original address: 3290 Cobb Galleria Pky
+[2024-10-23 18:58:32,780] [INFO] [fps_address_scraper.py:57] Standardized address: 3290 Cobb Galleria Pky
+[2024-10-23 18:58:32,780] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3290-cobb-galleria-pky_atlanta-ga/page/1
+[2024-10-23 18:58:55,637] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3290-cobb-galleria-pky_atlanta-ga/page/1
+[2024-10-23 18:58:55,711] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_23.xlsx
+[2024-10-23 18:58:55,717] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3290-cobb-galleria-pky_atlanta-ga/page/2

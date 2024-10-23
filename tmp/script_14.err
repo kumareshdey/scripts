@@ -1,0 +1,19 @@
+[2024-10-23 18:58:32,817] [INFO] [fps_address_scraper.py:216] output_chunk_14.xlsx. Scraping 1 of 98
+[2024-10-23 18:58:32,817] [INFO] [fps_address_scraper.py:47] Original address: 315 W Magnolia Ave
+[2024-10-23 18:58:32,818] [INFO] [fps_address_scraper.py:57] Standardized address: 315 W Magnolia Ave
+[2024-10-23 18:58:32,840] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/315-w-magnolia-ave_fort-worth-tx/page/1
+[2024-10-23 19:01:38,003] [INFO] [fps_address_scraper.py:216] output_chunk_14.xlsx. Scraping 1 of 98
+[2024-10-23 19:01:38,007] [INFO] [fps_address_scraper.py:47] Original address: 315 W Magnolia Ave
+[2024-10-23 19:01:38,011] [INFO] [fps_address_scraper.py:57] Standardized address: 315 W Magnolia Ave
+[2024-10-23 19:01:38,012] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/315-w-magnolia-ave_fort-worth-tx/page/1
+[2024-10-23 19:02:23,548] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/315-w-magnolia-ave_fort-worth-tx/page/1
+[2024-10-23 19:02:23,620] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_14.xlsx
+[2024-10-23 19:02:23,628] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/315-w-magnolia-ave_fort-worth-tx/page/2
+[2024-10-23 19:02:45,611] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/315-w-magnolia-ave_fort-worth-tx/page/2
+[2024-10-23 19:02:45,688] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_14.xlsx
+[2024-10-23 19:02:45,697] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/315-w-magnolia-ave_fort-worth-tx/page/3
+[2024-10-23 19:03:49,529] [ERROR] [fps_address_scraper.py:24] Could not get successful response. Status code 500. {"status":"Failed to get successful response from website. Please retry the request."}
+[2024-10-23 19:03:49,529] [WARNING] [api.py:40] Request failed. Status code 500, retrying in 1 seconds...
+[2024-10-23 19:04:13,087] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/315-w-magnolia-ave_fort-worth-tx/page/3
+[2024-10-23 19:04:13,171] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_14.xlsx
+[2024-10-23 19:04:13,183] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/315-w-magnolia-ave_fort-worth-tx/page/4

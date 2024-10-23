@@ -1,0 +1,7 @@
+[2024-10-23 18:58:32,822] [INFO] [fps_address_scraper.py:216] output_chunk_21.xlsx. Scraping 1 of 98
+[2024-10-23 18:58:32,822] [INFO] [fps_address_scraper.py:47] Original address: 605 W Chapel Hill St
+[2024-10-23 18:58:32,822] [INFO] [fps_address_scraper.py:57] Standardized address: 605 W Chapel Hill St
+[2024-10-23 18:58:32,823] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/605-w-chapel-hill-st_durham-nc/page/1
+[2024-10-23 18:58:56,009] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/605-w-chapel-hill-st_durham-nc/page/1
+[2024-10-23 18:58:56,083] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_21.xlsx
+[2024-10-23 18:58:56,091] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/605-w-chapel-hill-st_durham-nc/page/2

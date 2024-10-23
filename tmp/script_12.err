@@ -1,0 +1,24 @@
+[2024-10-23 18:58:32,755] [INFO] [fps_address_scraper.py:216] output_chunk_12.xlsx. Scraping 1 of 98
+[2024-10-23 18:58:32,759] [INFO] [fps_address_scraper.py:47] Original address: 7200 Dallas Pky
+[2024-10-23 18:58:32,760] [INFO] [fps_address_scraper.py:57] Standardized address: 7200 Dallas Pky
+[2024-10-23 18:58:32,760] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/7200-dallas-pky_plano-tx/page/1
+[2024-10-23 18:59:06,105] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/7200-dallas-pky_plano-tx/page/1
+[2024-10-23 18:59:06,163] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_12.xlsx
+[2024-10-23 18:59:06,171] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/7200-dallas-pky_plano-tx/page/2
+[2024-10-23 19:01:37,817] [INFO] [fps_address_scraper.py:216] output_chunk_12.xlsx. Scraping 1 of 98
+[2024-10-23 19:01:37,827] [INFO] [fps_address_scraper.py:47] Original address: 7200 Dallas Pky
+[2024-10-23 19:01:37,828] [INFO] [fps_address_scraper.py:57] Standardized address: 7200 Dallas Pky
+[2024-10-23 19:01:37,890] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/7200-dallas-pky_plano-tx/page/1 because already scraped.
+[2024-10-23 19:01:37,926] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/7200-dallas-pky_plano-tx/page/2
+[2024-10-23 19:01:59,656] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/7200-dallas-pky_plano-tx/page/2
+[2024-10-23 19:01:59,737] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_12.xlsx
+[2024-10-23 19:01:59,744] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/7200-dallas-pky_plano-tx/page/3
+[2024-10-23 19:02:21,300] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/7200-dallas-pky_plano-tx/page/3
+[2024-10-23 19:02:21,388] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_12.xlsx
+[2024-10-23 19:02:21,397] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/7200-dallas-pky_plano-tx/page/4
+[2024-10-23 19:03:34,578] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/7200-dallas-pky_plano-tx/page/4
+[2024-10-23 19:03:34,665] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_12.xlsx
+[2024-10-23 19:03:34,675] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/7200-dallas-pky_plano-tx/page/5
+[2024-10-23 19:04:26,924] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/7200-dallas-pky_plano-tx/page/5
+[2024-10-23 19:04:27,044] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_12.xlsx
+[2024-10-23 19:04:27,057] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/7200-dallas-pky_plano-tx/page/6

@@ -1,0 +1,22 @@
+[2024-10-23 18:58:32,750] [INFO] [fps_address_scraper.py:216] output_chunk_17.xlsx. Scraping 1 of 98
+[2024-10-23 18:58:32,771] [INFO] [fps_address_scraper.py:47] Original address: 1521 Boyd Pointe Way
+[2024-10-23 18:58:32,771] [INFO] [fps_address_scraper.py:57] Standardized address: 1521 Boyd Pointe Way
+[2024-10-23 18:58:32,771] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1521-boyd-pointe-way_mclean-va/page/1
+[2024-10-23 19:01:38,112] [INFO] [fps_address_scraper.py:216] output_chunk_17.xlsx. Scraping 1 of 98
+[2024-10-23 19:01:38,116] [INFO] [fps_address_scraper.py:47] Original address: 1521 Boyd Pointe Way
+[2024-10-23 19:01:38,117] [INFO] [fps_address_scraper.py:57] Standardized address: 1521 Boyd Pointe Way
+[2024-10-23 19:01:38,117] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1521-boyd-pointe-way_mclean-va/page/1
+[2024-10-23 19:01:59,026] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1521-boyd-pointe-way_mclean-va/page/1
+[2024-10-23 19:01:59,042] [INFO] [fps_address_scraper.py:216] output_chunk_17.xlsx. Scraping 2 of 98
+[2024-10-23 19:01:59,042] [INFO] [fps_address_scraper.py:47] Original address: 15560 Cosby Village Ave
+[2024-10-23 19:01:59,043] [INFO] [fps_address_scraper.py:57] Standardized address: 15560 Cosby Village Ave
+[2024-10-23 19:01:59,043] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/15560-cosby-village-ave_chesterfield-va/page/1
+[2024-10-23 19:02:20,479] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/15560-cosby-village-ave_chesterfield-va/page/1
+[2024-10-23 19:02:20,552] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_17.xlsx
+[2024-10-23 19:02:20,560] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/15560-cosby-village-ave_chesterfield-va/page/2
+[2024-10-23 19:02:55,069] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/15560-cosby-village-ave_chesterfield-va/page/2
+[2024-10-23 19:02:55,146] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_17.xlsx
+[2024-10-23 19:02:55,155] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/15560-cosby-village-ave_chesterfield-va/page/3
+[2024-10-23 19:03:23,262] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/15560-cosby-village-ave_chesterfield-va/page/3
+[2024-10-23 19:03:23,327] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_17.xlsx
+[2024-10-23 19:03:23,337] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/15560-cosby-village-ave_chesterfield-va/page/4

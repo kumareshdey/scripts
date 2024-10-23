@@ -1,0 +1,21 @@
+[2024-10-23 18:58:32,829] [INFO] [fps_address_scraper.py:216] output_chunk_15.xlsx. Scraping 1 of 98
+[2024-10-23 18:58:32,831] [INFO] [fps_address_scraper.py:47] Original address: 14320 Tandem Blvd
+[2024-10-23 18:58:32,832] [INFO] [fps_address_scraper.py:57] Standardized address: 14320 Tandem Blvd
+[2024-10-23 18:58:32,833] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/14320-tandem-blvd_austin-tx/page/1
+[2024-10-23 18:58:55,467] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/14320-tandem-blvd_austin-tx/page/1
+[2024-10-23 18:58:55,544] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_15.xlsx
+[2024-10-23 18:58:55,552] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/14320-tandem-blvd_austin-tx/page/2
+[2024-10-23 19:01:37,976] [INFO] [fps_address_scraper.py:216] output_chunk_15.xlsx. Scraping 1 of 98
+[2024-10-23 19:01:37,976] [INFO] [fps_address_scraper.py:47] Original address: 14320 Tandem Blvd
+[2024-10-23 19:01:37,976] [INFO] [fps_address_scraper.py:57] Standardized address: 14320 Tandem Blvd
+[2024-10-23 19:01:38,013] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/14320-tandem-blvd_austin-tx/page/1 because already scraped.
+[2024-10-23 19:01:38,037] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/14320-tandem-blvd_austin-tx/page/2
+[2024-10-23 19:02:31,214] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/14320-tandem-blvd_austin-tx/page/2
+[2024-10-23 19:02:31,300] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_15.xlsx
+[2024-10-23 19:02:31,308] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/14320-tandem-blvd_austin-tx/page/3
+[2024-10-23 19:02:52,628] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/14320-tandem-blvd_austin-tx/page/3
+[2024-10-23 19:02:52,719] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_15.xlsx
+[2024-10-23 19:02:52,730] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/14320-tandem-blvd_austin-tx/page/4
+[2024-10-23 19:03:44,805] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/14320-tandem-blvd_austin-tx/page/4
+[2024-10-23 19:03:44,896] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_15.xlsx
+[2024-10-23 19:03:44,908] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/14320-tandem-blvd_austin-tx/page/5

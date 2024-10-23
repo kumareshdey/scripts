@@ -1,0 +1,21 @@
+[2024-10-23 18:58:32,752] [INFO] [fps_address_scraper.py:216] output_chunk_13.xlsx. Scraping 1 of 98
+[2024-10-23 18:58:32,766] [INFO] [fps_address_scraper.py:47] Original address: 8877 Lakes at 610 Dr
+[2024-10-23 18:58:32,767] [INFO] [fps_address_scraper.py:57] Standardized address: 8877 Lakes at 610 Dr
+[2024-10-23 18:58:32,767] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/8877-lakes-at-610-dr_houston-tx/page/1
+[2024-10-23 19:01:37,829] [INFO] [fps_address_scraper.py:216] output_chunk_13.xlsx. Scraping 1 of 98
+[2024-10-23 19:01:37,846] [INFO] [fps_address_scraper.py:47] Original address: 8877 Lakes at 610 Dr
+[2024-10-23 19:01:37,847] [INFO] [fps_address_scraper.py:57] Standardized address: 8877 Lakes at 610 Dr
+[2024-10-23 19:01:37,847] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/8877-lakes-at-610-dr_houston-tx/page/1
+[2024-10-23 19:02:01,372] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/8877-lakes-at-610-dr_houston-tx/page/1
+[2024-10-23 19:02:01,436] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_13.xlsx
+[2024-10-23 19:02:01,443] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/8877-lakes-at-610-dr_houston-tx/page/2
+[2024-10-23 19:02:24,236] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/8877-lakes-at-610-dr_houston-tx/page/2
+[2024-10-23 19:02:24,313] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_13.xlsx
+[2024-10-23 19:02:24,320] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/8877-lakes-at-610-dr_houston-tx/page/3
+[2024-10-23 19:02:45,805] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/8877-lakes-at-610-dr_houston-tx/page/3
+[2024-10-23 19:02:45,889] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_13.xlsx
+[2024-10-23 19:02:45,899] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/8877-lakes-at-610-dr_houston-tx/page/4
+[2024-10-23 19:04:07,336] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/8877-lakes-at-610-dr_houston-tx/page/4
+[2024-10-23 19:04:07,424] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_13.xlsx
+[2024-10-23 19:04:07,467] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/8877-lakes-at-610-dr_houston-tx/page/5
+[2024-10-23 19:04:29,291] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/8877-lakes-at-610-dr_houston-tx/page/5

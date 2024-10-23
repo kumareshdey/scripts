@@ -1,0 +1,7 @@
+[2024-10-23 18:58:32,748] [INFO] [fps_address_scraper.py:216] output_chunk_22.xlsx. Scraping 1 of 98
+[2024-10-23 18:58:32,763] [INFO] [fps_address_scraper.py:47] Original address: 1348 Highway 92
+[2024-10-23 18:58:32,763] [INFO] [fps_address_scraper.py:57] Standardized address: 1348 Highway 92
+[2024-10-23 18:58:32,763] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/1
+[2024-10-23 18:58:54,863] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/1
+[2024-10-23 18:58:54,921] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 18:58:54,928] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/2

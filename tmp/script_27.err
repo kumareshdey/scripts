@@ -1,0 +1,7 @@
+[2024-10-23 18:58:32,848] [INFO] [fps_address_scraper.py:216] output_chunk_27.xlsx. Scraping 1 of 98
+[2024-10-23 18:58:32,849] [INFO] [fps_address_scraper.py:47] Original address: 250 NW 130th Ave
+[2024-10-23 18:58:32,849] [INFO] [fps_address_scraper.py:57] Standardized address: 250 NW 130th Ave
+[2024-10-23 18:58:32,849] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/250-nw-130th-ave_pembroke-pines-fl/page/1
+[2024-10-23 18:59:00,144] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/250-nw-130th-ave_pembroke-pines-fl/page/1
+[2024-10-23 18:59:00,220] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_27.xlsx
+[2024-10-23 18:59:00,229] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/250-nw-130th-ave_pembroke-pines-fl/page/2
