@@ -5,3 +5,499 @@
 [2024-10-23 18:58:54,863] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/1
 [2024-10-23 18:58:54,921] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
 [2024-10-23 18:58:54,928] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/2
+[2024-10-23 19:08:00,152] [INFO] [fps_address_scraper.py:216] output_chunk_22.xlsx. Scraping 1 of 98
+[2024-10-23 19:08:00,152] [INFO] [fps_address_scraper.py:47] Original address: 1348 Highway 92
+[2024-10-23 19:08:00,152] [INFO] [fps_address_scraper.py:57] Standardized address: 1348 Highway 92
+[2024-10-23 19:08:00,232] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/1 because already scraped.
+[2024-10-23 19:08:00,357] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/2
+[2024-10-23 19:08:48,503] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/2
+[2024-10-23 19:08:48,585] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:08:48,596] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/3
+[2024-10-23 19:10:29,410] [ERROR] [fps_address_scraper.py:24] Could not get successful response. Status code 500. {"status":"Failed to get successful response from website. Please retry the request."}
+[2024-10-23 19:10:29,410] [WARNING] [api.py:40] Request failed. Status code 500, retrying in 1 seconds...
+[2024-10-23 19:10:52,073] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/3
+[2024-10-23 19:10:52,156] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:10:52,166] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/4
+[2024-10-23 19:11:32,397] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/4
+[2024-10-23 19:11:32,484] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:11:32,496] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/5
+[2024-10-23 19:11:55,060] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/5
+[2024-10-23 19:11:55,181] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:11:55,193] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/6
+[2024-10-23 19:13:44,503] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/6
+[2024-10-23 19:13:44,598] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:13:44,613] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/7
+[2024-10-23 19:14:11,971] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/7
+[2024-10-23 19:14:12,082] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:14:12,099] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/8
+[2024-10-23 19:14:35,847] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/8
+[2024-10-23 19:14:35,941] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:14:35,958] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/9
+[2024-10-23 19:15:19,472] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/9
+[2024-10-23 19:15:19,572] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:15:19,631] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/10
+[2024-10-23 19:16:12,672] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/10
+[2024-10-23 19:16:12,776] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:16:12,796] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/11
+[2024-10-23 19:16:40,016] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/11
+[2024-10-23 19:16:40,116] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:16:40,136] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/12
+[2024-10-23 19:17:03,107] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1348-highway-92_acworth-ga/page/12
+[2024-10-23 19:17:03,119] [INFO] [fps_address_scraper.py:216] output_chunk_22.xlsx. Scraping 2 of 98
+[2024-10-23 19:17:03,120] [INFO] [fps_address_scraper.py:47] Original address: 1382 Peachtree St NE
+[2024-10-23 19:17:03,120] [INFO] [fps_address_scraper.py:57] Standardized address: 1382 Peachtree St NE
+[2024-10-23 19:17:03,143] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/1
+[2024-10-23 19:17:27,586] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/1
+[2024-10-23 19:17:27,691] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:17:27,713] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/2
+[2024-10-23 19:18:19,199] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/2
+[2024-10-23 19:18:19,344] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:18:19,369] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/3
+[2024-10-23 19:19:06,690] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/3
+[2024-10-23 19:19:06,811] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:19:06,836] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/4
+[2024-10-23 19:19:39,483] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/4
+[2024-10-23 19:19:39,600] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:19:39,627] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/5
+[2024-10-23 19:20:31,183] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/5
+[2024-10-23 19:20:31,343] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:20:31,371] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/6
+[2024-10-23 19:21:23,300] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/6
+[2024-10-23 19:21:23,435] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:21:23,465] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/7
+[2024-10-23 19:22:15,957] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/7
+[2024-10-23 19:22:16,087] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:22:16,119] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/8
+[2024-10-23 19:24:04,970] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/8
+[2024-10-23 19:24:05,140] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:24:05,172] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/9
+[2024-10-23 19:24:56,035] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/9
+[2024-10-23 19:24:56,168] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:24:56,201] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/10
+[2024-10-23 19:25:48,033] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/10
+[2024-10-23 19:25:48,169] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:25:48,204] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/11
+[2024-10-23 19:26:11,206] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/11
+[2024-10-23 19:26:11,384] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:26:11,420] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/12
+[2024-10-23 19:26:34,409] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1382-peachtree-st-ne_atlanta-ga/page/12
+[2024-10-23 19:26:34,418] [INFO] [fps_address_scraper.py:216] output_chunk_22.xlsx. Scraping 3 of 98
+[2024-10-23 19:26:34,418] [INFO] [fps_address_scraper.py:47] Original address: 1399 Herrington Rd
+[2024-10-23 19:26:34,418] [INFO] [fps_address_scraper.py:57] Standardized address: 1399 Herrington Rd
+[2024-10-23 19:26:34,455] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/1
+[2024-10-23 19:27:26,616] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/1
+[2024-10-23 19:27:26,750] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:27:26,787] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/2
+[2024-10-23 19:28:00,647] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/2
+[2024-10-23 19:28:00,842] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:28:00,883] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/3
+[2024-10-23 19:28:23,602] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/3
+[2024-10-23 19:28:23,749] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:28:23,789] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/4
+[2024-10-23 19:28:47,601] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/4
+[2024-10-23 19:28:47,749] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:28:47,824] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/5
+[2024-10-23 19:30:34,810] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/5
+[2024-10-23 19:30:34,964] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:30:35,008] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/6
+[2024-10-23 19:31:06,005] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/6
+[2024-10-23 19:31:06,167] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:31:06,212] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/7
+[2024-10-23 19:31:57,601] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/7
+[2024-10-23 19:31:57,792] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:31:57,840] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/8
+[2024-10-23 19:32:35,598] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/8
+[2024-10-23 19:32:35,756] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:32:35,804] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/9
+[2024-10-23 19:33:15,141] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/9
+[2024-10-23 19:33:15,337] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:33:15,386] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/10
+[2024-10-23 19:34:37,660] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/10
+[2024-10-23 19:34:37,825] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:34:37,874] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/11
+[2024-10-23 19:35:29,785] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/11
+[2024-10-23 19:35:29,968] [INFO] [fps_address_scraper.py:91] Saved 4 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:35:30,018] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/12
+[2024-10-23 19:36:12,165] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1399-herrington-rd_lawrenceville-ga/page/12
+[2024-10-23 19:36:12,176] [INFO] [fps_address_scraper.py:216] output_chunk_22.xlsx. Scraping 4 of 98
+[2024-10-23 19:36:12,177] [INFO] [fps_address_scraper.py:47] Original address: 1400 W Peachtree St NW
+[2024-10-23 19:36:12,177] [INFO] [fps_address_scraper.py:57] Standardized address: 1400 W Peachtree St NW
+[2024-10-23 19:36:12,229] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/1
+[2024-10-23 19:36:34,819] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/1
+[2024-10-23 19:36:35,024] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:36:35,076] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/2
+[2024-10-23 19:37:11,362] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/2
+[2024-10-23 19:37:11,539] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:37:11,591] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/3
+[2024-10-23 19:37:32,983] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/3
+[2024-10-23 19:37:33,190] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:37:33,245] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/4
+[2024-10-23 19:38:12,398] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/4
+[2024-10-23 19:38:12,741] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:38:12,796] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/5
+[2024-10-23 19:39:09,976] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/5
+[2024-10-23 19:39:10,197] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:39:10,260] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/6
+[2024-10-23 19:39:47,101] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/6
+[2024-10-23 19:39:47,471] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:39:47,534] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/7
+[2024-10-23 19:40:20,058] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/7
+[2024-10-23 19:40:20,284] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:40:20,344] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/8
+[2024-10-23 19:41:21,296] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/8
+[2024-10-23 19:41:21,525] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:41:21,588] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/9
+[2024-10-23 19:42:14,620] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/9
+[2024-10-23 19:42:14,819] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:42:14,883] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/10
+[2024-10-23 19:43:06,904] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/10
+[2024-10-23 19:43:07,140] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:43:07,205] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/11
+[2024-10-23 19:44:00,268] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/11
+[2024-10-23 19:44:00,484] [INFO] [fps_address_scraper.py:91] Saved 5 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:44:00,551] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/12
+[2024-10-23 19:44:43,787] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1400-w-peachtree-st-nw_atlanta-ga/page/12
+[2024-10-23 19:44:43,799] [INFO] [fps_address_scraper.py:216] output_chunk_22.xlsx. Scraping 5 of 98
+[2024-10-23 19:44:43,799] [INFO] [fps_address_scraper.py:47] Original address: 144 Moreland Ave NE
+[2024-10-23 19:44:43,799] [INFO] [fps_address_scraper.py:57] Standardized address: 144 Moreland Ave NE
+[2024-10-23 19:44:43,864] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/1
+[2024-10-23 19:45:06,309] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/1
+[2024-10-23 19:45:06,519] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:45:06,619] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/2
+[2024-10-23 19:47:02,626] [ERROR] [fps_address_scraper.py:24] Could not get successful response. Status code 500. {"status":"Failed to get successful response from website. Please retry the request."}
+[2024-10-23 19:47:02,626] [WARNING] [api.py:40] Request failed. Status code 500, retrying in 1 seconds...
+[2024-10-23 19:47:27,573] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/2
+[2024-10-23 19:47:27,782] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:47:27,853] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/3
+[2024-10-23 19:47:50,660] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/3
+[2024-10-23 19:47:50,901] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:47:50,970] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/4
+[2024-10-23 19:48:12,279] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/4
+[2024-10-23 19:48:12,489] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:48:12,589] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/5
+[2024-10-23 19:48:31,424] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/5
+[2024-10-23 19:48:31,641] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:48:31,715] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/6
+[2024-10-23 19:48:53,163] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/6
+[2024-10-23 19:48:53,417] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:48:53,489] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/7
+[2024-10-23 19:49:46,580] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/7
+[2024-10-23 19:49:46,829] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:49:46,905] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/8
+[2024-10-23 19:50:14,802] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/8
+[2024-10-23 19:50:15,027] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:50:15,135] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/9
+[2024-10-23 19:50:55,556] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/9
+[2024-10-23 19:50:55,783] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:50:55,860] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/10
+[2024-10-23 19:51:17,778] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/10
+[2024-10-23 19:51:18,041] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:51:18,119] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/11
+[2024-10-23 19:52:27,715] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/11
+[2024-10-23 19:52:27,973] [INFO] [fps_address_scraper.py:91] Saved 7 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:52:28,052] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/12
+[2024-10-23 19:53:26,139] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/144-moreland-ave-ne_atlanta-ga/page/12
+[2024-10-23 19:53:26,152] [INFO] [fps_address_scraper.py:216] output_chunk_22.xlsx. Scraping 6 of 98
+[2024-10-23 19:53:26,152] [INFO] [fps_address_scraper.py:47] Original address: 1455 Satellite Blvd NW
+[2024-10-23 19:53:26,152] [INFO] [fps_address_scraper.py:57] Standardized address: 1455 Satellite Blvd NW
+[2024-10-23 19:53:26,233] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/1
+[2024-10-23 19:53:51,062] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/1
+[2024-10-23 19:53:51,326] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:53:51,407] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/2
+[2024-10-23 19:54:43,655] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/2
+[2024-10-23 19:54:43,923] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:54:44,005] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/3
+[2024-10-23 19:55:18,277] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/3
+[2024-10-23 19:55:18,523] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:55:18,606] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/4
+[2024-10-23 19:57:10,402] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/4
+[2024-10-23 19:57:10,678] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:57:10,765] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/5
+[2024-10-23 19:58:26,962] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/5
+[2024-10-23 19:58:27,247] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:58:27,334] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/6
+[2024-10-23 19:59:03,499] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/6
+[2024-10-23 19:59:03,787] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 19:59:03,879] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/7
+[2024-10-23 20:00:55,754] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/7
+[2024-10-23 20:00:56,041] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:00:56,134] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/8
+[2024-10-23 20:02:30,533] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/8
+[2024-10-23 20:02:30,819] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:02:30,909] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/9
+[2024-10-23 20:03:23,110] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/9
+[2024-10-23 20:03:23,412] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:03:23,504] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/10
+[2024-10-23 20:03:55,835] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/10
+[2024-10-23 20:03:56,325] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:03:56,546] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/11
+[2024-10-23 20:04:48,700] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/11
+[2024-10-23 20:04:49,028] [INFO] [fps_address_scraper.py:91] Saved 8 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:04:49,158] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/12
+[2024-10-23 20:05:12,777] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-satellite-blvd-nw_suwanee-ga/page/12
+[2024-10-23 20:05:12,788] [INFO] [fps_address_scraper.py:216] output_chunk_22.xlsx. Scraping 7 of 98
+[2024-10-23 20:05:12,789] [INFO] [fps_address_scraper.py:47] Original address: 1455 Spring Rd SE
+[2024-10-23 20:05:12,789] [INFO] [fps_address_scraper.py:57] Standardized address: 1455 Spring Rd SE
+[2024-10-23 20:05:12,885] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/1
+[2024-10-23 20:05:38,513] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/1
+[2024-10-23 20:05:39,112] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:05:39,227] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/2
+[2024-10-23 20:06:26,451] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/2
+[2024-10-23 20:06:26,759] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:06:26,856] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/3
+[2024-10-23 20:07:21,416] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/3
+[2024-10-23 20:07:21,683] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:07:21,812] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/4
+[2024-10-23 20:08:13,871] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/4
+[2024-10-23 20:08:14,164] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:08:14,291] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/5
+[2024-10-23 20:09:09,623] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/5
+[2024-10-23 20:09:09,907] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:09:10,037] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/6
+[2024-10-23 20:09:31,549] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/6
+[2024-10-23 20:09:31,835] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:09:31,980] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/7
+[2024-10-23 20:10:49,718] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/7
+[2024-10-23 20:10:50,011] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:10:50,143] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/8
+[2024-10-23 20:11:55,444] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/8
+[2024-10-23 20:11:55,770] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:11:55,875] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/9
+[2024-10-23 20:12:17,409] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/9
+[2024-10-23 20:12:17,740] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:12:17,846] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/10
+[2024-10-23 20:12:47,508] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/10
+[2024-10-23 20:12:47,842] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:12:47,952] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/11
+[2024-10-23 20:13:42,784] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/11
+[2024-10-23 20:13:43,108] [INFO] [fps_address_scraper.py:91] Saved 6 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:13:43,217] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/12
+[2024-10-23 20:14:03,965] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1455-spring-rd-se_smyrna-ga/page/12
+[2024-10-23 20:14:03,977] [INFO] [fps_address_scraper.py:216] output_chunk_22.xlsx. Scraping 8 of 98
+[2024-10-23 20:14:03,977] [INFO] [fps_address_scraper.py:47] Original address: 1460 Distribution Dr
+[2024-10-23 20:14:03,977] [INFO] [fps_address_scraper.py:57] Standardized address: 1460 Distribution Dr
+[2024-10-23 20:14:04,087] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/1
+[2024-10-23 20:14:47,201] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/1
+[2024-10-23 20:14:47,540] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:14:47,652] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/2
+[2024-10-23 20:15:10,117] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/2
+[2024-10-23 20:15:10,456] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:15:10,569] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/3
+[2024-10-23 20:15:42,749] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/3
+[2024-10-23 20:15:43,092] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:15:43,240] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/4
+[2024-10-23 20:16:07,621] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/4
+[2024-10-23 20:16:07,944] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:16:08,095] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/5
+[2024-10-23 20:16:39,325] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/5
+[2024-10-23 20:16:39,679] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:16:39,797] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/6
+[2024-10-23 20:17:26,817] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/6
+[2024-10-23 20:17:27,192] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:17:27,325] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/7
+[2024-10-23 20:18:18,736] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/7
+[2024-10-23 20:18:19,129] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:18:19,248] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/8
+[2024-10-23 20:18:43,060] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/8
+[2024-10-23 20:18:43,432] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:18:43,559] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/9
+[2024-10-23 20:19:35,142] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/9
+[2024-10-23 20:19:35,609] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:19:35,761] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/10
+[2024-10-23 20:20:02,750] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/10
+[2024-10-23 20:20:03,124] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:20:03,286] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/11
+[2024-10-23 20:20:35,805] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/11
+[2024-10-23 20:20:36,177] [INFO] [fps_address_scraper.py:91] Saved 3 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:20:36,304] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/12
+[2024-10-23 20:21:38,370] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1460-distribution-dr_suwanee-ga/page/12
+[2024-10-23 20:21:38,382] [INFO] [fps_address_scraper.py:216] output_chunk_22.xlsx. Scraping 9 of 98
+[2024-10-23 20:21:38,384] [INFO] [fps_address_scraper.py:47] Original address: 1475 Sand Bay Dr SW
+[2024-10-23 20:21:38,384] [INFO] [fps_address_scraper.py:57] Standardized address: 1475 Sand Bay Dr SW
+[2024-10-23 20:21:38,510] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/1
+[2024-10-23 20:21:59,954] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/1
+[2024-10-23 20:22:00,341] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:22:00,469] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/2
+[2024-10-23 20:22:52,127] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/2
+[2024-10-23 20:22:52,504] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:22:52,661] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/3
+[2024-10-23 20:23:26,517] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/3
+[2024-10-23 20:23:26,902] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:23:27,033] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/4
+[2024-10-23 20:24:01,955] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/4
+[2024-10-23 20:24:02,353] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:24:02,484] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/5
+[2024-10-23 20:24:33,202] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/5
+[2024-10-23 20:24:33,616] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:24:33,748] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/6
+[2024-10-23 20:26:25,745] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/6
+[2024-10-23 20:26:26,166] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:26:26,355] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/7
+[2024-10-23 20:27:17,892] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/7
+[2024-10-23 20:27:18,277] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:27:18,411] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/8
+[2024-10-23 20:28:10,361] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/8
+[2024-10-23 20:28:10,753] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:28:10,888] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/9
+[2024-10-23 20:28:45,031] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/9
+[2024-10-23 20:28:45,429] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:28:45,589] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/10
+[2024-10-23 20:29:22,643] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/10
+[2024-10-23 20:29:23,043] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:29:23,179] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/11
+[2024-10-23 20:31:04,331] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/11
+[2024-10-23 20:31:04,721] [INFO] [fps_address_scraper.py:91] Saved 7 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:31:04,860] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/12
+[2024-10-23 20:31:34,329] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1475-sand-bay-dr-sw_atlanta-ga/page/12
+[2024-10-23 20:31:34,341] [INFO] [fps_address_scraper.py:216] output_chunk_22.xlsx. Scraping 10 of 98
+[2024-10-23 20:31:34,341] [INFO] [fps_address_scraper.py:47] Original address: 1500 Westshore Dr
+[2024-10-23 20:31:34,342] [INFO] [fps_address_scraper.py:57] Standardized address: 1500 Westshore Dr
+[2024-10-23 20:31:34,513] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1500-westshore-dr_cumming-ga/page/1
+[2024-10-23 20:32:26,796] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1500-westshore-dr_cumming-ga/page/1
+[2024-10-23 20:32:27,199] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:32:27,338] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1500-westshore-dr_cumming-ga/page/2
+[2024-10-23 20:32:49,746] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1500-westshore-dr_cumming-ga/page/2
+[2024-10-23 20:32:50,163] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:32:50,306] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1500-westshore-dr_cumming-ga/page/3
+[2024-10-23 20:33:15,868] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1500-westshore-dr_cumming-ga/page/3
+[2024-10-23 20:33:16,275] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:33:16,442] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1500-westshore-dr_cumming-ga/page/4
+[2024-10-23 20:33:56,947] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1500-westshore-dr_cumming-ga/page/4
+[2024-10-23 20:33:57,337] [INFO] [fps_address_scraper.py:91] Saved 5 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:33:57,480] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1500-westshore-dr_cumming-ga/page/5
+[2024-10-23 20:34:21,888] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1500-westshore-dr_cumming-ga/page/5
+[2024-10-23 20:34:21,900] [INFO] [fps_address_scraper.py:216] output_chunk_22.xlsx. Scraping 11 of 98
+[2024-10-23 20:34:21,901] [INFO] [fps_address_scraper.py:47] Original address: 1520 Laurel Crossing Pky
+[2024-10-23 20:34:21,901] [INFO] [fps_address_scraper.py:57] Standardized address: 1520 Laurel Crossing Pky
+[2024-10-23 20:34:22,045] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/1
+[2024-10-23 20:34:59,154] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/1
+[2024-10-23 20:34:59,568] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:34:59,738] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/2
+[2024-10-23 20:35:51,495] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/2
+[2024-10-23 20:35:51,916] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:35:52,061] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/3
+[2024-10-23 20:36:14,017] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/3
+[2024-10-23 20:36:14,435] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:36:14,608] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/4
+[2024-10-23 20:36:36,317] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/4
+[2024-10-23 20:36:36,752] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:36:36,903] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/5
+[2024-10-23 20:37:17,972] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/5
+[2024-10-23 20:37:18,415] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:37:18,567] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/6
+[2024-10-23 20:38:54,004] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/6
+[2024-10-23 20:38:54,457] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:38:54,609] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/7
+[2024-10-23 20:39:29,612] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/7
+[2024-10-23 20:39:30,049] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:39:30,202] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/8
+[2024-10-23 20:39:51,441] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/8
+[2024-10-23 20:39:51,941] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:39:52,097] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/9
+[2024-10-23 20:40:28,456] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/9
+[2024-10-23 20:40:28,904] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:40:29,061] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/10
+[2024-10-23 20:40:49,218] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/10
+[2024-10-23 20:40:49,734] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:40:49,895] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/11
+[2024-10-23 20:41:41,634] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/11
+[2024-10-23 20:41:42,380] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:41:42,540] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/12
+[2024-10-23 20:42:04,730] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1520-laurel-crossing-pky_buford-ga/page/12
+[2024-10-23 20:42:04,741] [INFO] [fps_address_scraper.py:216] output_chunk_22.xlsx. Scraping 12 of 98
+[2024-10-23 20:42:04,742] [INFO] [fps_address_scraper.py:47] Original address: 1551 Riverside Pky
+[2024-10-23 20:42:04,743] [INFO] [fps_address_scraper.py:57] Standardized address: 1551 Riverside Pky
+[2024-10-23 20:42:04,928] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1551-riverside-pky_douglasville-ga/page/1
+[2024-10-23 20:42:28,154] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1551-riverside-pky_douglasville-ga/page/1
+[2024-10-23 20:42:28,599] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:42:28,759] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1551-riverside-pky_douglasville-ga/page/2
+[2024-10-23 20:42:56,271] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1551-riverside-pky_douglasville-ga/page/2
+[2024-10-23 20:42:56,748] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:42:56,919] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1551-riverside-pky_douglasville-ga/page/3
+[2024-10-23 20:43:49,878] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1551-riverside-pky_douglasville-ga/page/3
+[2024-10-23 20:43:50,307] [INFO] [fps_address_scraper.py:91] Saved 3 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:43:50,468] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1551-riverside-pky_douglasville-ga/page/4
+[2024-10-23 20:44:15,672] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1551-riverside-pky_douglasville-ga/page/4
+[2024-10-23 20:44:15,684] [INFO] [fps_address_scraper.py:216] output_chunk_22.xlsx. Scraping 13 of 98
+[2024-10-23 20:44:15,684] [INFO] [fps_address_scraper.py:47] Original address: 1590 Northeast Expy NE
+[2024-10-23 20:44:15,685] [INFO] [fps_address_scraper.py:57] Standardized address: 1590 Northeast Expy NE
+[2024-10-23 20:44:15,875] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/1
+[2024-10-23 20:44:42,784] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/1
+[2024-10-23 20:44:43,240] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:44:43,406] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/2
+[2024-10-23 20:45:35,312] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/2
+[2024-10-23 20:45:35,797] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:45:35,964] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/3
+[2024-10-23 20:46:27,734] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/3
+[2024-10-23 20:46:28,374] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:46:28,568] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/4
+[2024-10-23 20:47:19,862] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/4
+[2024-10-23 20:47:20,336] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:47:20,503] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/5
+[2024-10-23 20:48:11,951] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/5
+[2024-10-23 20:48:12,546] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:48:12,740] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/6
+[2024-10-23 20:48:44,138] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/6
+[2024-10-23 20:48:44,628] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:48:44,800] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/7
+[2024-10-23 20:49:19,142] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/7
+[2024-10-23 20:49:19,657] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:49:19,829] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/8
+[2024-10-23 20:49:39,264] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/8
+[2024-10-23 20:49:39,744] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:49:39,949] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/9
+[2024-10-23 20:50:08,414] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/9
+[2024-10-23 20:50:08,893] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:50:09,079] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/10
+[2024-10-23 20:50:53,174] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/10
+[2024-10-23 20:50:53,689] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:50:53,867] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/11
+[2024-10-23 20:51:45,351] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/11
+[2024-10-23 20:51:45,967] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:51:46,173] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/12
+[2024-10-23 20:52:02,892] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1590-northeast-expy-ne_atlanta-ga/page/12
+[2024-10-23 20:52:02,926] [INFO] [fps_address_scraper.py:216] output_chunk_22.xlsx. Scraping 14 of 98
+[2024-10-23 20:52:02,926] [INFO] [fps_address_scraper.py:47] Original address: 1600 Ronald Reagan Blvd
+[2024-10-23 20:52:02,926] [INFO] [fps_address_scraper.py:57] Standardized address: 1600 Ronald Reagan Blvd
+[2024-10-23 20:52:03,196] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/1
+[2024-10-23 20:52:33,430] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/1
+[2024-10-23 20:52:33,958] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:52:34,139] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/2
+[2024-10-23 20:53:09,344] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/2
+[2024-10-23 20:53:09,833] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:53:10,038] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/3
+[2024-10-23 20:54:01,929] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/3
+[2024-10-23 20:54:02,427] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:54:02,609] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/4
+[2024-10-23 20:54:24,512] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/4
+[2024-10-23 20:54:25,028] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:54:25,211] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/5
+[2024-10-23 20:55:17,400] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/5
+[2024-10-23 20:55:17,919] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:55:18,131] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/6
+[2024-10-23 20:55:40,311] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/6
+[2024-10-23 20:55:40,809] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:55:41,021] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/7
+[2024-10-23 20:56:06,105] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/7
+[2024-10-23 20:56:06,610] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:56:06,795] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/8
+[2024-10-23 20:56:33,571] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/8
+[2024-10-23 20:56:34,115] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:56:34,307] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/9
+[2024-10-23 20:57:25,795] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/9
+[2024-10-23 20:57:26,536] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:57:26,779] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/10
+[2024-10-23 20:58:00,744] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/10
+[2024-10-23 20:58:01,292] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:58:01,540] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/11
+[2024-10-23 20:58:37,968] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/11
+[2024-10-23 20:58:38,480] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:58:38,707] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/12
+[2024-10-23 20:59:01,173] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1600-ronald-reagan-blvd_cumming-ga/page/12
+[2024-10-23 20:59:01,199] [INFO] [fps_address_scraper.py:216] output_chunk_22.xlsx. Scraping 15 of 98
+[2024-10-23 20:59:01,200] [INFO] [fps_address_scraper.py:47] Original address: 161 Peachtree Center Ave
+[2024-10-23 20:59:01,200] [INFO] [fps_address_scraper.py:57] Standardized address: 161 Peachtree Center Ave
+[2024-10-23 20:59:01,503] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/161-peachtree-center-ave_atlanta-ga/page/1
+[2024-10-23 20:59:32,548] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/161-peachtree-center-ave_atlanta-ga/page/1
+[2024-10-23 20:59:33,097] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_22.xlsx
+[2024-10-23 20:59:33,294] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/161-peachtree-center-ave_atlanta-ga/page/2

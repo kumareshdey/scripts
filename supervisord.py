@@ -6,7 +6,7 @@ output_conf_file = 'supervisord.conf'
 
 # Define the number of Excel chunks you have
 start = 1
-num_chunks = 28 # Update this based on the number of files you have
+num_chunks = 20 # Update this based on the number of files you have
 
 # Create the supervisord config file
 with open(output_conf_file, 'w') as conf_file:

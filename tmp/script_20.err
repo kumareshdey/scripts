@@ -22,3 +22,509 @@
 [2024-10-23 19:04:27,846] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/235-verbena-st_charlotte-nc/page/5
 [2024-10-23 19:04:27,967] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
 [2024-10-23 19:04:27,981] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/235-verbena-st_charlotte-nc/page/6
+[2024-10-23 19:08:00,388] [INFO] [fps_address_scraper.py:216] output_chunk_20.xlsx. Scraping 1 of 98
+[2024-10-23 19:08:00,388] [INFO] [fps_address_scraper.py:47] Original address: 235 Verbena St
+[2024-10-23 19:08:00,388] [INFO] [fps_address_scraper.py:57] Standardized address: 235 Verbena St
+[2024-10-23 19:08:00,526] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/235-verbena-st_charlotte-nc/page/1 because already scraped.
+[2024-10-23 19:08:00,641] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/235-verbena-st_charlotte-nc/page/2 because already scraped.
+[2024-10-23 19:08:00,757] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/235-verbena-st_charlotte-nc/page/3 because already scraped.
+[2024-10-23 19:08:00,875] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/235-verbena-st_charlotte-nc/page/4 because already scraped.
+[2024-10-23 19:08:00,952] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/235-verbena-st_charlotte-nc/page/5 because already scraped.
+[2024-10-23 19:08:01,015] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/235-verbena-st_charlotte-nc/page/6
+[2024-10-23 19:08:23,398] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/235-verbena-st_charlotte-nc/page/6
+[2024-10-23 19:08:23,488] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:08:23,503] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/235-verbena-st_charlotte-nc/page/7
+[2024-10-23 19:08:44,956] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/235-verbena-st_charlotte-nc/page/7
+[2024-10-23 19:08:45,063] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:08:45,080] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/235-verbena-st_charlotte-nc/page/8
+[2024-10-23 19:09:03,172] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/235-verbena-st_charlotte-nc/page/8
+[2024-10-23 19:09:03,300] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:09:03,317] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/235-verbena-st_charlotte-nc/page/9
+[2024-10-23 19:09:58,493] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/235-verbena-st_charlotte-nc/page/9
+[2024-10-23 19:09:58,596] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:09:58,615] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/235-verbena-st_charlotte-nc/page/10
+[2024-10-23 19:11:28,579] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/235-verbena-st_charlotte-nc/page/10
+[2024-10-23 19:11:28,684] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:11:28,704] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/235-verbena-st_charlotte-nc/page/11
+[2024-10-23 19:12:45,430] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/235-verbena-st_charlotte-nc/page/11
+[2024-10-23 19:12:45,532] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:12:45,551] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/235-verbena-st_charlotte-nc/page/12
+[2024-10-23 19:13:10,171] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/235-verbena-st_charlotte-nc/page/12
+[2024-10-23 19:13:10,183] [INFO] [fps_address_scraper.py:216] output_chunk_20.xlsx. Scraping 2 of 98
+[2024-10-23 19:13:10,184] [INFO] [fps_address_scraper.py:47] Original address: 2508 April Liu Ln
+[2024-10-23 19:13:10,184] [INFO] [fps_address_scraper.py:57] Standardized address: 2508 April Liu Ln
+[2024-10-23 19:13:10,244] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/1
+[2024-10-23 19:14:01,940] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/1
+[2024-10-23 19:14:02,053] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:14:02,077] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/2
+[2024-10-23 19:14:26,097] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/2
+[2024-10-23 19:14:26,205] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:14:26,229] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/3
+[2024-10-23 19:14:47,692] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/3
+[2024-10-23 19:14:47,805] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:14:47,831] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/4
+[2024-10-23 19:15:09,579] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/4
+[2024-10-23 19:15:09,729] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:15:09,756] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/5
+[2024-10-23 19:15:43,192] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/5
+[2024-10-23 19:15:43,309] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:15:43,337] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/6
+[2024-10-23 19:16:15,813] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/6
+[2024-10-23 19:16:15,933] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:16:15,962] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/7
+[2024-10-23 19:16:52,267] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/7
+[2024-10-23 19:16:52,414] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:16:52,443] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/8
+[2024-10-23 19:17:44,189] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/8
+[2024-10-23 19:17:44,318] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:17:44,349] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/9
+[2024-10-23 19:18:28,982] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/9
+[2024-10-23 19:18:29,113] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:18:29,148] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/10
+[2024-10-23 19:18:52,357] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/10
+[2024-10-23 19:18:52,525] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:18:52,560] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/11
+[2024-10-23 19:19:42,108] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/11
+[2024-10-23 19:19:42,242] [INFO] [fps_address_scraper.py:91] Saved 7 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:19:42,278] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/12
+[2024-10-23 19:20:07,484] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2508-april-liu-ln_charlotte-nc/page/12
+[2024-10-23 19:20:07,496] [INFO] [fps_address_scraper.py:216] output_chunk_20.xlsx. Scraping 3 of 98
+[2024-10-23 19:20:07,497] [INFO] [fps_address_scraper.py:47] Original address: 2512 Weddington Ave
+[2024-10-23 19:20:07,497] [INFO] [fps_address_scraper.py:57] Standardized address: 2512 Weddington Ave
+[2024-10-23 19:20:07,536] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/1
+[2024-10-23 19:20:49,125] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/1
+[2024-10-23 19:20:49,308] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:20:49,346] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/2
+[2024-10-23 19:21:41,233] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/2
+[2024-10-23 19:21:41,382] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:21:41,421] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/3
+[2024-10-23 19:22:40,578] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/3
+[2024-10-23 19:22:40,725] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:22:40,766] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/4
+[2024-10-23 19:23:14,995] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/4
+[2024-10-23 19:23:15,179] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:23:15,221] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/5
+[2024-10-23 19:23:50,480] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/5
+[2024-10-23 19:23:50,635] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:23:50,679] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/6
+[2024-10-23 19:24:15,611] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/6
+[2024-10-23 19:24:15,803] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:24:15,847] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/7
+[2024-10-23 19:24:52,469] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/7
+[2024-10-23 19:24:52,628] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:24:52,673] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/8
+[2024-10-23 19:25:45,039] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/8
+[2024-10-23 19:25:45,251] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:25:45,299] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/9
+[2024-10-23 19:26:36,759] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/9
+[2024-10-23 19:26:36,927] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:26:36,975] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/10
+[2024-10-23 19:27:28,402] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/10
+[2024-10-23 19:27:28,603] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:27:28,655] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/11
+[2024-10-23 19:28:05,463] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/11
+[2024-10-23 19:28:05,636] [INFO] [fps_address_scraper.py:91] Saved 8 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:28:05,687] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/12
+[2024-10-23 19:28:28,896] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2512-weddington-ave_charlotte-nc/page/12
+[2024-10-23 19:28:28,907] [INFO] [fps_address_scraper.py:216] output_chunk_20.xlsx. Scraping 4 of 98
+[2024-10-23 19:28:28,907] [INFO] [fps_address_scraper.py:47] Original address: 2525 Sycamore Farms NW
+[2024-10-23 19:28:28,907] [INFO] [fps_address_scraper.py:57] Standardized address: 2525 Sycamore Farms NW
+[2024-10-23 19:28:28,991] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2525-sycamore-farms-nw_concord-nc/page/1
+[2024-10-23 19:28:45,763] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2525-sycamore-farms-nw_concord-nc/page/1
+[2024-10-23 19:28:45,917] [INFO] [fps_address_scraper.py:91] Saved 4 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:28:45,970] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2525-sycamore-farms-nw_concord-nc/page/2
+[2024-10-23 19:30:32,489] [ERROR] [fps_address_scraper.py:24] Could not get successful response. Status code 500. {"status":"Failed to get successful response from website. Please retry the request."}
+[2024-10-23 19:30:32,489] [WARNING] [api.py:40] Request failed. Status code 500, retrying in 1 seconds...
+[2024-10-23 19:31:49,770] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2525-sycamore-farms-nw_concord-nc/page/2
+[2024-10-23 19:31:49,782] [INFO] [fps_address_scraper.py:216] output_chunk_20.xlsx. Scraping 5 of 98
+[2024-10-23 19:31:49,782] [INFO] [fps_address_scraper.py:47] Original address: 2543 Meridian Pky
+[2024-10-23 19:31:49,782] [INFO] [fps_address_scraper.py:57] Standardized address: 2543 Meridian Pky
+[2024-10-23 19:31:49,835] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/1
+[2024-10-23 19:32:41,276] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/1
+[2024-10-23 19:32:41,485] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:32:41,537] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/2
+[2024-10-23 19:34:37,451] [ERROR] [fps_address_scraper.py:24] Could not get successful response. Status code 500. {"status":"Failed to get successful response from website. Please retry the request."}
+[2024-10-23 19:34:37,451] [WARNING] [api.py:40] Request failed. Status code 500, retrying in 1 seconds...
+[2024-10-23 19:36:27,708] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/2
+[2024-10-23 19:36:27,888] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:36:27,943] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/3
+[2024-10-23 19:37:45,972] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/3
+[2024-10-23 19:37:46,191] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:37:46,262] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/4
+[2024-10-23 19:38:22,739] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/4
+[2024-10-23 19:38:22,917] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:38:22,975] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/5
+[2024-10-23 19:39:08,672] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/5
+[2024-10-23 19:39:08,890] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:39:08,951] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/6
+[2024-10-23 19:40:00,076] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/6
+[2024-10-23 19:40:00,325] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:40:00,424] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/7
+[2024-10-23 19:40:52,379] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/7
+[2024-10-23 19:40:52,569] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:40:52,630] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/8
+[2024-10-23 19:42:44,437] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/8
+[2024-10-23 19:42:44,664] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:42:44,726] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/9
+[2024-10-23 19:43:18,929] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/9
+[2024-10-23 19:43:19,129] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:43:19,193] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/10
+[2024-10-23 19:44:11,355] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/10
+[2024-10-23 19:44:11,604] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:44:11,673] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/11
+[2024-10-23 19:44:51,718] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/11
+[2024-10-23 19:44:51,997] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:44:52,065] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/12
+[2024-10-23 19:45:14,932] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2543-meridian-pky_durham-nc/page/12
+[2024-10-23 19:45:14,943] [INFO] [fps_address_scraper.py:216] output_chunk_20.xlsx. Scraping 6 of 98
+[2024-10-23 19:45:14,944] [INFO] [fps_address_scraper.py:47] Original address: 255 W Martin Luther King Jr. Blvd
+[2024-10-23 19:45:14,944] [INFO] [fps_address_scraper.py:57] Standardized address: 255 W Martin Luther King Jr. Blvd
+[2024-10-23 19:45:15,012] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/1
+[2024-10-23 19:46:45,227] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/1
+[2024-10-23 19:46:45,561] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:46:45,628] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/2
+[2024-10-23 19:47:03,273] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/2
+[2024-10-23 19:47:03,490] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:47:03,560] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/3
+[2024-10-23 19:48:31,227] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/3
+[2024-10-23 19:48:31,469] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:48:31,540] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/4
+[2024-10-23 19:49:24,485] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/4
+[2024-10-23 19:49:24,731] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:49:24,804] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/5
+[2024-10-23 19:49:47,980] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/5
+[2024-10-23 19:49:48,378] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:49:48,484] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/6
+[2024-10-23 19:50:41,270] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/6
+[2024-10-23 19:50:41,491] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:50:41,564] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/7
+[2024-10-23 19:51:33,037] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/7
+[2024-10-23 19:51:33,370] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:51:33,558] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/8
+[2024-10-23 19:52:06,168] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/8
+[2024-10-23 19:52:06,432] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:52:06,509] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/9
+[2024-10-23 19:53:25,296] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/9
+[2024-10-23 19:53:25,526] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:53:25,634] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/10
+[2024-10-23 19:54:17,383] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/10
+[2024-10-23 19:54:17,625] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:54:17,705] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/11
+[2024-10-23 19:54:47,624] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/11
+[2024-10-23 19:54:47,889] [INFO] [fps_address_scraper.py:91] Saved 8 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:54:47,976] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/12
+[2024-10-23 19:55:09,873] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/255-w-martin-luther-king-jr.-blvd_charlotte-nc/page/12
+[2024-10-23 19:55:09,884] [INFO] [fps_address_scraper.py:216] output_chunk_20.xlsx. Scraping 7 of 98
+[2024-10-23 19:55:09,885] [INFO] [fps_address_scraper.py:47] Original address: 260 Leigh Farm Rd
+[2024-10-23 19:55:09,885] [INFO] [fps_address_scraper.py:57] Standardized address: 260 Leigh Farm Rd
+[2024-10-23 19:55:09,969] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/1
+[2024-10-23 19:56:01,706] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/1
+[2024-10-23 19:56:01,976] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:56:02,059] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/2
+[2024-10-23 19:56:54,752] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/2
+[2024-10-23 19:56:55,032] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:56:55,116] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/3
+[2024-10-23 19:57:12,624] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/3
+[2024-10-23 19:57:12,903] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:57:12,988] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/4
+[2024-10-23 19:57:44,389] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/4
+[2024-10-23 19:57:44,669] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:57:44,757] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/5
+[2024-10-23 19:58:17,641] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/5
+[2024-10-23 19:58:17,896] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:58:18,016] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/6
+[2024-10-23 19:58:50,571] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/6
+[2024-10-23 19:58:50,832] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:58:50,952] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/7
+[2024-10-23 19:59:27,716] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/7
+[2024-10-23 19:59:27,980] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 19:59:28,071] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/8
+[2024-10-23 20:00:06,103] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/8
+[2024-10-23 20:00:06,399] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:00:06,493] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/9
+[2024-10-23 20:00:31,135] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/9
+[2024-10-23 20:00:31,445] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:00:31,538] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/10
+[2024-10-23 20:01:03,485] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/10
+[2024-10-23 20:01:03,789] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:01:03,884] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/11
+[2024-10-23 20:01:34,220] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/11
+[2024-10-23 20:01:34,519] [INFO] [fps_address_scraper.py:91] Saved 8 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:01:34,617] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/12
+[2024-10-23 20:01:57,202] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/260-leigh-farm-rd_durham-nc/page/12
+[2024-10-23 20:01:57,213] [INFO] [fps_address_scraper.py:216] output_chunk_20.xlsx. Scraping 8 of 98
+[2024-10-23 20:01:57,213] [INFO] [fps_address_scraper.py:47] Original address: 2601 Noblewood Cir
+[2024-10-23 20:01:57,213] [INFO] [fps_address_scraper.py:57] Standardized address: 2601 Noblewood Cir
+[2024-10-23 20:01:57,311] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/1
+[2024-10-23 20:02:35,693] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/1
+[2024-10-23 20:02:35,992] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:02:36,090] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/2
+[2024-10-23 20:02:58,725] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/2
+[2024-10-23 20:02:59,037] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:02:59,136] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/3
+[2024-10-23 20:04:00,294] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/3
+[2024-10-23 20:04:00,610] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:04:00,711] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/4
+[2024-10-23 20:04:35,834] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/4
+[2024-10-23 20:04:36,149] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:04:36,265] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/5
+[2024-10-23 20:05:27,743] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/5
+[2024-10-23 20:05:28,273] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:05:28,376] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/6
+[2024-10-23 20:06:00,167] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/6
+[2024-10-23 20:06:00,484] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:06:00,588] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/7
+[2024-10-23 20:06:52,065] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/7
+[2024-10-23 20:06:52,387] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:06:52,494] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/8
+[2024-10-23 20:07:23,566] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/8
+[2024-10-23 20:07:24,077] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:07:24,214] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/9
+[2024-10-23 20:08:17,129] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/9
+[2024-10-23 20:08:17,549] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:08:17,695] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/10
+[2024-10-23 20:08:47,082] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/10
+[2024-10-23 20:08:47,386] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:08:47,523] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/11
+[2024-10-23 20:10:00,987] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/11
+[2024-10-23 20:10:01,324] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:10:01,475] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/12
+[2024-10-23 20:10:24,862] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2601-noblewood-cir_raleigh-nc/page/12
+[2024-10-23 20:10:24,872] [INFO] [fps_address_scraper.py:216] output_chunk_20.xlsx. Scraping 9 of 98
+[2024-10-23 20:10:24,873] [INFO] [fps_address_scraper.py:47] Original address: 2611 Moonbow Trl
+[2024-10-23 20:10:24,873] [INFO] [fps_address_scraper.py:57] Standardized address: 2611 Moonbow Trl
+[2024-10-23 20:10:24,984] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2611-moonbow-trl_wake-forest-nc/page/1
+[2024-10-23 20:10:57,731] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2611-moonbow-trl_wake-forest-nc/page/1
+[2024-10-23 20:10:58,068] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:10:58,177] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2611-moonbow-trl_wake-forest-nc/page/2
+[2024-10-23 20:11:49,622] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2611-moonbow-trl_wake-forest-nc/page/2
+[2024-10-23 20:11:49,944] [INFO] [fps_address_scraper.py:91] Saved 4 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:11:50,058] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2611-moonbow-trl_wake-forest-nc/page/3
+[2024-10-23 20:12:12,585] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2611-moonbow-trl_wake-forest-nc/page/3
+[2024-10-23 20:12:12,616] [INFO] [fps_address_scraper.py:216] output_chunk_20.xlsx. Scraping 10 of 98
+[2024-10-23 20:12:12,617] [INFO] [fps_address_scraper.py:47] Original address: 2616 Erwin Rd
+[2024-10-23 20:12:12,617] [INFO] [fps_address_scraper.py:57] Standardized address: 2616 Erwin Rd
+[2024-10-23 20:12:12,802] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/1
+[2024-10-23 20:12:52,029] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/1
+[2024-10-23 20:12:52,465] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:12:52,632] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/2
+[2024-10-23 20:13:25,492] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/2
+[2024-10-23 20:13:25,840] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:13:25,955] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/3
+[2024-10-23 20:14:17,900] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/3
+[2024-10-23 20:14:18,264] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:14:18,439] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/4
+[2024-10-23 20:15:53,691] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/4
+[2024-10-23 20:15:54,069] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:15:54,191] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/5
+[2024-10-23 20:17:08,133] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/5
+[2024-10-23 20:17:08,503] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:17:08,624] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/6
+[2024-10-23 20:17:30,306] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/6
+[2024-10-23 20:17:30,672] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:17:30,796] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/7
+[2024-10-23 20:18:22,840] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/7
+[2024-10-23 20:18:23,210] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:18:23,366] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/8
+[2024-10-23 20:19:15,403] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/8
+[2024-10-23 20:19:15,778] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:19:15,903] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/9
+[2024-10-23 20:20:13,069] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/9
+[2024-10-23 20:20:13,459] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:20:13,697] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/10
+[2024-10-23 20:21:05,336] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/10
+[2024-10-23 20:21:05,724] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:21:05,853] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/11
+[2024-10-23 20:23:00,816] [ERROR] [fps_address_scraper.py:24] Could not get successful response. Status code 500. {"status":"Failed to get successful response from website. Please retry the request."}
+[2024-10-23 20:23:00,816] [WARNING] [api.py:40] Request failed. Status code 500, retrying in 1 seconds...
+[2024-10-23 20:23:23,332] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/11
+[2024-10-23 20:23:23,888] [INFO] [fps_address_scraper.py:91] Saved 6 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:23:24,072] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/12
+[2024-10-23 20:23:46,019] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2616-erwin-rd_durham-nc/page/12
+[2024-10-23 20:23:46,030] [INFO] [fps_address_scraper.py:216] output_chunk_20.xlsx. Scraping 11 of 98
+[2024-10-23 20:23:46,031] [INFO] [fps_address_scraper.py:47] Original address: 2720 South Blvd
+[2024-10-23 20:23:46,031] [INFO] [fps_address_scraper.py:57] Standardized address: 2720 South Blvd
+[2024-10-23 20:23:46,162] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/1
+[2024-10-23 20:24:38,213] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/1
+[2024-10-23 20:24:38,601] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:24:38,796] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/2
+[2024-10-23 20:25:00,558] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/2
+[2024-10-23 20:25:00,946] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:25:01,081] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/3
+[2024-10-23 20:25:33,987] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/3
+[2024-10-23 20:25:34,500] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:25:34,676] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/4
+[2024-10-23 20:25:58,462] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/4
+[2024-10-23 20:25:58,862] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:25:58,996] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/5
+[2024-10-23 20:26:51,138] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/5
+[2024-10-23 20:26:51,525] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:26:51,660] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/6
+[2024-10-23 20:27:32,189] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/6
+[2024-10-23 20:27:32,575] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:27:32,740] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/7
+[2024-10-23 20:28:08,820] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/7
+[2024-10-23 20:28:09,213] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:28:09,351] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/8
+[2024-10-23 20:29:01,358] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/8
+[2024-10-23 20:29:01,757] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:29:01,899] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/9
+[2024-10-23 20:29:31,471] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/9
+[2024-10-23 20:29:31,920] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:29:32,151] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/10
+[2024-10-23 20:30:23,733] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/10
+[2024-10-23 20:30:24,136] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:30:24,277] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/11
+[2024-10-23 20:31:37,434] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/11
+[2024-10-23 20:31:38,003] [INFO] [fps_address_scraper.py:91] Saved 7 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:31:38,190] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/12
+[2024-10-23 20:32:38,332] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2720-south-blvd_charlotte-nc/page/12
+[2024-10-23 20:32:38,344] [INFO] [fps_address_scraper.py:216] output_chunk_20.xlsx. Scraping 12 of 98
+[2024-10-23 20:32:38,344] [INFO] [fps_address_scraper.py:47] Original address: 2901 Belterra Cir
+[2024-10-23 20:32:38,344] [INFO] [fps_address_scraper.py:57] Standardized address: 2901 Belterra Cir
+[2024-10-23 20:32:38,515] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2901-belterra-cir_greensboro-nc/page/1
+[2024-10-23 20:33:01,117] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2901-belterra-cir_greensboro-nc/page/1
+[2024-10-23 20:33:01,561] [INFO] [fps_address_scraper.py:91] Saved 3 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:33:01,706] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2901-belterra-cir_greensboro-nc/page/2
+[2024-10-23 20:33:24,071] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2901-belterra-cir_greensboro-nc/page/2
+[2024-10-23 20:33:24,083] [INFO] [fps_address_scraper.py:216] output_chunk_20.xlsx. Scraping 13 of 98
+[2024-10-23 20:33:24,084] [INFO] [fps_address_scraper.py:47] Original address: 2911 Mid Century Dr
+[2024-10-23 20:33:24,085] [INFO] [fps_address_scraper.py:57] Standardized address: 2911 Mid Century Dr
+[2024-10-23 20:33:24,230] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2911-mid-century-dr_raleigh-nc/page/1
+[2024-10-23 20:34:15,860] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2911-mid-century-dr_raleigh-nc/page/1
+[2024-10-23 20:34:16,369] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:34:16,618] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2911-mid-century-dr_raleigh-nc/page/2
+[2024-10-23 20:34:53,606] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2911-mid-century-dr_raleigh-nc/page/2
+[2024-10-23 20:34:54,021] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:34:54,167] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2911-mid-century-dr_raleigh-nc/page/3
+[2024-10-23 20:35:15,559] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2911-mid-century-dr_raleigh-nc/page/3
+[2024-10-23 20:35:15,963] [INFO] [fps_address_scraper.py:91] Saved 8 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:35:16,150] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2911-mid-century-dr_raleigh-nc/page/4
+[2024-10-23 20:36:18,581] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2911-mid-century-dr_raleigh-nc/page/4
+[2024-10-23 20:36:18,593] [INFO] [fps_address_scraper.py:216] output_chunk_20.xlsx. Scraping 14 of 98
+[2024-10-23 20:36:18,593] [INFO] [fps_address_scraper.py:47] Original address: 3000 Dominion Ridge Cir
+[2024-10-23 20:36:18,593] [INFO] [fps_address_scraper.py:57] Standardized address: 3000 Dominion Ridge Cir
+[2024-10-23 20:36:18,743] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3000-dominion-ridge-cir_morrisville-nc/page/1
+[2024-10-23 20:37:01,760] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3000-dominion-ridge-cir_morrisville-nc/page/1
+[2024-10-23 20:37:02,178] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:37:02,329] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3000-dominion-ridge-cir_morrisville-nc/page/2
+[2024-10-23 20:37:53,860] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3000-dominion-ridge-cir_morrisville-nc/page/2
+[2024-10-23 20:37:54,350] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:37:54,507] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3000-dominion-ridge-cir_morrisville-nc/page/3
+[2024-10-23 20:38:27,617] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3000-dominion-ridge-cir_morrisville-nc/page/3
+[2024-10-23 20:38:28,164] [INFO] [fps_address_scraper.py:91] Saved 5 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:38:28,408] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3000-dominion-ridge-cir_morrisville-nc/page/4
+[2024-10-23 20:38:52,763] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3000-dominion-ridge-cir_morrisville-nc/page/4
+[2024-10-23 20:38:52,774] [INFO] [fps_address_scraper.py:216] output_chunk_20.xlsx. Scraping 15 of 98
+[2024-10-23 20:38:52,774] [INFO] [fps_address_scraper.py:47] Original address: 3025 Alston Manor St
+[2024-10-23 20:38:52,774] [INFO] [fps_address_scraper.py:57] Standardized address: 3025 Alston Manor St
+[2024-10-23 20:38:52,947] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3025-alston-manor-st_cary-nc/page/1
+[2024-10-23 20:39:25,516] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3025-alston-manor-st_cary-nc/page/1
+[2024-10-23 20:39:25,941] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:39:26,097] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3025-alston-manor-st_cary-nc/page/2
+[2024-10-23 20:40:03,173] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3025-alston-manor-st_cary-nc/page/2
+[2024-10-23 20:40:03,604] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:40:03,780] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3025-alston-manor-st_cary-nc/page/3
+[2024-10-23 20:40:26,888] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3025-alston-manor-st_cary-nc/page/3
+[2024-10-23 20:40:26,901] [INFO] [fps_address_scraper.py:216] output_chunk_20.xlsx. Scraping 16 of 98
+[2024-10-23 20:40:26,901] [INFO] [fps_address_scraper.py:47] Original address: 305 Prine Pl
+[2024-10-23 20:40:26,901] [INFO] [fps_address_scraper.py:57] Standardized address: 305 Prine Pl
+[2024-10-23 20:40:27,053] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/305-prine-pl_charlotte-nc/page/1
+[2024-10-23 20:41:18,700] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/305-prine-pl_charlotte-nc/page/1
+[2024-10-23 20:41:19,131] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:41:19,285] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/305-prine-pl_charlotte-nc/page/2
+[2024-10-23 20:42:11,513] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/305-prine-pl_charlotte-nc/page/2
+[2024-10-23 20:42:12,212] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:42:12,412] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/305-prine-pl_charlotte-nc/page/3
+[2024-10-23 20:43:26,763] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/305-prine-pl_charlotte-nc/page/3
+[2024-10-23 20:43:27,254] [INFO] [fps_address_scraper.py:91] Saved 1 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:43:27,412] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/305-prine-pl_charlotte-nc/page/4
+[2024-10-23 20:43:50,981] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/305-prine-pl_charlotte-nc/page/4
+[2024-10-23 20:43:50,993] [INFO] [fps_address_scraper.py:216] output_chunk_20.xlsx. Scraping 17 of 98
+[2024-10-23 20:43:50,993] [INFO] [fps_address_scraper.py:47] Original address: 3055 Carrington Mill Blvd
+[2024-10-23 20:43:50,993] [INFO] [fps_address_scraper.py:57] Standardized address: 3055 Carrington Mill Blvd
+[2024-10-23 20:43:51,179] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3055-carrington-mill-blvd_morrisville-nc/page/1
+[2024-10-23 20:44:45,153] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3055-carrington-mill-blvd_morrisville-nc/page/1
+[2024-10-23 20:44:45,596] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:44:45,754] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3055-carrington-mill-blvd_morrisville-nc/page/2
+[2024-10-23 20:45:10,551] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3055-carrington-mill-blvd_morrisville-nc/page/2
+[2024-10-23 20:45:10,992] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:45:11,177] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3055-carrington-mill-blvd_morrisville-nc/page/3
+[2024-10-23 20:46:03,924] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3055-carrington-mill-blvd_morrisville-nc/page/3
+[2024-10-23 20:46:04,369] [INFO] [fps_address_scraper.py:91] Saved 8 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:46:04,530] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3055-carrington-mill-blvd_morrisville-nc/page/4
+[2024-10-23 20:46:26,229] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3055-carrington-mill-blvd_morrisville-nc/page/4
+[2024-10-23 20:46:26,241] [INFO] [fps_address_scraper.py:216] output_chunk_20.xlsx. Scraping 18 of 98
+[2024-10-23 20:46:26,242] [INFO] [fps_address_scraper.py:47] Original address: 309 E Morehead St
+[2024-10-23 20:46:26,242] [INFO] [fps_address_scraper.py:57] Standardized address: 309 E Morehead St
+[2024-10-23 20:46:26,427] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/1
+[2024-10-23 20:47:15,670] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/1
+[2024-10-23 20:47:16,115] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:47:16,281] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/2
+[2024-10-23 20:47:37,855] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/2
+[2024-10-23 20:47:38,374] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:47:38,564] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/3
+[2024-10-23 20:48:30,411] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/3
+[2024-10-23 20:48:30,860] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:48:31,025] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/4
+[2024-10-23 20:49:06,068] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/4
+[2024-10-23 20:49:06,562] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:49:06,729] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/5
+[2024-10-23 20:49:29,848] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/5
+[2024-10-23 20:49:30,304] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:49:30,499] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/6
+[2024-10-23 20:50:02,388] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/6
+[2024-10-23 20:50:02,843] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:50:03,012] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/7
+[2024-10-23 20:51:03,896] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/7
+[2024-10-23 20:51:04,364] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:51:04,573] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/8
+[2024-10-23 20:51:26,493] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/8
+[2024-10-23 20:51:26,959] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:51:27,131] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/9
+[2024-10-23 20:52:51,827] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/9
+[2024-10-23 20:52:52,325] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:52:52,498] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/10
+[2024-10-23 20:53:24,087] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/10
+[2024-10-23 20:53:24,606] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:53:24,805] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/11
+[2024-10-23 20:53:53,445] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/11
+[2024-10-23 20:53:53,991] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:53:54,331] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/12
+[2024-10-23 20:54:10,881] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/309-e-morehead-st_charlotte-nc/page/12
+[2024-10-23 20:54:10,893] [INFO] [fps_address_scraper.py:216] output_chunk_20.xlsx. Scraping 19 of 98
+[2024-10-23 20:54:10,893] [INFO] [fps_address_scraper.py:47] Original address: 3101 Rise Dr
+[2024-10-23 20:54:10,894] [INFO] [fps_address_scraper.py:57] Standardized address: 3101 Rise Dr
+[2024-10-23 20:54:11,096] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3101-rise-dr_morrisville-nc/page/1
+[2024-10-23 20:54:38,101] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3101-rise-dr_morrisville-nc/page/1
+[2024-10-23 20:54:38,632] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:54:38,838] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3101-rise-dr_morrisville-nc/page/2
+[2024-10-23 20:55:07,279] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3101-rise-dr_morrisville-nc/page/2
+[2024-10-23 20:55:07,769] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:55:07,945] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3101-rise-dr_morrisville-nc/page/3
+[2024-10-23 20:55:35,572] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3101-rise-dr_morrisville-nc/page/3
+[2024-10-23 20:55:36,102] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:55:36,282] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3101-rise-dr_morrisville-nc/page/4
+[2024-10-23 20:56:30,469] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3101-rise-dr_morrisville-nc/page/4
+[2024-10-23 20:56:30,952] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:56:31,159] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3101-rise-dr_morrisville-nc/page/5
+[2024-10-23 20:57:43,201] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3101-rise-dr_morrisville-nc/page/5
+[2024-10-23 20:57:43,696] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:57:43,877] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3101-rise-dr_morrisville-nc/page/6
+[2024-10-23 20:58:11,038] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3101-rise-dr_morrisville-nc/page/6
+[2024-10-23 20:58:11,705] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:58:11,893] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3101-rise-dr_morrisville-nc/page/7
+[2024-10-23 20:59:04,039] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3101-rise-dr_morrisville-nc/page/7
+[2024-10-23 20:59:04,960] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:59:05,175] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3101-rise-dr_morrisville-nc/page/8
+[2024-10-23 20:59:38,641] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3101-rise-dr_morrisville-nc/page/8
+[2024-10-23 20:59:39,147] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 20:59:39,360] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3101-rise-dr_morrisville-nc/page/9
+[2024-10-23 21:00:05,683] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3101-rise-dr_morrisville-nc/page/9
+[2024-10-23 21:00:06,176] [INFO] [fps_address_scraper.py:91] Saved 7 entries in /home/ubuntu/scripts/result_file/output_chunk_20.xlsx
+[2024-10-23 21:00:06,361] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/3101-rise-dr_morrisville-nc/page/10
+[2024-10-23 21:00:29,484] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/3101-rise-dr_morrisville-nc/page/10
+[2024-10-23 21:00:29,508] [INFO] [fps_address_scraper.py:216] output_chunk_20.xlsx. Scraping 20 of 98
+[2024-10-23 21:00:29,508] [INFO] [fps_address_scraper.py:47] Original address: 311 Liggett St
+[2024-10-23 21:00:29,510] [INFO] [fps_address_scraper.py:57] Standardized address: 311 Liggett St
+[2024-10-23 21:00:29,929] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/311-liggett-st_durham-nc/page/1

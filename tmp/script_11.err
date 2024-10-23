@@ -18,3 +18,516 @@
 [2024-10-23 19:03:35,118] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/4
 [2024-10-23 19:03:35,235] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
 [2024-10-23 19:03:35,246] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/5
+[2024-10-23 19:08:00,281] [INFO] [fps_address_scraper.py:216] output_chunk_11.xlsx. Scraping 1 of 98
+[2024-10-23 19:08:00,282] [INFO] [fps_address_scraper.py:47] Original address: 600 Harrold St
+[2024-10-23 19:08:00,282] [INFO] [fps_address_scraper.py:57] Standardized address: 600 Harrold St
+[2024-10-23 19:08:00,447] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/1 because already scraped.
+[2024-10-23 19:08:00,576] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/2 because already scraped.
+[2024-10-23 19:08:00,688] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/3 because already scraped.
+[2024-10-23 19:08:00,792] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/4 because already scraped.
+[2024-10-23 19:08:00,883] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/5
+[2024-10-23 19:08:22,567] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/5
+[2024-10-23 19:08:22,653] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:08:22,667] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/6
+[2024-10-23 19:09:39,619] [ERROR] [fps_address_scraper.py:24] Could not get successful response. Status code 500. {"status":"Failed to get successful response from website. Please retry the request."}
+[2024-10-23 19:09:39,619] [WARNING] [api.py:40] Request failed. Status code 500, retrying in 1 seconds...
+[2024-10-23 19:10:03,104] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/6
+[2024-10-23 19:10:03,191] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:10:03,204] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/7
+[2024-10-23 19:10:34,352] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/7
+[2024-10-23 19:10:34,476] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:10:34,492] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/8
+[2024-10-23 19:10:55,729] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/8
+[2024-10-23 19:10:55,821] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:10:55,839] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/9
+[2024-10-23 19:11:24,307] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/9
+[2024-10-23 19:11:24,403] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:11:24,421] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/10
+[2024-10-23 19:12:16,201] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/10
+[2024-10-23 19:12:16,301] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:12:16,321] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/11
+[2024-10-23 19:13:59,599] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/11
+[2024-10-23 19:13:59,696] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:13:59,756] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/12
+[2024-10-23 19:14:36,992] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/600-harrold-st_fort-worth-tx/page/12
+[2024-10-23 19:14:37,003] [INFO] [fps_address_scraper.py:216] output_chunk_11.xlsx. Scraping 2 of 98
+[2024-10-23 19:14:37,003] [INFO] [fps_address_scraper.py:47] Original address: 6000 Columbus Ave
+[2024-10-23 19:14:37,003] [INFO] [fps_address_scraper.py:57] Standardized address: 6000 Columbus Ave
+[2024-10-23 19:14:37,026] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/1
+[2024-10-23 19:15:16,241] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/1
+[2024-10-23 19:15:16,354] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:15:16,373] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/2
+[2024-10-23 19:16:08,242] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/2
+[2024-10-23 19:16:08,356] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:16:08,382] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/3
+[2024-10-23 19:16:43,755] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/3
+[2024-10-23 19:16:43,868] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:16:43,893] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/4
+[2024-10-23 19:17:25,681] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/4
+[2024-10-23 19:17:25,833] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:17:25,860] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/5
+[2024-10-23 19:18:19,133] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/5
+[2024-10-23 19:18:19,253] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:18:19,283] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/6
+[2024-10-23 19:18:47,786] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/6
+[2024-10-23 19:18:47,912] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:18:47,940] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/7
+[2024-10-23 19:19:40,114] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/7
+[2024-10-23 19:19:40,284] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:19:40,315] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/8
+[2024-10-23 19:20:32,912] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/8
+[2024-10-23 19:20:33,041] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:20:33,072] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/9
+[2024-10-23 19:21:24,527] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/9
+[2024-10-23 19:21:24,708] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:21:24,745] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/10
+[2024-10-23 19:22:16,579] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/10
+[2024-10-23 19:22:16,749] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:22:16,784] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/11
+[2024-10-23 19:22:52,443] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/11
+[2024-10-23 19:22:52,581] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:22:52,617] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/12
+[2024-10-23 19:23:17,952] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-columbus-ave_plano-tx/page/12
+[2024-10-23 19:23:17,963] [INFO] [fps_address_scraper.py:216] output_chunk_11.xlsx. Scraping 3 of 98
+[2024-10-23 19:23:17,963] [INFO] [fps_address_scraper.py:47] Original address: 6000 W Rayford Rd
+[2024-10-23 19:23:17,963] [INFO] [fps_address_scraper.py:57] Standardized address: 6000 W Rayford Rd
+[2024-10-23 19:23:18,001] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/1
+[2024-10-23 19:24:09,499] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/1
+[2024-10-23 19:24:09,680] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:24:09,717] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/2
+[2024-10-23 19:25:16,151] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/2
+[2024-10-23 19:25:16,291] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:25:16,329] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/3
+[2024-10-23 19:26:07,987] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/3
+[2024-10-23 19:26:08,131] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:26:08,207] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/4
+[2024-10-23 19:26:47,993] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/4
+[2024-10-23 19:26:48,141] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:26:48,184] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/5
+[2024-10-23 19:27:48,972] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/5
+[2024-10-23 19:27:49,126] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:27:49,169] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/6
+[2024-10-23 19:28:41,084] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/6
+[2024-10-23 19:28:41,274] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:28:41,318] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/7
+[2024-10-23 19:29:33,330] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/7
+[2024-10-23 19:29:33,489] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:29:33,534] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/8
+[2024-10-23 19:30:26,476] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/8
+[2024-10-23 19:30:26,677] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:30:26,723] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/9
+[2024-10-23 19:31:18,499] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/9
+[2024-10-23 19:31:18,669] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:31:18,717] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/10
+[2024-10-23 19:31:51,301] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/10
+[2024-10-23 19:31:51,500] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:31:51,551] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/11
+[2024-10-23 19:32:29,673] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/11
+[2024-10-23 19:32:29,838] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:32:29,889] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/12
+[2024-10-23 19:32:54,054] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6000-w-rayford-rd_spring-tx/page/12
+[2024-10-23 19:32:54,066] [INFO] [fps_address_scraper.py:216] output_chunk_11.xlsx. Scraping 4 of 98
+[2024-10-23 19:32:54,066] [INFO] [fps_address_scraper.py:47] Original address: 6001 S Congress Ave
+[2024-10-23 19:32:54,066] [INFO] [fps_address_scraper.py:57] Standardized address: 6001 S Congress Ave
+[2024-10-23 19:32:54,154] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/1
+[2024-10-23 19:33:38,056] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/1
+[2024-10-23 19:33:38,227] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:33:38,280] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/2
+[2024-10-23 19:34:17,390] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/2
+[2024-10-23 19:34:17,597] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:34:17,652] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/3
+[2024-10-23 19:36:10,432] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/3
+[2024-10-23 19:36:10,607] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:36:10,663] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/4
+[2024-10-23 19:36:46,411] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/4
+[2024-10-23 19:36:46,637] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:36:46,733] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/5
+[2024-10-23 19:37:11,731] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/5
+[2024-10-23 19:37:11,912] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:37:11,971] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/6
+[2024-10-23 19:38:40,134] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/6
+[2024-10-23 19:38:40,354] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:38:40,413] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/7
+[2024-10-23 19:39:02,293] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/7
+[2024-10-23 19:39:02,481] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:39:02,573] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/8
+[2024-10-23 19:39:41,805] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/8
+[2024-10-23 19:39:41,997] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:39:42,059] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/9
+[2024-10-23 19:40:06,472] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/9
+[2024-10-23 19:40:06,711] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:40:06,775] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/10
+[2024-10-23 19:40:59,298] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/10
+[2024-10-23 19:40:59,496] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:40:59,561] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/11
+[2024-10-23 19:41:51,005] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/11
+[2024-10-23 19:41:51,256] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:41:51,324] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/12
+[2024-10-23 19:42:14,303] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6001-s-congress-ave_austin-tx/page/12
+[2024-10-23 19:42:14,315] [INFO] [fps_address_scraper.py:216] output_chunk_11.xlsx. Scraping 5 of 98
+[2024-10-23 19:42:14,316] [INFO] [fps_address_scraper.py:47] Original address: 6008 Maple Ave
+[2024-10-23 19:42:14,316] [INFO] [fps_address_scraper.py:57] Standardized address: 6008 Maple Ave
+[2024-10-23 19:42:14,382] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/1
+[2024-10-23 19:43:06,207] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/1
+[2024-10-23 19:43:06,452] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:43:06,520] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/2
+[2024-10-23 19:43:46,327] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/2
+[2024-10-23 19:43:46,534] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:43:46,633] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/3
+[2024-10-23 19:45:26,083] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/3
+[2024-10-23 19:45:26,310] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:45:26,389] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/4
+[2024-10-23 19:45:58,386] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/4
+[2024-10-23 19:45:58,643] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:45:58,716] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/5
+[2024-10-23 19:47:25,276] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/5
+[2024-10-23 19:47:25,525] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:47:25,600] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/6
+[2024-10-23 19:48:04,400] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/6
+[2024-10-23 19:48:04,621] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:48:04,695] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/7
+[2024-10-23 19:48:56,346] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/7
+[2024-10-23 19:48:56,667] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:48:56,744] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/8
+[2024-10-23 19:49:48,551] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/8
+[2024-10-23 19:49:48,865] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:49:48,943] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/9
+[2024-10-23 19:50:22,402] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/9
+[2024-10-23 19:50:22,668] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:50:22,747] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/10
+[2024-10-23 19:50:56,724] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/10
+[2024-10-23 19:50:56,960] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:50:57,073] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/11
+[2024-10-23 19:51:52,941] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/11
+[2024-10-23 19:51:53,179] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:51:53,261] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/12
+[2024-10-23 19:52:15,395] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6008-maple-ave_dallas-tx/page/12
+[2024-10-23 19:52:15,407] [INFO] [fps_address_scraper.py:216] output_chunk_11.xlsx. Scraping 6 of 98
+[2024-10-23 19:52:15,408] [INFO] [fps_address_scraper.py:47] Original address: 601 Belpree Dr
+[2024-10-23 19:52:15,408] [INFO] [fps_address_scraper.py:57] Standardized address: 601 Belpree Dr
+[2024-10-23 19:52:15,519] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-belpree-dr_plano-tx/page/1
+[2024-10-23 19:52:36,587] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-belpree-dr_plano-tx/page/1
+[2024-10-23 19:52:36,602] [INFO] [fps_address_scraper.py:216] output_chunk_11.xlsx. Scraping 7 of 98
+[2024-10-23 19:52:36,603] [INFO] [fps_address_scraper.py:47] Original address: 601 Patton Blvd
+[2024-10-23 19:52:36,603] [INFO] [fps_address_scraper.py:57] Standardized address: 601 Patton Blvd
+[2024-10-23 19:52:36,683] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/1
+[2024-10-23 19:53:00,090] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/1
+[2024-10-23 19:53:00,331] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:53:00,448] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/2
+[2024-10-23 19:53:39,402] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/2
+[2024-10-23 19:53:39,705] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:53:39,813] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/3
+[2024-10-23 19:54:47,488] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/3
+[2024-10-23 19:54:47,772] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:54:47,859] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/4
+[2024-10-23 19:55:20,059] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/4
+[2024-10-23 19:55:20,348] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:55:20,435] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/5
+[2024-10-23 19:56:37,274] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/5
+[2024-10-23 19:56:37,556] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:56:37,644] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/6
+[2024-10-23 19:56:59,981] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/6
+[2024-10-23 19:57:00,274] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:57:00,363] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/7
+[2024-10-23 19:57:34,098] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/7
+[2024-10-23 19:57:34,392] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:57:34,482] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/8
+[2024-10-23 19:57:56,432] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/8
+[2024-10-23 19:57:56,692] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:57:56,814] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/9
+[2024-10-23 19:58:27,829] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/9
+[2024-10-23 19:58:28,096] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:58:28,217] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/10
+[2024-10-23 19:58:52,855] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/10
+[2024-10-23 19:58:53,125] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:58:53,221] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/11
+[2024-10-23 19:59:25,568] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/11
+[2024-10-23 19:59:25,871] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 19:59:25,969] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/12
+[2024-10-23 19:59:47,957] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-patton-blvd_plano-tx/page/12
+[2024-10-23 19:59:47,967] [INFO] [fps_address_scraper.py:216] output_chunk_11.xlsx. Scraping 8 of 98
+[2024-10-23 19:59:47,967] [INFO] [fps_address_scraper.py:47] Original address: 601 W Saint Johns Ave
+[2024-10-23 19:59:47,967] [INFO] [fps_address_scraper.py:57] Standardized address: 601 W Saint Johns Ave
+[2024-10-23 19:59:48,096] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/1
+[2024-10-23 20:00:21,541] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/1
+[2024-10-23 20:00:21,766] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:00:21,891] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/2
+[2024-10-23 20:00:59,140] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/2
+[2024-10-23 20:00:59,426] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:00:59,556] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/3
+[2024-10-23 20:02:10,026] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/3
+[2024-10-23 20:02:10,305] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:02:10,406] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/4
+[2024-10-23 20:02:51,047] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/4
+[2024-10-23 20:02:51,355] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:02:51,456] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/5
+[2024-10-23 20:03:42,995] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/5
+[2024-10-23 20:03:43,328] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:03:43,433] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/6
+[2024-10-23 20:04:20,880] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/6
+[2024-10-23 20:04:21,277] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:04:21,413] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/7
+[2024-10-23 20:04:43,198] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/7
+[2024-10-23 20:04:43,495] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:04:43,630] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/8
+[2024-10-23 20:05:05,424] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/8
+[2024-10-23 20:05:05,716] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:05:05,852] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/9
+[2024-10-23 20:05:58,277] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/9
+[2024-10-23 20:05:58,580] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:05:58,719] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/10
+[2024-10-23 20:06:50,320] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/10
+[2024-10-23 20:06:50,625] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:06:50,768] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/11
+[2024-10-23 20:07:13,056] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/11
+[2024-10-23 20:07:13,388] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:07:13,500] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/12
+[2024-10-23 20:07:35,778] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/601-w-saint-johns-ave_austin-tx/page/12
+[2024-10-23 20:07:35,790] [INFO] [fps_address_scraper.py:216] output_chunk_11.xlsx. Scraping 9 of 98
+[2024-10-23 20:07:35,790] [INFO] [fps_address_scraper.py:47] Original address: 6021 Parker Blvd N
+[2024-10-23 20:07:35,790] [INFO] [fps_address_scraper.py:57] Standardized address: 6021 Parker Blvd N
+[2024-10-23 20:07:35,902] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/1
+[2024-10-23 20:07:58,547] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/1
+[2024-10-23 20:07:58,886] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:07:58,998] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/2
+[2024-10-23 20:08:50,922] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/2
+[2024-10-23 20:08:51,267] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:08:51,381] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/3
+[2024-10-23 20:10:12,695] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/3
+[2024-10-23 20:10:13,042] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:10:13,157] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/4
+[2024-10-23 20:12:09,053] [ERROR] [fps_address_scraper.py:24] Could not get successful response. Status code 500. {"status":"Failed to get successful response from website. Please retry the request."}
+[2024-10-23 20:12:09,053] [WARNING] [api.py:40] Request failed. Status code 500, retrying in 1 seconds...
+[2024-10-23 20:12:32,888] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/4
+[2024-10-23 20:12:33,236] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:12:33,355] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/5
+[2024-10-23 20:13:05,427] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/5
+[2024-10-23 20:13:05,796] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:13:05,949] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/6
+[2024-10-23 20:13:54,692] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/6
+[2024-10-23 20:13:55,058] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:13:55,179] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/7
+[2024-10-23 20:14:42,253] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/7
+[2024-10-23 20:14:42,612] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:14:42,733] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/8
+[2024-10-23 20:15:20,387] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/8
+[2024-10-23 20:15:20,819] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:15:20,939] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/9
+[2024-10-23 20:15:40,260] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/9
+[2024-10-23 20:15:40,623] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:15:40,747] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/10
+[2024-10-23 20:16:15,211] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/10
+[2024-10-23 20:16:15,780] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:16:15,985] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/11
+[2024-10-23 20:18:07,079] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/11
+[2024-10-23 20:18:07,468] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:18:07,600] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/12
+[2024-10-23 20:18:29,328] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6021-parker-blvd-n_north-richland-hills-tx/page/12
+[2024-10-23 20:18:29,340] [INFO] [fps_address_scraper.py:216] output_chunk_11.xlsx. Scraping 10 of 98
+[2024-10-23 20:18:29,341] [INFO] [fps_address_scraper.py:47] Original address: 6030 Texas Heritage Pky
+[2024-10-23 20:18:29,341] [INFO] [fps_address_scraper.py:57] Standardized address: 6030 Texas Heritage Pky
+[2024-10-23 20:18:29,472] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6030-texas-heritage-pky_fulshear-tx/page/1
+[2024-10-23 20:19:51,755] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6030-texas-heritage-pky_fulshear-tx/page/1
+[2024-10-23 20:19:52,126] [INFO] [fps_address_scraper.py:91] Saved 6 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:19:52,257] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6030-texas-heritage-pky_fulshear-tx/page/2
+[2024-10-23 20:20:13,355] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6030-texas-heritage-pky_fulshear-tx/page/2
+[2024-10-23 20:20:13,386] [INFO] [fps_address_scraper.py:216] output_chunk_11.xlsx. Scraping 11 of 98
+[2024-10-23 20:20:13,386] [INFO] [fps_address_scraper.py:47] Original address: 604 Fort Worth Ave
+[2024-10-23 20:20:13,386] [INFO] [fps_address_scraper.py:57] Standardized address: 604 Fort Worth Ave
+[2024-10-23 20:20:13,648] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/1
+[2024-10-23 20:20:48,671] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/1
+[2024-10-23 20:20:49,066] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:20:49,198] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/2
+[2024-10-23 20:21:21,776] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/2
+[2024-10-23 20:21:22,169] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:21:22,304] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/3
+[2024-10-23 20:21:53,973] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/3
+[2024-10-23 20:21:54,369] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:21:54,499] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/4
+[2024-10-23 20:22:37,085] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/4
+[2024-10-23 20:22:37,564] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:22:37,733] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/5
+[2024-10-23 20:23:23,220] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/5
+[2024-10-23 20:23:23,781] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:23:24,036] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/6
+[2024-10-23 20:23:53,400] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/6
+[2024-10-23 20:23:53,801] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:23:54,115] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/7
+[2024-10-23 20:24:25,237] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/7
+[2024-10-23 20:24:25,681] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:24:25,974] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/8
+[2024-10-23 20:24:48,803] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/8
+[2024-10-23 20:24:49,214] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:24:49,356] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/9
+[2024-10-23 20:25:13,168] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/9
+[2024-10-23 20:25:13,588] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:25:13,747] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/10
+[2024-10-23 20:26:05,691] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/10
+[2024-10-23 20:26:06,109] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:26:06,288] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/11
+[2024-10-23 20:26:45,263] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/11
+[2024-10-23 20:26:45,669] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:26:45,812] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/12
+[2024-10-23 20:27:10,729] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/604-fort-worth-ave_dallas-tx/page/12
+[2024-10-23 20:27:10,741] [INFO] [fps_address_scraper.py:216] output_chunk_11.xlsx. Scraping 12 of 98
+[2024-10-23 20:27:10,741] [INFO] [fps_address_scraper.py:47] Original address: 6050 N Central Expy
+[2024-10-23 20:27:10,741] [INFO] [fps_address_scraper.py:57] Standardized address: 6050 N Central Expy
+[2024-10-23 20:27:10,886] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/1
+[2024-10-23 20:28:04,140] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/1
+[2024-10-23 20:28:04,561] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:28:04,731] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/2
+[2024-10-23 20:28:32,377] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/2
+[2024-10-23 20:28:32,778] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:28:32,924] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/3
+[2024-10-23 20:28:54,613] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/3
+[2024-10-23 20:28:55,029] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:28:55,201] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/4
+[2024-10-23 20:29:48,257] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/4
+[2024-10-23 20:29:48,753] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:29:48,969] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/5
+[2024-10-23 20:30:38,199] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/5
+[2024-10-23 20:30:38,619] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:30:38,771] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/6
+[2024-10-23 20:31:31,073] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/6
+[2024-10-23 20:31:31,532] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:31:31,687] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/7
+[2024-10-23 20:32:23,157] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/7
+[2024-10-23 20:32:23,592] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:32:23,747] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/8
+[2024-10-23 20:32:45,763] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/8
+[2024-10-23 20:32:46,195] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:32:46,399] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/9
+[2024-10-23 20:33:25,545] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/9
+[2024-10-23 20:33:25,976] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:33:26,136] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/10
+[2024-10-23 20:33:48,670] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/10
+[2024-10-23 20:33:49,114] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:33:49,296] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/11
+[2024-10-23 20:34:23,728] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/11
+[2024-10-23 20:34:24,176] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:34:24,337] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/12
+[2024-10-23 20:34:46,839] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6050-n-central-expy_dallas-tx/page/12
+[2024-10-23 20:34:46,852] [INFO] [fps_address_scraper.py:216] output_chunk_11.xlsx. Scraping 13 of 98
+[2024-10-23 20:34:46,852] [INFO] [fps_address_scraper.py:47] Original address: 606 N Presa St
+[2024-10-23 20:34:46,852] [INFO] [fps_address_scraper.py:57] Standardized address: 606 N Presa St
+[2024-10-23 20:34:47,044] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/1
+[2024-10-23 20:35:35,551] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/1
+[2024-10-23 20:35:35,999] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:35:36,159] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/2
+[2024-10-23 20:35:58,984] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/2
+[2024-10-23 20:35:59,433] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:35:59,626] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/3
+[2024-10-23 20:37:18,770] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/3
+[2024-10-23 20:37:19,226] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:37:19,389] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/4
+[2024-10-23 20:37:41,872] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/4
+[2024-10-23 20:37:42,368] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:37:42,531] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/5
+[2024-10-23 20:38:18,175] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/5
+[2024-10-23 20:38:18,637] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:38:18,799] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/6
+[2024-10-23 20:39:09,340] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/6
+[2024-10-23 20:39:10,070] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:39:10,237] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/7
+[2024-10-23 20:40:02,513] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/7
+[2024-10-23 20:40:02,975] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:40:03,169] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/8
+[2024-10-23 20:40:37,694] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/8
+[2024-10-23 20:40:38,163] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:40:38,372] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/9
+[2024-10-23 20:41:01,081] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/9
+[2024-10-23 20:41:01,545] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:41:01,744] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/10
+[2024-10-23 20:41:55,064] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/10
+[2024-10-23 20:41:55,546] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:41:55,719] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/11
+[2024-10-23 20:43:28,672] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/11
+[2024-10-23 20:43:29,182] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:43:29,355] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/12
+[2024-10-23 20:43:51,705] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/606-n-presa-st_san-antonio-tx/page/12
+[2024-10-23 20:43:51,727] [INFO] [fps_address_scraper.py:216] output_chunk_11.xlsx. Scraping 14 of 98
+[2024-10-23 20:43:51,727] [INFO] [fps_address_scraper.py:47] Original address: 6080 Water St
+[2024-10-23 20:43:51,727] [INFO] [fps_address_scraper.py:57] Standardized address: 6080 Water St
+[2024-10-23 20:43:51,977] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/1
+[2024-10-23 20:44:32,328] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/1
+[2024-10-23 20:44:32,879] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:44:33,152] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/2
+[2024-10-23 20:44:54,743] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/2
+[2024-10-23 20:44:55,228] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:44:55,428] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/3
+[2024-10-23 20:45:47,347] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/3
+[2024-10-23 20:45:47,845] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:45:48,052] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/4
+[2024-10-23 20:46:40,041] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/4
+[2024-10-23 20:46:40,535] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:46:40,715] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/5
+[2024-10-23 20:47:07,092] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/5
+[2024-10-23 20:47:07,719] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:47:07,898] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/6
+[2024-10-23 20:47:46,684] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/6
+[2024-10-23 20:47:47,179] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:47:47,392] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/7
+[2024-10-23 20:48:14,803] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/7
+[2024-10-23 20:48:15,299] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:48:15,483] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/8
+[2024-10-23 20:48:48,011] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/8
+[2024-10-23 20:48:48,568] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:48:48,756] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/9
+[2024-10-23 20:49:40,897] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/9
+[2024-10-23 20:49:41,409] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:49:41,620] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/10
+[2024-10-23 20:50:36,115] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/10
+[2024-10-23 20:50:36,629] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:50:36,848] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/11
+[2024-10-23 20:51:28,181] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/11
+[2024-10-23 20:51:28,691] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:51:28,879] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/12
+[2024-10-23 20:51:49,889] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/6080-water-st_plano-tx/page/12
+[2024-10-23 20:51:49,901] [INFO] [fps_address_scraper.py:216] output_chunk_11.xlsx. Scraping 15 of 98
+[2024-10-23 20:51:49,901] [INFO] [fps_address_scraper.py:47] Original address: 609 Waverly St
+[2024-10-23 20:51:49,901] [INFO] [fps_address_scraper.py:57] Standardized address: 609 Waverly St
+[2024-10-23 20:51:50,115] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/1
+[2024-10-23 20:52:41,529] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/1
+[2024-10-23 20:52:42,048] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:52:42,262] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/2
+[2024-10-23 20:53:03,462] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/2
+[2024-10-23 20:53:03,979] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:53:04,244] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/3
+[2024-10-23 20:53:34,127] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/3
+[2024-10-23 20:53:34,669] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:53:34,952] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/4
+[2024-10-23 20:53:59,521] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/4
+[2024-10-23 20:54:00,071] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:54:00,266] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/5
+[2024-10-23 20:54:24,754] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/5
+[2024-10-23 20:54:25,326] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:54:25,520] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/6
+[2024-10-23 20:55:51,651] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/6
+[2024-10-23 20:55:53,109] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:55:53,932] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/7
+[2024-10-23 20:56:23,703] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/7
+[2024-10-23 20:56:24,235] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:56:24,463] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/8
+[2024-10-23 20:56:47,358] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/8
+[2024-10-23 20:56:47,903] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:56:48,106] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/9
+[2024-10-23 20:57:15,453] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/9
+[2024-10-23 20:57:16,016] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:57:16,218] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/10
+[2024-10-23 20:58:05,349] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/10
+[2024-10-23 20:58:05,956] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:58:06,160] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/11
+[2024-10-23 20:58:29,696] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/11
+[2024-10-23 20:58:30,608] [INFO] [fps_address_scraper.py:91] Saved 6 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:58:31,023] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/12
+[2024-10-23 20:58:55,648] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/609-waverly-st_houston-tx/page/12
+[2024-10-23 20:58:55,660] [INFO] [fps_address_scraper.py:216] output_chunk_11.xlsx. Scraping 16 of 98
+[2024-10-23 20:58:55,660] [INFO] [fps_address_scraper.py:47] Original address: 610 E Wells Branch Pky
+[2024-10-23 20:58:55,661] [INFO] [fps_address_scraper.py:57] Standardized address: 610 E Wells Branch Pky
+[2024-10-23 20:58:55,894] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/610-e-wells-branch-pky_pflugerville-tx/page/1
+[2024-10-23 20:59:29,220] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/610-e-wells-branch-pky_pflugerville-tx/page/1
+[2024-10-23 20:59:29,787] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:59:30,044] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/610-e-wells-branch-pky_pflugerville-tx/page/2
+[2024-10-23 20:59:56,924] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/610-e-wells-branch-pky_pflugerville-tx/page/2
+[2024-10-23 20:59:58,029] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_11.xlsx
+[2024-10-23 20:59:58,426] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/610-e-wells-branch-pky_pflugerville-tx/page/3

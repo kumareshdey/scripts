@@ -5,3 +5,491 @@
 [2024-10-23 18:59:03,508] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/1
 [2024-10-23 18:59:03,563] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
 [2024-10-23 18:59:03,571] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/2
+[2024-10-23 19:08:00,514] [INFO] [fps_address_scraper.py:216] output_chunk_25.xlsx. Scraping 1 of 98
+[2024-10-23 19:08:00,515] [INFO] [fps_address_scraper.py:47] Original address: 1105 Clara Ave
+[2024-10-23 19:08:00,515] [INFO] [fps_address_scraper.py:57] Standardized address: 1105 Clara Ave
+[2024-10-23 19:08:00,584] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/1 because already scraped.
+[2024-10-23 19:08:00,680] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/2
+[2024-10-23 19:08:22,946] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/2
+[2024-10-23 19:08:23,027] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:08:23,035] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/3
+[2024-10-23 19:09:16,145] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/3
+[2024-10-23 19:09:16,228] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:09:16,239] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/4
+[2024-10-23 19:09:48,061] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/4
+[2024-10-23 19:09:48,150] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:09:48,161] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/5
+[2024-10-23 19:10:09,696] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/5
+[2024-10-23 19:10:09,816] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:10:09,828] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/6
+[2024-10-23 19:11:13,639] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/6
+[2024-10-23 19:11:13,773] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:11:13,807] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/7
+[2024-10-23 19:12:34,517] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/7
+[2024-10-23 19:12:34,608] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:12:34,624] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/8
+[2024-10-23 19:13:11,683] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/8
+[2024-10-23 19:13:11,779] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:13:11,796] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/9
+[2024-10-23 19:13:50,426] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/9
+[2024-10-23 19:13:50,529] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:13:50,592] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/10
+[2024-10-23 19:14:15,614] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/10
+[2024-10-23 19:14:15,717] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:14:15,736] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/11
+[2024-10-23 19:15:07,409] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/11
+[2024-10-23 19:15:07,505] [INFO] [fps_address_scraper.py:91] Saved 8 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:15:07,527] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/12
+[2024-10-23 19:15:29,463] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1105-clara-ave_panama-city-beach-fl/page/12
+[2024-10-23 19:15:29,474] [INFO] [fps_address_scraper.py:216] output_chunk_25.xlsx. Scraping 2 of 98
+[2024-10-23 19:15:29,474] [INFO] [fps_address_scraper.py:47] Original address: 11105 SW 200th St
+[2024-10-23 19:15:29,474] [INFO] [fps_address_scraper.py:57] Standardized address: 11105 SW 200th St
+[2024-10-23 19:15:29,496] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/1
+[2024-10-23 19:16:05,813] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/1
+[2024-10-23 19:16:05,917] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:16:05,940] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/2
+[2024-10-23 19:17:05,217] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/2
+[2024-10-23 19:17:05,364] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:17:05,388] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/3
+[2024-10-23 19:17:57,762] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/3
+[2024-10-23 19:17:57,876] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:17:57,900] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/4
+[2024-10-23 19:19:24,704] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/4
+[2024-10-23 19:19:24,824] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:19:24,851] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/5
+[2024-10-23 19:20:17,743] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/5
+[2024-10-23 19:20:17,861] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:20:17,924] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/6
+[2024-10-23 19:20:57,475] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/6
+[2024-10-23 19:20:57,597] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:20:57,626] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/7
+[2024-10-23 19:21:19,807] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/7
+[2024-10-23 19:21:19,908] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:21:19,938] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/8
+[2024-10-23 19:22:48,372] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/8
+[2024-10-23 19:22:48,534] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:22:48,566] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/9
+[2024-10-23 19:24:02,065] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/9
+[2024-10-23 19:24:02,195] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:24:02,228] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/10
+[2024-10-23 19:25:13,693] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/10
+[2024-10-23 19:25:13,827] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:25:13,860] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/11
+[2024-10-23 19:25:50,352] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/11
+[2024-10-23 19:25:50,521] [INFO] [fps_address_scraper.py:91] Saved 6 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:25:50,557] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/12
+[2024-10-23 19:26:12,244] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11105-sw-200th-st_miami-fl/page/12
+[2024-10-23 19:26:12,257] [INFO] [fps_address_scraper.py:216] output_chunk_25.xlsx. Scraping 3 of 98
+[2024-10-23 19:26:12,257] [INFO] [fps_address_scraper.py:47] Original address: 1115 Pacifica Dr
+[2024-10-23 19:26:12,257] [INFO] [fps_address_scraper.py:57] Standardized address: 1115 Pacifica Dr
+[2024-10-23 19:26:12,293] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/1
+[2024-10-23 19:27:03,700] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/1
+[2024-10-23 19:27:03,835] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:27:03,871] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/2
+[2024-10-23 19:27:50,650] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/2
+[2024-10-23 19:27:50,786] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:27:50,860] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/3
+[2024-10-23 19:28:42,726] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/3
+[2024-10-23 19:28:42,924] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:28:42,974] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/4
+[2024-10-23 19:29:23,023] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/4
+[2024-10-23 19:29:23,172] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:29:23,213] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/5
+[2024-10-23 19:29:56,255] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/5
+[2024-10-23 19:29:56,433] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:29:56,475] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/6
+[2024-10-23 19:31:21,323] [ERROR] [fps_address_scraper.py:24] Could not get successful response. Status code 500. {"status":"Failed to get successful response from website. Please retry the request."}
+[2024-10-23 19:31:21,323] [WARNING] [api.py:40] Request failed. Status code 500, retrying in 1 seconds...
+[2024-10-23 19:32:14,460] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/6
+[2024-10-23 19:32:14,619] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:32:14,662] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/7
+[2024-10-23 19:32:49,107] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/7
+[2024-10-23 19:32:49,300] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:32:49,344] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/8
+[2024-10-23 19:33:40,967] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/8
+[2024-10-23 19:33:41,124] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:33:41,172] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/9
+[2024-10-23 19:33:58,697] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/9
+[2024-10-23 19:33:58,899] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:33:58,947] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/10
+[2024-10-23 19:34:56,646] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/10
+[2024-10-23 19:34:56,780] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:34:56,817] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/11
+[2024-10-23 19:35:48,466] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/11
+[2024-10-23 19:35:48,673] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:35:48,723] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/12
+[2024-10-23 19:36:28,712] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1115-pacifica-dr_kissimmee-fl/page/12
+[2024-10-23 19:36:28,723] [INFO] [fps_address_scraper.py:216] output_chunk_25.xlsx. Scraping 4 of 98
+[2024-10-23 19:36:28,723] [INFO] [fps_address_scraper.py:47] Original address: 1120 E Twiggs St
+[2024-10-23 19:36:28,723] [INFO] [fps_address_scraper.py:57] Standardized address: 1120 E Twiggs St
+[2024-10-23 19:36:28,773] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/1
+[2024-10-23 19:37:06,850] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/1
+[2024-10-23 19:37:07,037] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:37:07,121] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/2
+[2024-10-23 19:37:59,477] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/2
+[2024-10-23 19:37:59,651] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:37:59,705] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/3
+[2024-10-23 19:39:51,161] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/3
+[2024-10-23 19:39:51,368] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:39:51,421] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/4
+[2024-10-23 19:40:43,997] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/4
+[2024-10-23 19:40:44,181] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:40:44,237] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/5
+[2024-10-23 19:42:16,582] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/5
+[2024-10-23 19:42:16,802] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:42:16,860] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/6
+[2024-10-23 19:43:08,545] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/6
+[2024-10-23 19:43:08,734] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:43:08,792] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/7
+[2024-10-23 19:44:01,542] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/7
+[2024-10-23 19:44:01,770] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:44:01,829] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/8
+[2024-10-23 19:44:53,755] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/8
+[2024-10-23 19:44:53,980] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:44:54,041] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/9
+[2024-10-23 19:45:31,995] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/9
+[2024-10-23 19:45:32,194] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:45:32,256] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/10
+[2024-10-23 19:46:07,558] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/10
+[2024-10-23 19:46:07,788] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:46:07,853] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/11
+[2024-10-23 19:47:00,064] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/11
+[2024-10-23 19:47:00,264] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:47:00,359] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/12
+[2024-10-23 19:47:21,906] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1120-e-twiggs-st_tampa-fl/page/12
+[2024-10-23 19:47:21,918] [INFO] [fps_address_scraper.py:216] output_chunk_25.xlsx. Scraping 5 of 98
+[2024-10-23 19:47:21,918] [INFO] [fps_address_scraper.py:47] Original address: 11200 Biscayne Blvd
+[2024-10-23 19:47:21,918] [INFO] [fps_address_scraper.py:57] Standardized address: 11200 Biscayne Blvd
+[2024-10-23 19:47:21,984] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/1
+[2024-10-23 19:47:56,359] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/1
+[2024-10-23 19:47:56,566] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:47:56,632] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/2
+[2024-10-23 19:49:07,547] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/2
+[2024-10-23 19:49:07,788] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:49:07,854] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/3
+[2024-10-23 19:50:23,621] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/3
+[2024-10-23 19:50:23,872] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:50:23,940] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/4
+[2024-10-23 19:50:45,752] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/4
+[2024-10-23 19:50:45,965] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:50:46,066] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/5
+[2024-10-23 19:51:38,652] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/5
+[2024-10-23 19:51:38,870] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:51:38,944] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/6
+[2024-10-23 19:52:22,285] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/6
+[2024-10-23 19:52:22,539] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:52:22,611] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/7
+[2024-10-23 19:52:59,840] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/7
+[2024-10-23 19:53:00,093] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:53:00,169] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/8
+[2024-10-23 19:54:47,966] [ERROR] [fps_address_scraper.py:24] Could not get successful response. Status code 500. {"status":"Failed to get successful response from website. Please retry the request."}
+[2024-10-23 19:54:47,966] [WARNING] [api.py:40] Request failed. Status code 500, retrying in 1 seconds...
+[2024-10-23 19:55:41,290] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/8
+[2024-10-23 19:55:41,513] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:55:41,590] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/9
+[2024-10-23 19:56:16,108] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/9
+[2024-10-23 19:56:16,361] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:56:16,440] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/10
+[2024-10-23 19:56:38,085] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/10
+[2024-10-23 19:56:38,347] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:56:38,427] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/11
+[2024-10-23 19:58:34,364] [ERROR] [fps_address_scraper.py:24] Could not get successful response. Status code 500. {"status":"Failed to get successful response from website. Please retry the request."}
+[2024-10-23 19:58:34,364] [WARNING] [api.py:40] Request failed. Status code 500, retrying in 1 seconds...
+[2024-10-23 19:58:56,413] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/11
+[2024-10-23 19:58:56,658] [INFO] [fps_address_scraper.py:91] Saved 6 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:58:56,737] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/12
+[2024-10-23 19:59:22,013] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11200-biscayne-blvd_miami-fl/page/12
+[2024-10-23 19:59:22,024] [INFO] [fps_address_scraper.py:216] output_chunk_25.xlsx. Scraping 6 of 98
+[2024-10-23 19:59:22,025] [INFO] [fps_address_scraper.py:47] Original address: 1124 Crosstown Way
+[2024-10-23 19:59:22,025] [INFO] [fps_address_scraper.py:57] Standardized address: 1124 Crosstown Way
+[2024-10-23 19:59:22,105] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1124-crosstown-way_orlando-fl/page/1
+[2024-10-23 19:59:47,072] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1124-crosstown-way_orlando-fl/page/1
+[2024-10-23 19:59:47,333] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 19:59:47,413] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1124-crosstown-way_orlando-fl/page/2
+[2024-10-23 20:00:38,953] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1124-crosstown-way_orlando-fl/page/2
+[2024-10-23 20:00:39,225] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:00:39,345] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1124-crosstown-way_orlando-fl/page/3
+[2024-10-23 20:01:10,946] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1124-crosstown-way_orlando-fl/page/3
+[2024-10-23 20:01:11,194] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:01:11,278] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1124-crosstown-way_orlando-fl/page/4
+[2024-10-23 20:01:45,979] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1124-crosstown-way_orlando-fl/page/4
+[2024-10-23 20:01:46,261] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:01:46,348] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1124-crosstown-way_orlando-fl/page/5
+[2024-10-23 20:02:32,247] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1124-crosstown-way_orlando-fl/page/5
+[2024-10-23 20:02:32,537] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:02:32,624] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1124-crosstown-way_orlando-fl/page/6
+[2024-10-23 20:03:23,993] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1124-crosstown-way_orlando-fl/page/6
+[2024-10-23 20:03:24,276] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:03:24,368] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1124-crosstown-way_orlando-fl/page/7
+[2024-10-23 20:04:17,280] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1124-crosstown-way_orlando-fl/page/7
+[2024-10-23 20:04:17,885] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:04:18,037] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1124-crosstown-way_orlando-fl/page/8
+[2024-10-23 20:04:51,567] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1124-crosstown-way_orlando-fl/page/8
+[2024-10-23 20:04:51,862] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:04:51,952] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1124-crosstown-way_orlando-fl/page/9
+[2024-10-23 20:05:15,898] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1124-crosstown-way_orlando-fl/page/9
+[2024-10-23 20:05:16,183] [INFO] [fps_address_scraper.py:91] Saved 7 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:05:16,273] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1124-crosstown-way_orlando-fl/page/10
+[2024-10-23 20:05:38,904] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1124-crosstown-way_orlando-fl/page/10
+[2024-10-23 20:05:38,933] [INFO] [fps_address_scraper.py:216] output_chunk_25.xlsx. Scraping 7 of 98
+[2024-10-23 20:05:38,935] [INFO] [fps_address_scraper.py:47] Original address: 11349 SW Discovery Way
+[2024-10-23 20:05:38,935] [INFO] [fps_address_scraper.py:57] Standardized address: 11349 SW Discovery Way
+[2024-10-23 20:05:39,141] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11349-sw-discovery-way_port-saint-lucie-fl/page/1
+[2024-10-23 20:06:15,980] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11349-sw-discovery-way_port-saint-lucie-fl/page/1
+[2024-10-23 20:06:16,278] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:06:16,371] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11349-sw-discovery-way_port-saint-lucie-fl/page/2
+[2024-10-23 20:07:08,508] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11349-sw-discovery-way_port-saint-lucie-fl/page/2
+[2024-10-23 20:07:08,808] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:07:08,903] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11349-sw-discovery-way_port-saint-lucie-fl/page/3
+[2024-10-23 20:08:01,387] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11349-sw-discovery-way_port-saint-lucie-fl/page/3
+[2024-10-23 20:08:01,728] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:08:01,822] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11349-sw-discovery-way_port-saint-lucie-fl/page/4
+[2024-10-23 20:08:39,941] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11349-sw-discovery-way_port-saint-lucie-fl/page/4
+[2024-10-23 20:08:40,252] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:08:40,347] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11349-sw-discovery-way_port-saint-lucie-fl/page/5
+[2024-10-23 20:09:32,054] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11349-sw-discovery-way_port-saint-lucie-fl/page/5
+[2024-10-23 20:09:32,325] [INFO] [fps_address_scraper.py:91] Saved 6 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:09:32,455] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11349-sw-discovery-way_port-saint-lucie-fl/page/6
+[2024-10-23 20:09:53,788] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11349-sw-discovery-way_port-saint-lucie-fl/page/6
+[2024-10-23 20:09:53,800] [INFO] [fps_address_scraper.py:216] output_chunk_25.xlsx. Scraping 8 of 98
+[2024-10-23 20:09:53,800] [INFO] [fps_address_scraper.py:47] Original address: 11385 SW 30 Ct
+[2024-10-23 20:09:53,800] [INFO] [fps_address_scraper.py:57] Standardized address: 11385 SW 30 Ct
+[2024-10-23 20:09:53,939] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11385-sw-30-ct_miramar-fl/page/1
+[2024-10-23 20:10:46,220] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11385-sw-30-ct_miramar-fl/page/1
+[2024-10-23 20:10:46,532] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:10:46,633] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11385-sw-30-ct_miramar-fl/page/2
+[2024-10-23 20:12:38,015] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11385-sw-30-ct_miramar-fl/page/2
+[2024-10-23 20:12:38,326] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:12:38,444] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11385-sw-30-ct_miramar-fl/page/3
+[2024-10-23 20:14:00,960] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11385-sw-30-ct_miramar-fl/page/3
+[2024-10-23 20:14:01,237] [INFO] [fps_address_scraper.py:91] Saved 1 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:14:01,340] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11385-sw-30-ct_miramar-fl/page/4
+[2024-10-23 20:14:24,267] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11385-sw-30-ct_miramar-fl/page/4
+[2024-10-23 20:14:24,280] [INFO] [fps_address_scraper.py:216] output_chunk_25.xlsx. Scraping 9 of 98
+[2024-10-23 20:14:24,281] [INFO] [fps_address_scraper.py:47] Original address: 11391 Square St
+[2024-10-23 20:14:24,281] [INFO] [fps_address_scraper.py:52] Replacing 'Square' with 'sq'
+[2024-10-23 20:14:24,281] [INFO] [fps_address_scraper.py:57] Standardized address: 11391 sq St
+[2024-10-23 20:14:24,384] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/1
+[2024-10-23 20:15:16,148] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/1
+[2024-10-23 20:15:16,471] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:15:16,572] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/2
+[2024-10-23 20:16:00,606] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/2
+[2024-10-23 20:16:00,929] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:16:01,033] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/3
+[2024-10-23 20:16:25,080] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/3
+[2024-10-23 20:16:25,413] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:16:25,520] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/4
+[2024-10-23 20:17:19,603] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/4
+[2024-10-23 20:17:19,975] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:17:20,085] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/5
+[2024-10-23 20:18:36,713] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/5
+[2024-10-23 20:18:37,084] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:18:37,193] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/6
+[2024-10-23 20:19:28,794] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/6
+[2024-10-23 20:19:29,138] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:19:29,249] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/7
+[2024-10-23 20:19:55,245] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/7
+[2024-10-23 20:19:55,588] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:19:55,700] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/8
+[2024-10-23 20:20:29,212] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/8
+[2024-10-23 20:20:29,585] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:20:29,739] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/9
+[2024-10-23 20:20:51,833] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/9
+[2024-10-23 20:20:52,181] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:20:52,364] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/10
+[2024-10-23 20:21:29,279] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/10
+[2024-10-23 20:21:29,623] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:21:29,739] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/11
+[2024-10-23 20:22:44,446] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/11
+[2024-10-23 20:22:44,790] [INFO] [fps_address_scraper.py:91] Saved 7 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:22:44,909] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/12
+[2024-10-23 20:23:06,756] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11391-sq-st_jacksonville-fl/page/12
+[2024-10-23 20:23:06,768] [INFO] [fps_address_scraper.py:216] output_chunk_25.xlsx. Scraping 10 of 98
+[2024-10-23 20:23:06,768] [INFO] [fps_address_scraper.py:47] Original address: 11481 NW 41st St
+[2024-10-23 20:23:06,769] [INFO] [fps_address_scraper.py:57] Standardized address: 11481 NW 41st St
+[2024-10-23 20:23:06,887] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/1
+[2024-10-23 20:23:53,865] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/1
+[2024-10-23 20:23:54,495] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:23:54,614] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/2
+[2024-10-23 20:24:46,652] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/2
+[2024-10-23 20:24:47,015] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:24:47,136] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/3
+[2024-10-23 20:25:14,681] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/3
+[2024-10-23 20:25:15,051] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:25:15,205] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/4
+[2024-10-23 20:26:42,831] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/4
+[2024-10-23 20:26:43,419] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:26:43,554] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/5
+[2024-10-23 20:27:07,731] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/5
+[2024-10-23 20:27:08,092] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:27:08,218] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/6
+[2024-10-23 20:28:00,422] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/6
+[2024-10-23 20:28:00,796] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:28:00,921] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/7
+[2024-10-23 20:28:27,536] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/7
+[2024-10-23 20:28:27,902] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:28:28,050] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/8
+[2024-10-23 20:29:01,005] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/8
+[2024-10-23 20:29:01,341] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:29:01,495] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/9
+[2024-10-23 20:29:53,329] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/9
+[2024-10-23 20:29:53,735] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:29:53,865] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/10
+[2024-10-23 20:30:45,808] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/10
+[2024-10-23 20:30:46,197] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:30:46,328] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/11
+[2024-10-23 20:31:15,062] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/11
+[2024-10-23 20:31:15,433] [INFO] [fps_address_scraper.py:91] Saved 7 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:31:15,589] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/12
+[2024-10-23 20:31:39,172] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11481-nw-41st-st_doral-fl/page/12
+[2024-10-23 20:31:39,185] [INFO] [fps_address_scraper.py:216] output_chunk_25.xlsx. Scraping 11 of 98
+[2024-10-23 20:31:39,186] [INFO] [fps_address_scraper.py:47] Original address: 115 Integra Reserve Ln
+[2024-10-23 20:31:39,186] [INFO] [fps_address_scraper.py:57] Standardized address: 115 Integra Reserve Ln
+[2024-10-23 20:31:39,318] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/115-integra-reserve-ln_debary-fl/page/1
+[2024-10-23 20:32:12,069] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/115-integra-reserve-ln_debary-fl/page/1
+[2024-10-23 20:32:12,475] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:32:12,606] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/115-integra-reserve-ln_debary-fl/page/2
+[2024-10-23 20:33:04,693] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/115-integra-reserve-ln_debary-fl/page/2
+[2024-10-23 20:33:05,078] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:33:05,210] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/115-integra-reserve-ln_debary-fl/page/3
+[2024-10-23 20:33:27,120] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/115-integra-reserve-ln_debary-fl/page/3
+[2024-10-23 20:33:27,512] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:33:27,671] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/115-integra-reserve-ln_debary-fl/page/4
+[2024-10-23 20:34:19,543] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/115-integra-reserve-ln_debary-fl/page/4
+[2024-10-23 20:34:20,007] [INFO] [fps_address_scraper.py:91] Saved 3 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:34:20,145] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/115-integra-reserve-ln_debary-fl/page/5
+[2024-10-23 20:34:43,121] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/115-integra-reserve-ln_debary-fl/page/5
+[2024-10-23 20:34:43,135] [INFO] [fps_address_scraper.py:216] output_chunk_25.xlsx. Scraping 12 of 98
+[2024-10-23 20:34:43,135] [INFO] [fps_address_scraper.py:47] Original address: 1155 NE 126th St
+[2024-10-23 20:34:43,135] [INFO] [fps_address_scraper.py:57] Standardized address: 1155 NE 126th St
+[2024-10-23 20:34:43,272] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/1
+[2024-10-23 20:35:18,713] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/1
+[2024-10-23 20:35:19,108] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:35:19,270] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/2
+[2024-10-23 20:35:59,664] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/2
+[2024-10-23 20:36:00,079] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:36:00,217] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/3
+[2024-10-23 20:36:21,665] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/3
+[2024-10-23 20:36:22,061] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:36:22,200] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/4
+[2024-10-23 20:36:43,878] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/4
+[2024-10-23 20:36:44,283] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:36:44,448] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/5
+[2024-10-23 20:37:43,335] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/5
+[2024-10-23 20:37:43,744] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:37:43,889] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/6
+[2024-10-23 20:38:35,428] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/6
+[2024-10-23 20:38:35,839] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:38:35,984] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/7
+[2024-10-23 20:40:32,003] [ERROR] [fps_address_scraper.py:24] Could not get successful response. Status code 500. {"status":"Failed to get successful response from website. Please retry the request."}
+[2024-10-23 20:40:32,003] [WARNING] [api.py:40] Request failed. Status code 500, retrying in 1 seconds...
+[2024-10-23 20:41:03,188] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/7
+[2024-10-23 20:41:03,636] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:41:03,780] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/8
+[2024-10-23 20:41:55,556] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/8
+[2024-10-23 20:41:55,985] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:41:56,131] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/9
+[2024-10-23 20:42:49,520] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/9
+[2024-10-23 20:42:49,946] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:42:50,120] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/10
+[2024-10-23 20:43:15,311] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/10
+[2024-10-23 20:43:15,733] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:43:15,881] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/11
+[2024-10-23 20:43:39,564] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/11
+[2024-10-23 20:43:39,982] [INFO] [fps_address_scraper.py:91] Saved 5 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:43:40,165] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/12
+[2024-10-23 20:44:02,272] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1155-ne-126th-st_north-miami-fl/page/12
+[2024-10-23 20:44:02,283] [INFO] [fps_address_scraper.py:216] output_chunk_25.xlsx. Scraping 13 of 98
+[2024-10-23 20:44:02,284] [INFO] [fps_address_scraper.py:47] Original address: 11590 SW Roma Way
+[2024-10-23 20:44:02,284] [INFO] [fps_address_scraper.py:57] Standardized address: 11590 SW Roma Way
+[2024-10-23 20:44:02,436] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11590-sw-roma-way_port-saint-lucie-fl/page/1
+[2024-10-23 20:44:56,120] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11590-sw-roma-way_port-saint-lucie-fl/page/1
+[2024-10-23 20:44:56,543] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:44:56,693] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11590-sw-roma-way_port-saint-lucie-fl/page/2
+[2024-10-23 20:45:48,854] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11590-sw-roma-way_port-saint-lucie-fl/page/2
+[2024-10-23 20:45:49,316] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:45:49,469] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11590-sw-roma-way_port-saint-lucie-fl/page/3
+[2024-10-23 20:46:11,743] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11590-sw-roma-way_port-saint-lucie-fl/page/3
+[2024-10-23 20:46:12,180] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:46:12,335] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11590-sw-roma-way_port-saint-lucie-fl/page/4
+[2024-10-23 20:46:50,142] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11590-sw-roma-way_port-saint-lucie-fl/page/4
+[2024-10-23 20:46:50,610] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:46:50,782] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11590-sw-roma-way_port-saint-lucie-fl/page/5
+[2024-10-23 20:47:24,152] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11590-sw-roma-way_port-saint-lucie-fl/page/5
+[2024-10-23 20:47:25,127] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:47:25,499] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11590-sw-roma-way_port-saint-lucie-fl/page/6
+[2024-10-23 20:48:16,903] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11590-sw-roma-way_port-saint-lucie-fl/page/6
+[2024-10-23 20:48:17,452] [INFO] [fps_address_scraper.py:91] Saved 8 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:48:17,611] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11590-sw-roma-way_port-saint-lucie-fl/page/7
+[2024-10-23 20:48:40,739] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11590-sw-roma-way_port-saint-lucie-fl/page/7
+[2024-10-23 20:48:40,751] [INFO] [fps_address_scraper.py:216] output_chunk_25.xlsx. Scraping 14 of 98
+[2024-10-23 20:48:40,752] [INFO] [fps_address_scraper.py:47] Original address: 11598 Lachlan Ln
+[2024-10-23 20:48:40,752] [INFO] [fps_address_scraper.py:57] Standardized address: 11598 Lachlan Ln
+[2024-10-23 20:48:40,912] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11598-lachlan-ln_windermere-fl/page/1
+[2024-10-23 20:49:07,868] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11598-lachlan-ln_windermere-fl/page/1
+[2024-10-23 20:49:08,316] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:49:08,503] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11598-lachlan-ln_windermere-fl/page/2
+[2024-10-23 20:49:31,076] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11598-lachlan-ln_windermere-fl/page/2
+[2024-10-23 20:49:31,523] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:49:31,684] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11598-lachlan-ln_windermere-fl/page/3
+[2024-10-23 20:49:55,773] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11598-lachlan-ln_windermere-fl/page/3
+[2024-10-23 20:49:56,231] [INFO] [fps_address_scraper.py:91] Saved 2 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:49:56,392] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11598-lachlan-ln_windermere-fl/page/4
+[2024-10-23 20:50:17,722] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11598-lachlan-ln_windermere-fl/page/4
+[2024-10-23 20:50:17,735] [INFO] [fps_address_scraper.py:216] output_chunk_25.xlsx. Scraping 15 of 98
+[2024-10-23 20:50:17,736] [INFO] [fps_address_scraper.py:47] Original address: 1170 NW 11th St
+[2024-10-23 20:50:17,736] [INFO] [fps_address_scraper.py:57] Standardized address: 1170 NW 11th St
+[2024-10-23 20:50:17,899] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/1
+[2024-10-23 20:51:09,706] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/1
+[2024-10-23 20:51:10,167] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:51:10,357] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/2
+[2024-10-23 20:51:40,583] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/2
+[2024-10-23 20:51:41,029] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:51:41,211] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/3
+[2024-10-23 20:52:32,993] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/3
+[2024-10-23 20:52:33,472] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:52:33,638] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/4
+[2024-10-23 20:53:28,087] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/4
+[2024-10-23 20:53:28,551] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:53:28,741] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/5
+[2024-10-23 20:54:20,172] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/5
+[2024-10-23 20:54:20,634] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:54:20,803] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/6
+[2024-10-23 20:54:47,399] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/6
+[2024-10-23 20:54:47,888] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:54:48,085] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/7
+[2024-10-23 20:55:13,354] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/7
+[2024-10-23 20:55:13,816] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:55:13,988] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/8
+[2024-10-23 20:55:46,630] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/8
+[2024-10-23 20:55:47,137] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:55:47,312] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/9
+[2024-10-23 20:56:21,071] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/9
+[2024-10-23 20:56:21,639] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:56:21,840] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/10
+[2024-10-23 20:56:44,021] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/10
+[2024-10-23 20:56:44,491] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:56:44,664] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/11
+[2024-10-23 20:57:11,456] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/11
+[2024-10-23 20:57:12,049] [INFO] [fps_address_scraper.py:91] Saved 5 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:57:12,262] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/12
+[2024-10-23 20:57:33,184] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/1170-nw-11th-st_miami-fl/page/12
+[2024-10-23 20:57:33,196] [INFO] [fps_address_scraper.py:216] output_chunk_25.xlsx. Scraping 16 of 98
+[2024-10-23 20:57:33,196] [INFO] [fps_address_scraper.py:47] Original address: 11700 SW 26th St
+[2024-10-23 20:57:33,196] [INFO] [fps_address_scraper.py:57] Standardized address: 11700 SW 26th St
+[2024-10-23 20:57:33,373] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11700-sw-26th-st_miramar-fl/page/1
+[2024-10-23 20:58:01,474] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11700-sw-26th-st_miramar-fl/page/1
+[2024-10-23 20:58:02,036] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:58:02,215] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11700-sw-26th-st_miramar-fl/page/2
+[2024-10-23 20:58:29,753] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11700-sw-26th-st_miramar-fl/page/2
+[2024-10-23 20:58:30,585] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:58:30,967] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11700-sw-26th-st_miramar-fl/page/3
+[2024-10-23 20:59:00,620] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11700-sw-26th-st_miramar-fl/page/3
+[2024-10-23 20:59:01,120] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:59:01,386] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11700-sw-26th-st_miramar-fl/page/4
+[2024-10-23 20:59:40,917] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11700-sw-26th-st_miramar-fl/page/4
+[2024-10-23 20:59:41,424] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 20:59:41,604] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11700-sw-26th-st_miramar-fl/page/5
+[2024-10-23 21:00:10,230] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11700-sw-26th-st_miramar-fl/page/5
+[2024-10-23 21:00:10,768] [INFO] [fps_address_scraper.py:91] Saved 10 entries in /home/ubuntu/scripts/result_file/output_chunk_25.xlsx
+[2024-10-23 21:00:10,951] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11700-sw-26th-st_miramar-fl/page/6
