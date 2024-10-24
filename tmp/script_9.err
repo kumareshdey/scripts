@@ -574,3 +574,83 @@
 [2024-10-23 21:00:00,838] [INFO] [fps_address_scraper.py:91] Saved 8 entries in /home/ubuntu/scripts/result_file/output_chunk_9.xlsx
 [2024-10-23 21:00:03,012] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/4921-white-settlement-rd_fort-worth-tx/page/12
 [2024-10-23 21:00:26,818] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/4921-white-settlement-rd_fort-worth-tx/page/12
+[2024-10-23 21:03:28,903] [INFO] [fps_address_scraper.py:216] output_chunk_9.xlsx. Scraping 94 of 98
+[2024-10-23 21:03:28,903] [INFO] [fps_address_scraper.py:47] Original address: 4855 Magnolia Cove Dr
+[2024-10-23 21:03:28,903] [INFO] [fps_address_scraper.py:57] Standardized address: 4855 Magnolia Cove Dr
+[2024-10-23 21:03:36,088] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4855-magnolia-cove-dr_kingwood-tx/page/1 because already scraped.
+[2024-10-23 21:03:38,263] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4855-magnolia-cove-dr_kingwood-tx/page/2 because already scraped.
+[2024-10-23 21:03:40,641] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4855-magnolia-cove-dr_kingwood-tx/page/3 because already scraped.
+[2024-10-23 21:03:42,700] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4855-magnolia-cove-dr_kingwood-tx/page/4 because already scraped.
+[2024-10-23 21:03:44,871] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4855-magnolia-cove-dr_kingwood-tx/page/5 because already scraped.
+[2024-10-23 21:03:47,331] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4855-magnolia-cove-dr_kingwood-tx/page/6 because already scraped.
+[2024-10-23 21:03:49,089] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4855-magnolia-cove-dr_kingwood-tx/page/7 because already scraped.
+[2024-10-23 21:03:50,611] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4855-magnolia-cove-dr_kingwood-tx/page/8 because already scraped.
+[2024-10-23 21:03:52,091] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4855-magnolia-cove-dr_kingwood-tx/page/9 because already scraped.
+[2024-10-23 21:03:53,529] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4855-magnolia-cove-dr_kingwood-tx/page/10 because already scraped.
+[2024-10-23 21:03:54,981] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4855-magnolia-cove-dr_kingwood-tx/page/11 because already scraped.
+[2024-10-23 21:03:56,458] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/4855-magnolia-cove-dr_kingwood-tx/page/12
+[2024-10-23 21:04:19,598] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/4855-magnolia-cove-dr_kingwood-tx/page/12
+[2024-10-23 21:04:19,643] [INFO] [fps_address_scraper.py:216] output_chunk_9.xlsx. Scraping 95 of 98
+[2024-10-23 21:04:19,643] [INFO] [fps_address_scraper.py:47] Original address: 490 Barnes Dr
+[2024-10-23 21:04:19,645] [INFO] [fps_address_scraper.py:57] Standardized address: 490 Barnes Dr
+[2024-10-23 21:04:21,557] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/490-barnes-dr_san-marcos-tx/page/1 because already scraped.
+[2024-10-23 21:04:22,972] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/490-barnes-dr_san-marcos-tx/page/2 because already scraped.
+[2024-10-23 21:04:26,250] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/490-barnes-dr_san-marcos-tx/page/3 because already scraped.
+[2024-10-23 21:04:29,043] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/490-barnes-dr_san-marcos-tx/page/4 because already scraped.
+[2024-10-23 21:04:30,728] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/490-barnes-dr_san-marcos-tx/page/5 because already scraped.
+[2024-10-23 21:04:32,147] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/490-barnes-dr_san-marcos-tx/page/6 because already scraped.
+[2024-10-23 21:04:33,931] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/490-barnes-dr_san-marcos-tx/page/7 because already scraped.
+[2024-10-23 21:04:35,356] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/490-barnes-dr_san-marcos-tx/page/8 because already scraped.
+[2024-10-23 21:04:36,787] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/490-barnes-dr_san-marcos-tx/page/9 because already scraped.
+[2024-10-23 21:04:38,245] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/490-barnes-dr_san-marcos-tx/page/10 because already scraped.
+[2024-10-23 21:04:39,933] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/490-barnes-dr_san-marcos-tx/page/11 because already scraped.
+[2024-10-23 21:04:41,571] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/490-barnes-dr_san-marcos-tx/page/12
+[2024-10-23 21:05:05,304] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/490-barnes-dr_san-marcos-tx/page/12
+[2024-10-23 21:05:05,319] [INFO] [fps_address_scraper.py:216] output_chunk_9.xlsx. Scraping 96 of 98
+[2024-10-23 21:05:05,320] [INFO] [fps_address_scraper.py:47] Original address: 4900 Gage Ave
+[2024-10-23 21:05:05,320] [INFO] [fps_address_scraper.py:57] Standardized address: 4900 Gage Ave
+[2024-10-23 21:05:07,065] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4900-gage-ave_fort-worth-tx/page/1 because already scraped.
+[2024-10-23 21:05:08,641] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4900-gage-ave_fort-worth-tx/page/2 because already scraped.
+[2024-10-23 21:05:10,516] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4900-gage-ave_fort-worth-tx/page/3 because already scraped.
+[2024-10-23 21:05:12,761] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4900-gage-ave_fort-worth-tx/page/4 because already scraped.
+[2024-10-23 21:05:14,947] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4900-gage-ave_fort-worth-tx/page/5 because already scraped.
+[2024-10-23 21:05:17,371] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4900-gage-ave_fort-worth-tx/page/6 because already scraped.
+[2024-10-23 21:05:20,092] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4900-gage-ave_fort-worth-tx/page/7 because already scraped.
+[2024-10-23 21:05:22,402] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4900-gage-ave_fort-worth-tx/page/8 because already scraped.
+[2024-10-23 21:05:25,028] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4900-gage-ave_fort-worth-tx/page/9 because already scraped.
+[2024-10-23 21:05:26,966] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4900-gage-ave_fort-worth-tx/page/10 because already scraped.
+[2024-10-23 21:05:28,599] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4900-gage-ave_fort-worth-tx/page/11 because already scraped.
+[2024-10-23 21:05:30,133] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/4900-gage-ave_fort-worth-tx/page/12
+[2024-10-23 21:05:54,297] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/4900-gage-ave_fort-worth-tx/page/12
+[2024-10-23 21:05:54,313] [INFO] [fps_address_scraper.py:216] output_chunk_9.xlsx. Scraping 97 of 98
+[2024-10-23 21:05:54,313] [INFO] [fps_address_scraper.py:47] Original address: 4910 E 7th St
+[2024-10-23 21:05:54,313] [INFO] [fps_address_scraper.py:57] Standardized address: 4910 E 7th St
+[2024-10-23 21:05:55,731] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4910-e-7th-st_austin-tx/page/1 because already scraped.
+[2024-10-23 21:05:57,136] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4910-e-7th-st_austin-tx/page/2 because already scraped.
+[2024-10-23 21:05:58,543] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4910-e-7th-st_austin-tx/page/3 because already scraped.
+[2024-10-23 21:05:59,948] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4910-e-7th-st_austin-tx/page/4 because already scraped.
+[2024-10-23 21:06:01,355] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4910-e-7th-st_austin-tx/page/5 because already scraped.
+[2024-10-23 21:06:02,732] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4910-e-7th-st_austin-tx/page/6 because already scraped.
+[2024-10-23 21:06:04,134] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4910-e-7th-st_austin-tx/page/7 because already scraped.
+[2024-10-23 21:06:05,550] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4910-e-7th-st_austin-tx/page/8 because already scraped.
+[2024-10-23 21:06:06,967] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4910-e-7th-st_austin-tx/page/9 because already scraped.
+[2024-10-23 21:06:08,378] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4910-e-7th-st_austin-tx/page/10 because already scraped.
+[2024-10-23 21:06:09,793] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4910-e-7th-st_austin-tx/page/11 because already scraped.
+[2024-10-23 21:06:11,211] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/4910-e-7th-st_austin-tx/page/12
+[2024-10-23 21:06:29,709] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/4910-e-7th-st_austin-tx/page/12
+[2024-10-23 21:06:29,724] [INFO] [fps_address_scraper.py:216] output_chunk_9.xlsx. Scraping 98 of 98
+[2024-10-23 21:06:29,724] [INFO] [fps_address_scraper.py:47] Original address: 4921 White Settlement Rd
+[2024-10-23 21:06:29,724] [INFO] [fps_address_scraper.py:57] Standardized address: 4921 White Settlement Rd
+[2024-10-23 21:06:31,116] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4921-white-settlement-rd_fort-worth-tx/page/1 because already scraped.
+[2024-10-23 21:06:32,524] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4921-white-settlement-rd_fort-worth-tx/page/2 because already scraped.
+[2024-10-23 21:06:33,937] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4921-white-settlement-rd_fort-worth-tx/page/3 because already scraped.
+[2024-10-23 21:06:35,347] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4921-white-settlement-rd_fort-worth-tx/page/4 because already scraped.
+[2024-10-23 21:06:36,775] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4921-white-settlement-rd_fort-worth-tx/page/5 because already scraped.
+[2024-10-23 21:06:38,158] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4921-white-settlement-rd_fort-worth-tx/page/6 because already scraped.
+[2024-10-23 21:06:39,579] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4921-white-settlement-rd_fort-worth-tx/page/7 because already scraped.
+[2024-10-23 21:06:41,074] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4921-white-settlement-rd_fort-worth-tx/page/8 because already scraped.
+[2024-10-23 21:06:42,534] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4921-white-settlement-rd_fort-worth-tx/page/9 because already scraped.
+[2024-10-23 21:06:43,942] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4921-white-settlement-rd_fort-worth-tx/page/10 because already scraped.
+[2024-10-23 21:06:45,858] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/4921-white-settlement-rd_fort-worth-tx/page/11 because already scraped.
+[2024-10-23 21:06:47,312] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/4921-white-settlement-rd_fort-worth-tx/page/12
+[2024-10-23 21:07:10,209] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/4921-white-settlement-rd_fort-worth-tx/page/12

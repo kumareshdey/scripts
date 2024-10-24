@@ -175,3 +175,47 @@
 2024-10-23 21:00:34,511 WARN stopped: script_11 (terminated by SIGTERM)
 2024-10-23 21:00:34,521 WARN stopped: script_10 (terminated by SIGTERM)
 2024-10-23 21:00:34,528 WARN stopped: script_1 (terminated by SIGTERM)
+2024-10-23 21:03:12,763 INFO daemonizing the supervisord process
+2024-10-23 21:03:12,764 INFO supervisord started with pid 3162
+2024-10-23 21:03:13,767 INFO spawned: 'script_1' with pid 3163
+2024-10-23 21:03:13,768 INFO spawned: 'script_10' with pid 3164
+2024-10-23 21:03:13,773 INFO spawned: 'script_11' with pid 3165
+2024-10-23 21:03:13,783 INFO spawned: 'script_12' with pid 3166
+2024-10-23 21:03:13,791 INFO spawned: 'script_13' with pid 3167
+2024-10-23 21:03:13,792 INFO spawned: 'script_14' with pid 3168
+2024-10-23 21:03:13,805 INFO spawned: 'script_15' with pid 3169
+2024-10-23 21:03:13,815 INFO spawned: 'script_16' with pid 3170
+2024-10-23 21:03:13,816 INFO spawned: 'script_17' with pid 3171
+2024-10-23 21:03:13,836 INFO spawned: 'script_18' with pid 3172
+2024-10-23 21:03:13,837 INFO spawned: 'script_19' with pid 3173
+2024-10-23 21:03:13,846 INFO spawned: 'script_20' with pid 3174
+2024-10-23 21:03:13,859 INFO spawned: 'script_9' with pid 3175
+2024-10-23 21:03:14,863 INFO success: script_1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-23 21:03:14,863 INFO success: script_10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-23 21:03:14,863 INFO success: script_11 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-23 21:03:14,863 INFO success: script_12 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-23 21:03:14,863 INFO success: script_13 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-23 21:03:14,863 INFO success: script_14 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-23 21:03:14,863 INFO success: script_15 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-23 21:03:14,863 INFO success: script_16 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-23 21:03:14,863 INFO success: script_17 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-23 21:03:14,863 INFO success: script_18 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-23 21:03:14,863 INFO success: script_19 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-23 21:03:14,863 INFO success: script_20 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-23 21:03:14,863 INFO success: script_9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-23 21:07:10,307 INFO exited: script_9 (exit status 0; expected)
+2024-10-23 21:27:38,443 INFO exited: script_10 (exit status 0; expected)
+2024-10-24 01:53:21,481 INFO exited: script_1 (exit status 0; expected)
+2024-10-24 04:34:51,869 INFO exited: script_20 (exit status 0; expected)
+2024-10-24 04:47:30,245 INFO exited: script_19 (exit status 0; expected)
+2024-10-24 05:22:26,932 INFO exited: script_14 (exit status 0; expected)
+2024-10-24 05:35:26,187 WARN received SIGTERM indicating exit request
+2024-10-24 05:35:26,187 INFO waiting for script_11, script_12, script_13, script_15, script_16, script_17, script_18 to die
+2024-10-24 05:35:28,345 WARN stopped: script_18 (terminated by SIGTERM)
+2024-10-24 05:35:28,356 WARN stopped: script_17 (terminated by SIGTERM)
+2024-10-24 05:35:28,367 WARN stopped: script_16 (terminated by SIGTERM)
+2024-10-24 05:35:28,379 WARN stopped: script_15 (terminated by SIGTERM)
+2024-10-24 05:35:29,380 INFO waiting for script_11, script_12, script_13 to die
+2024-10-24 05:35:29,392 WARN stopped: script_13 (terminated by SIGTERM)
+2024-10-24 05:35:29,404 WARN stopped: script_12 (terminated by SIGTERM)
+2024-10-24 05:35:29,415 WARN stopped: script_11 (terminated by SIGTERM)
