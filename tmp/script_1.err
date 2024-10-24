@@ -2680,3 +2680,18 @@ By continuing to use this site, you accept our use of cookies, <a href="/privacy
 [2024-10-24 01:52:54,843] [INFO] [fps_address_scraper.py:91] Saved 9 entries in /home/ubuntu/scripts/result_file/output_chunk_1.xlsx
 [2024-10-24 01:52:57,539] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11700-luna-rd_farmers-branch-tx/page/12
 [2024-10-24 01:53:21,302] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/11700-luna-rd_farmers-branch-tx/page/12
+[2024-10-24 05:46:13,666] [INFO] [fps_address_scraper.py:216] output_chunk_1.xlsx. Scraping 93 of 98
+[2024-10-24 05:46:13,670] [INFO] [fps_address_scraper.py:47] Original address: 11500 Lago Vista E
+[2024-10-24 05:46:13,670] [INFO] [fps_address_scraper.py:57] Standardized address: 11500 Lago Vista E
+[2024-10-24 05:46:16,858] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/11500-lago-vista-e_farmers-branch-tx/page/1 because already scraped.
+[2024-10-24 05:46:20,122] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/11500-lago-vista-e_farmers-branch-tx/page/2 because already scraped.
+[2024-10-24 05:46:22,659] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/11500-lago-vista-e_farmers-branch-tx/page/3 because already scraped.
+[2024-10-24 05:46:25,179] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/11500-lago-vista-e_farmers-branch-tx/page/4 because already scraped.
+[2024-10-24 05:46:28,484] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/11500-lago-vista-e_farmers-branch-tx/page/5 because already scraped.
+[2024-10-24 05:46:31,221] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/11500-lago-vista-e_farmers-branch-tx/page/6 because already scraped.
+[2024-10-24 05:46:33,868] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/11500-lago-vista-e_farmers-branch-tx/page/7 because already scraped.
+[2024-10-24 05:46:36,259] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/11500-lago-vista-e_farmers-branch-tx/page/8 because already scraped.
+[2024-10-24 05:46:38,926] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/11500-lago-vista-e_farmers-branch-tx/page/9 because already scraped.
+[2024-10-24 05:46:41,172] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/11500-lago-vista-e_farmers-branch-tx/page/10 because already scraped.
+[2024-10-24 05:46:42,737] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/11500-lago-vista-e_farmers-branch-tx/page/11 because already scraped.
+[2024-10-24 05:46:43,795] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/11500-lago-vista-e_farmers-branch-tx/page/12

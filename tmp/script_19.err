@@ -2958,3 +2958,29 @@
 [2024-10-24 04:47:04,895] [INFO] [fps_address_scraper.py:91] Saved 8 entries in /home/ubuntu/scripts/result_file/output_chunk_19.xlsx
 [2024-10-24 04:47:06,070] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2250-hawkins-st_charlotte-nc/page/12
 [2024-10-24 04:47:29,036] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2250-hawkins-st_charlotte-nc/page/12
+[2024-10-24 05:46:11,909] [INFO] [fps_address_scraper.py:216] output_chunk_19.xlsx. Scraping 91 of 98
+[2024-10-24 05:46:11,910] [INFO] [fps_address_scraper.py:47] Original address: 2130 Clark Ave
+[2024-10-24 05:46:11,910] [INFO] [fps_address_scraper.py:57] Standardized address: 2130 Clark Ave
+[2024-10-24 05:46:14,842] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2130-clark-ave_raleigh-nc/page/1
+[2024-10-24 05:46:36,245] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2130-clark-ave_raleigh-nc/page/1
+[2024-10-24 05:46:36,290] [INFO] [fps_address_scraper.py:216] output_chunk_19.xlsx. Scraping 92 of 98
+[2024-10-24 05:46:36,290] [INFO] [fps_address_scraper.py:47] Original address: 2200 Dunavant St
+[2024-10-24 05:46:36,290] [INFO] [fps_address_scraper.py:57] Standardized address: 2200 Dunavant St
+[2024-10-24 05:46:38,338] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/2200-dunavant-st_charlotte-nc/page/1 because already scraped.
+[2024-10-24 05:46:40,222] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2200-dunavant-st_charlotte-nc/page/2
+[2024-10-24 05:47:21,331] [INFO] [fps_address_scraper.py:26] Got successful response from https://www.fastpeoplesearch.com/address/2200-dunavant-st_charlotte-nc/page/2
+[2024-10-24 05:47:21,344] [INFO] [fps_address_scraper.py:216] output_chunk_19.xlsx. Scraping 93 of 98
+[2024-10-24 05:47:21,345] [INFO] [fps_address_scraper.py:47] Original address: 2211 Hillsborough Rd
+[2024-10-24 05:47:21,345] [INFO] [fps_address_scraper.py:57] Standardized address: 2211 Hillsborough Rd
+[2024-10-24 05:47:22,186] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/2211-hillsborough-rd_durham-nc/page/1 because already scraped.
+[2024-10-24 05:47:23,012] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/2211-hillsborough-rd_durham-nc/page/2 because already scraped.
+[2024-10-24 05:47:23,853] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/2211-hillsborough-rd_durham-nc/page/3 because already scraped.
+[2024-10-24 05:47:24,681] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/2211-hillsborough-rd_durham-nc/page/4 because already scraped.
+[2024-10-24 05:47:25,513] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/2211-hillsborough-rd_durham-nc/page/5 because already scraped.
+[2024-10-24 05:47:26,364] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/2211-hillsborough-rd_durham-nc/page/6 because already scraped.
+[2024-10-24 05:47:27,186] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/2211-hillsborough-rd_durham-nc/page/7 because already scraped.
+[2024-10-24 05:47:28,009] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/2211-hillsborough-rd_durham-nc/page/8 because already scraped.
+[2024-10-24 05:47:28,860] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/2211-hillsborough-rd_durham-nc/page/9 because already scraped.
+[2024-10-24 05:47:29,695] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/2211-hillsborough-rd_durham-nc/page/10 because already scraped.
+[2024-10-24 05:47:30,542] [INFO] [fps_address_scraper.py:182] Skipping https://www.fastpeoplesearch.com/address/2211-hillsborough-rd_durham-nc/page/11 because already scraped.
+[2024-10-24 05:47:31,371] [INFO] [fps_address_scraper.py:185] Scraping https://www.fastpeoplesearch.com/address/2211-hillsborough-rd_durham-nc/page/12
