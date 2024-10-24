@@ -213,10 +213,13 @@ if __name__ == '__main__':
             start = 0
             
         for index in range(start, len(df)):
-            log.info(f"{file.split('/')[-1]}. Scraping {index+1} of {len(df)}")
-            row = df.iloc[index]
-            url = generate_url(row)
-            get_me_data(url, row, file.split('/')[-1])
+            try:
+                log.info(f"{file.split('/')[-1]}. Scraping {index+1} of {len(df)}")
+                row = df.iloc[index]
+                url = generate_url(row)
+                get_me_data(url, row, file.split('/')[-1])
+            except:
+                log.info(f"Failed : {url}")
     except KeyboardInterrupt:
         log.error("Keyboard interruption. Exiting the script.")
         sys.exit(1)

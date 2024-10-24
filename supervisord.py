@@ -17,7 +17,7 @@ with open(output_conf_file, 'w') as conf_file:
 
     # Loop to generate a config section for each file
     for i in range(start, num_chunks + 1):
-        if i in [2,3,4,5,6,7,8, 1, 9, 10, 19,20, 14]:
+        if i in [2,3,4,5,6,7,8, 1, 9, 10, 19,20, 14, 18, 17, 13, 11, 15, 12]:
             continue
         program_name = f'script_{i}'
         excel_file = os.path.join(base_dir, f'output_chunk_{i}.xlsx')
